@@ -54,7 +54,7 @@ a:hover {
 .headerbar {
     font-size: 12px;
     padding: 10px;
-    background: linear-gradient(309deg, var(--yellow), var(--yellow), var(--red));
+    background: linear-gradient(150deg, var(--green), var(--yellow), var(--red));
     background-size: 200%;
     animation: wave 6s infinite alternate;
 }
@@ -80,6 +80,7 @@ p {
 .headerGrid {
     justify-content: space-between;
     display: grid;
+    align-items: center;
     grid-template-rows: auto;
     grid-template-columns: auto auto auto auto;
 }
@@ -267,6 +268,14 @@ p {
     background-color: var(--black);
 }
 
+.courses {
+    position: relative;
+}
+
+.aniright {
+    right: -30px
+}
+
 .courseCard {
     padding: 10px;
     border-radius: 10px;
@@ -276,11 +285,18 @@ p {
 }
 
 .courseCard:hover {
-
+    background: #cdcccc;
+    border: none;
     box-shadow: 20px 20px 60px #d9d9d9,
         -20px -20px 60px #ffffff;
     cursor: pointer;
 }
+
+/* 
+.courseCard:hover h4 {
+    top: -20px;
+    transition: ease-in-out all .5s;
+} */
 
 @keyframes borderwave {
     0% {
@@ -317,7 +333,7 @@ p {
     font-weight: bold;
     font-size: 1rem;
     margin: 0;
-
+    position: relative;
 }
 
 
@@ -343,4 +359,111 @@ p {
 
 .partner:nth-child(odd) {
     background-color: #efefef;
+}
+
+footer {
+    padding: 40px 0;
+    background: var(--black);
+}
+
+.obriginal {
+    margin: 10px 0;
+    background: rgba(0, 0, 0, 0.538);
+    padding: 20px;
+    box-shadow: 0 0 8px #525252;
+    border-radius: 10px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.obriginal p {
+    font-weight: 200;
+    color: white;
+}
+
+.foottab h4 {
+    color: var(--green);
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.foottab ul {
+    list-style-type: none;
+}
+
+.foottab h6 {
+    color: var(--yellow);
+}
+
+.foottab p {
+    color: white;
+}
+
+.foottab a {
+    color: white;
+    text-transform: none;
+}
+
+.foottab ul li a {
+    color: rgba(255, 255, 255, 0.763);
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.foottab ul li a:hover {
+    color: var(--yellow);
+    margin-left: 10px;
+
+}
+
+.foottab ul li {
+    margin-bottom: 5px;
+
+}
+
+.foottab ul li::before {
+    content: '→ ';
+    color: white;
+}
+
+.footbar {
+    background: rgb(0, 0, 0);
+    padding: 20px 0;
+}
+
+.about {
+    position: relative;
+}
+
+.about p {
+    color: black;
+}
+
+.abouticon {
+    animation-name: ease;
+    animation: updown 3s infinite alternate;
+    opacity: 0.1;
+    z-index: -9;
+    transform: rotate(20deg);
+
+    position: absolute;
+
+}
+
+.anileft {
+    left: -10rem;
+}
+
+@keyframes updown {
+    from {
+        top: 20px;
+    }
+
+    to {
+        top: -50px;
+    }
+
 }
