@@ -1,0 +1,617 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* cursive */
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --yellow: #f7a30a;
+    --green: #7dba00;
+    --red: #e60d2e;
+    --black: #24292e;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    transition: ease-in-out all 350ms;
+    box-sizing: border-box;
+
+}
+
+a {
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #333;
+
+}
+
+
+
+.logo img {
+
+    /* width: 20%; */
+}
+
+.headerContent {
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+    grid-template-columns: 250px auto;
+}
+
+a:hover {
+    text-decoration: none;
+    color: initial;
+}
+
+.navbar a {
+    color: #333;
+    font-weight: 600;
+}
+
+.headerbar {
+    font-size: 12px;
+    padding: 10px;
+    background: linear-gradient(150deg, var(--green), var(--yellow), var(--red));
+    background-size: 200%;
+    animation: wave 6s infinite alternate;
+}
+
+@keyframes wave {
+    0% {
+        background-position: left;
+    }
+
+    100% {
+        background-position: right;
+    }
+}
+
+.headerbar div a,
+p {
+
+    font-weight: 600;
+    margin: 0;
+    color: white;
+}
+
+.headerGrid {
+    justify-content: space-between;
+    display: grid;
+    align-items: center;
+    grid-template-rows: auto;
+    grid-template-columns: auto;
+}
+
+
+section {
+    padding: 60px 0;
+}
+
+.heading {
+    margin-bottom: 30px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: wavy;
+    color: var(--black);
+    text-shadow: 0 1px 0 #ccc,
+        0 2px 0 #c9c9c9,
+        0 3px 0 #bbb,
+        0 4px 0 #b9b9b9,
+        0 5px 0 #aaa,
+        0 6px 1px rgba(0, 0, 0, .1),
+        0 0 5px rgba(0, 0, 0, .1),
+        0 1px 3px rgba(0, 0, 0, .3),
+        0 3px 5px rgba(0, 0, 0, .2),
+        0 5px 10px rgba(0, 0, 0, .25),
+        0 10px 10px rgba(0, 0, 0, .2),
+        0 20px 20px rgba(0, 0, 0, .15);
+}
+
+.heading:hover{
+    text-shadow: unset;
+}
+.heading::after {
+    content: "";
+    background: url(../img/headingDecorator.png)  center repeat;
+    background-size: contain;
+    bottom: -10px;
+    left: 0;
+
+    right: 400px;
+    transition: ease-in-out all 1s;
+    height: 5px;
+    position: absolute;
+}
+.heading:hover:after{
+    transition: ease-in-out all 1s;
+    right: 0;
+    
+}
+
+.banner {
+    padding: 0;
+}
+
+.banner h1 {
+    font-weight: bolder;
+    
+    /* text-transform: capitalize; */
+}
+
+.banner h1::first-line {
+
+    font-family: "Allura", cursive;
+    font-weight: 400;
+}
+
+.studentData {
+}
+
+.gridStudents {
+    display: grid;
+    gap: 20px;
+    grid-template-rows: auto;
+
+}
+.gridStudents>div{
+    background: #f2f2f2;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px #dfdfdf;
+}
+.gridStudents h1{
+    font-weight: 700;
+    color: var(--black);
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #555;
+    margin: 0;
+}
+
+.bggray {
+    background: #f9f9fb;
+}
+
+.btnCstm {
+    font-size: 16px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    padding: 13px 20px 13px;
+    outline: 0;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0);
+    user-select: none;
+    color: black;
+    -webkit-user-select: none;
+    font-weight: 600;
+    touch-action: manipulation;
+}
+
+.btnCstm:after {
+    content: "";
+    background-color: var(--yellow);
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    height: 100%;
+    top: 5px;
+    left: 5px;
+    transition: 0.2s;
+}
+
+.btnCstm:hover:after {
+    top: 0px;
+    color: black;
+    left: 0px;
+}
+
+.green::after {
+    background-color: var(--green) !important;
+}
+
+.sbox {
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.whyus{
+
+
+border-radius: 20px;
+box-shadow: inset 0 0 10px #dfdfdf;
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 20px;
+   
+}
+.whyimg{
+    border-radius: 20px;
+    overflow: hidden;
+    
+}
+/* service box design */
+.flex{
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.flex h6{
+    font-size: 14px;
+    font-weight: bold;
+}
+.sbox:hover {
+    box-shadow: 0 0 10px #dfdfdf;
+}
+
+
+.sicon {
+    box-shadow: 0 0 10px #dfdfdf;
+    height: 80px;
+    margin: 0 auto;
+    width: 80px;
+    display: grid;
+    place-content: center;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.whytxt{
+    padding: 5px 0;
+    text-align: center;
+}
+.stxt {
+    text-align: center;
+}
+
+
+.stxt h6 {
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+
+}
+
+.greenbox {
+    background-color: #7dba008c;
+}
+
+.greenicon {
+    background: var(--green);
+}
+
+.yellow {
+    background: #f7a30a7d;
+}
+
+.yellowicon {
+    background-color: var(--yellow);
+}
+
+.red {
+    background-color: #e60d2e6b;
+}
+
+.redicon {
+    background-color: var(--red);
+}
+
+.black {
+    background-color: #24292e69;
+}
+
+.blackicon {
+    background-color: var(--black);
+}
+
+.courses {
+    position: relative;
+}
+
+.aniright {
+    right: -30px
+}
+
+.courseCard {
+    overflow: hidden;
+    border-radius: 10px;
+    animation: borderwave 3s infinite alternate;
+    border: solid 1px #dfdfdf;
+    width: auto;
+}
+
+.courseCard:hover {
+  
+    box-shadow: 20px 20px 60px #d9d9d9,
+        -20px -20px 60px #ffffff;
+    cursor: pointer;
+}
+.courseCard:hover img{
+    transform: scale(1.3);
+    /* transform: rotate(5deg); */
+}
+
+.cardBody {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #dfdfdf;
+}
+
+.cardText {
+    padding: 10px;
+   
+}
+
+.cardText h4 {
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 1rem;
+    margin: 0;
+    position: relative;
+}
+
+
+.cardText p {
+    margin: 0;
+}
+
+.partner {
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    box-shadow: inset 0 0 10px #f9f9fb, 0 0 10px #dfdfdf;
+}
+footer {
+    padding: 40px 0;
+    background: var(--black);
+}
+
+.obriginal {
+    margin: 10px 0;
+    background: rgba(0, 0, 0, 0.538);
+    padding: 20px;
+    box-shadow: 0 0 8px #525252;
+    border-radius: 10px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.obriginal p {
+    font-weight: 200;
+    color: white;
+}
+
+.foottab h4 {
+    color: var(--green);
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.foottab ul {
+    list-style-type: none;
+}
+
+.foottab h6 {
+    color: var(--yellow);
+}
+
+.foottab p {
+    color: white;
+}
+
+.foottab a {
+    color: white;
+    text-transform: none;
+}
+
+.foottab ul li a {
+    color: rgba(255, 255, 255, 0.763);
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.foottab ul li a:hover {
+    color: var(--yellow);
+    margin-left: 10px;
+
+}
+
+.foottab ul li {
+    margin-bottom: 5px;
+
+}
+
+.foottab ul li::before {
+    content: '→ ';
+    color: white;
+}
+
+.footbar {
+    background: rgb(0, 0, 0);
+    padding: 20px 0;
+}
+.aboutImages{
+    display: flex;
+    
+}
+.aboutImage{
+    margin-left: 15px;
+    margin-bottom: 20px;
+   
+    
+    overflow: hidden;
+}
+.aboutImage:hover{
+    filter: drop-shadow(6px 10px 20px #ecb772a1);
+    box-shadow: 0 0 10px #dfdfdf;
+}
+.about {
+    position: relative;
+}
+
+.about p {
+    color: black;
+}
+.abouttxt a{
+    color: var(--black);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.abouticon {
+    animation-name: ease;
+    animation: updown 3s infinite alternate;
+    opacity: 0.1;
+    z-index: -9;
+    transform: rotate(20deg);
+
+    position: absolute;
+}
+.abouttxt>ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.abouttxt ul>li:hover a{
+    color: var(--green);
+}
+
+.anileft {
+    left: -10rem;
+}
+
+@keyframes updown {
+    from {
+        top: 20px;
+    }
+
+    to {
+        top: -50px;
+    }
+
+}
+
+/* //about us page desgin */
+
+.headersection{
+  position: relative;
+  background: url('https://img.freepik.com/free-photo/lifestyle-people-learning-make-sushi_23-2149865335.jpg?t=st=1724381038~exp=1724384638~hmac=69921d86c9cf85b71d139a1ce07034416584b86be149df258bfbddb60a8683eb&w=1380') no-repeat center fixed;
+  background-size: cover;
+   
+  /* background: linear-gradient(150deg, var(--green), var(--yellow), var(--red));
+    background-size: 200%;
+    
+    animation: wave 10s infinite alternate; */
+}
+.pageHeading{
+    color: white;
+    margin: 0;
+    font-size: 3.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.headerlayer{
+    position: absolute;
+    top: 0;
+    padding: 50px 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, .5);
+    /* background: linear-gradient(150deg, var(--green), var(--yellow), var(--red)); */
+}
+
+@media (min-width:320px){
+   
+    .headerGrid {
+        grid-template-columns: auto ;
+    }
+    .headerGridBtn{
+        text-align-last: justify;
+    }
+    .banner h1 {
+
+        font-size: 2.9rem;
+        /* text-transform: capitalize; */
+    }
+    .abouttxt ul>li{
+        padding: 10px 0;
+    }
+    .whyimg{
+        text-align: center;
+    }
+    .obriginal{
+        flex-direction: column;
+    }
+    .gridStudents {
+       
+        grid-template-columns: 30% 30% 30%;
+    
+    }
+    .gridStudents>div{
+        padding: 5px;
+
+    }
+    .aboutImages{
+        align-items: center;
+        justify-content: center;
+    }
+    .aboutImage{
+        width: unset;
+    }
+}
+
+@media (min-width:420px){
+    
+}
+
+@media (min-width:768px){
+    .gridStudents>div{
+        padding: 20px;
+    }
+}
+@media (min-width:992px){
+    .headerGrid {
+        grid-template-columns: auto auto auto auto;
+    }
+    .banner h1 {
+
+        font-size: 3.5rem;
+        /* text-transform: capitalize; */
+    }
+    .abouttxt ul>li{
+        padding: 20px 0;
+    }
+    .whyimg{
+        text-align: right;
+    }
+    .obriginal{
+        flex-direction: row;
+    }
+    .gridStudents {
+        grid-template-columns: auto auto auto;
+    }
+    .aboutImage{
+        width: 180px;
+    }
+    .aboutImages{
+        align-items: unset;
+        justify-content: unset;
+    }
+    
+}
