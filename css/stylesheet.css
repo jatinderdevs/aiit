@@ -328,6 +328,7 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     animation: borderwave 3s infinite alternate;
     border: solid 1px #dfdfdf;
     width: auto;
+    margin-bottom: 30px;
 }
 
 .courseCard:hover {
@@ -574,6 +575,7 @@ footer {
         width: unset;
     }
 }
+
 
 @media (min-width:420px){
     
