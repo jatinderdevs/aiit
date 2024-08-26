@@ -82,7 +82,11 @@ p {
     display: grid;
     align-items: center;
     grid-template-rows: auto;
+<<<<<<< HEAD
     grid-template-columns: auto;
+=======
+    grid-template-columns: auto auto auto auto;
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 }
 
 
@@ -95,7 +99,10 @@ section {
     position: relative;
     text-transform: capitalize;
     font-weight: bold;
+<<<<<<< HEAD
     display: inline-block;
+=======
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
     text-decoration: wavy;
     color: var(--black);
     text-shadow: 0 1px 0 #ccc,
@@ -112,6 +119,7 @@ section {
         0 20px 20px rgba(0, 0, 0, .15);
 }
 
+<<<<<<< HEAD
 .heading:hover{
     text-shadow: unset;
 }
@@ -132,6 +140,19 @@ section {
     right: 0;
     
 }
+=======
+/* 
+.heading::after {
+    content: "";
+    background: url(../img/headingDecorator.png) center no-repeat;
+    bottom: 10px;
+    left: 0;
+
+    width: 100%;
+    height: 5px;
+    position: absolute;
+} */
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 
 .banner {
     padding: 0;
@@ -139,7 +160,11 @@ section {
 
 .banner h1 {
     font-weight: bolder;
+<<<<<<< HEAD
     
+=======
+    font-size: 3.5rem;
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
     /* text-transform: capitalize; */
 }
 
@@ -150,10 +175,15 @@ section {
 }
 
 .studentData {
+<<<<<<< HEAD
+=======
+    background: var(--black);
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 }
 
 .gridStudents {
     display: grid;
+<<<<<<< HEAD
     gap: 20px;
     grid-template-rows: auto;
 
@@ -168,6 +198,14 @@ section {
     font-weight: 700;
     color: var(--black);
 }
+=======
+    grid-template-columns: 55% 15% 15% 15%;
+    color: white;
+    justify-content: center;
+    align-items: center;
+
+}
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 
 p {
     font-size: 14px;
@@ -225,6 +263,7 @@ p {
     border-radius: 10px;
 }
 
+<<<<<<< HEAD
 .whyus{
 
 
@@ -251,6 +290,8 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     font-size: 14px;
     font-weight: bold;
 }
+=======
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 .sbox:hover {
     box-shadow: 0 0 10px #dfdfdf;
 }
@@ -267,15 +308,22 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     padding: 10px;
 }
 
+<<<<<<< HEAD
 .whytxt{
     padding: 5px 0;
     text-align: center;
 }
+=======
+
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 .stxt {
     text-align: center;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 .stxt h6 {
     font-weight: 600;
     text-transform: uppercase;
@@ -324,7 +372,11 @@ border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .courseCard {
+<<<<<<< HEAD
     overflow: hidden;
+=======
+    padding: 10px;
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
     border-radius: 10px;
     animation: borderwave 3s infinite alternate;
     border: solid 1px #dfdfdf;
@@ -332,14 +384,46 @@ border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .courseCard:hover {
+<<<<<<< HEAD
   
+=======
+    background: #cdcccc;
+    border: none;
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
     box-shadow: 20px 20px 60px #d9d9d9,
         -20px -20px 60px #ffffff;
     cursor: pointer;
 }
+<<<<<<< HEAD
 .courseCard:hover img{
     transform: scale(1.3);
     /* transform: rotate(5deg); */
+=======
+
+/* 
+.courseCard:hover h4 {
+    top: -20px;
+    transition: ease-in-out all .5s;
+} */
+
+@keyframes borderwave {
+    0% {
+        border-right-color: var(--green);
+
+    }
+
+    25% {
+        border-left-color: var(--red);
+    }
+
+    75% {
+        border-top-color: var(--black);
+    }
+
+    100% {
+        border-bottom-color: var(--yellow);
+    }
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 }
 
 .cardBody {
@@ -349,13 +433,22 @@ border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .cardText {
+<<<<<<< HEAD
     padding: 10px;
    
+=======
+    padding-top: 20px;
+
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 }
 
 .cardText h4 {
     text-transform: capitalize;
+<<<<<<< HEAD
     font-weight: 600;
+=======
+    font-weight: bold;
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
     font-size: 1rem;
     margin: 0;
     position: relative;
@@ -366,12 +459,35 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     margin: 0;
 }
 
+<<<<<<< HEAD
 .partner {
     padding: 10px;
     margin: 5px 0;
     border-radius: 5px;
     box-shadow: inset 0 0 10px #f9f9fb, 0 0 10px #dfdfdf;
 }
+=======
+.partnerflex {
+    display: flex;
+    gap: 0;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.partner img {
+    width: 150px;
+}
+
+.partner {
+    border: 1px solid #dfdfdf;
+    padding: 2rem;
+}
+
+.partner:nth-child(odd) {
+    background-color: #efefef;
+}
+
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 footer {
     padding: 40px 0;
     background: var(--black);
@@ -444,6 +560,7 @@ footer {
     background: rgb(0, 0, 0);
     padding: 20px 0;
 }
+<<<<<<< HEAD
 .aboutImages{
     display: flex;
     
@@ -459,6 +576,9 @@ footer {
     filter: drop-shadow(6px 10px 20px #ecb772a1);
     box-shadow: 0 0 10px #dfdfdf;
 }
+=======
+
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 .about {
     position: relative;
 }
@@ -466,11 +586,14 @@ footer {
 .about p {
     color: black;
 }
+<<<<<<< HEAD
 .abouttxt a{
     color: var(--black);
     font-size: 14px;
     font-weight: 500;
 }
+=======
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 
 .abouticon {
     animation-name: ease;
@@ -480,6 +603,7 @@ footer {
     transform: rotate(20deg);
 
     position: absolute;
+<<<<<<< HEAD
 }
 .abouttxt>ul{
     list-style-type: none;
@@ -489,6 +613,9 @@ footer {
 
 .abouttxt ul>li:hover a{
     color: var(--green);
+=======
+
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 }
 
 .anileft {
@@ -504,6 +631,7 @@ footer {
         top: -50px;
     }
 
+<<<<<<< HEAD
 }
 
 /* //about us page desgin */
@@ -614,4 +742,6 @@ footer {
         justify-content: unset;
     }
     
+=======
+>>>>>>> ba77daea5577d542df34061fbb9cdf6d7206fe76
 }
