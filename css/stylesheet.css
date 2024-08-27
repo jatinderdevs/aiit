@@ -535,7 +535,37 @@ footer {
     background: rgba(0, 0, 0, .5);
     /* background: linear-gradient(150deg, var(--green), var(--yellow), var(--red)); */
 }
+.portalCard{
+    box-shadow:inset 0 0 10px #dfdfdf;
+    padding: 30px;
+    margin-bottom: 30px;
+    border: 1px solid #f9f9f9;
+    filter: drop-shadow(0 0 10px #dfdfdf);
+    background: white;
+    border-radius: 20px;
+ 
+}
 
+.portalCard:hover{
+    box-shadow:unset;
+    filter: unset;
+    border: 1px solid #dfdfdf;
+}
+.portalCard:hover img{
+    transform: scale(1.1);
+}
+.portalCard h4{
+    text-transform: capitalize;
+   
+    text-align: center;
+    
+    font-weight: bold;
+}
+label{
+    text-transform: capitalize;
+    font-size: 12px;
+    margin-top:10px ;
+}
 @media (min-width:320px){
    
     .headerGrid {
@@ -574,6 +604,9 @@ footer {
     .aboutImage{
         width: unset;
     }
+    .portalCard h4{
+        font-size: .8rem;
+    }
 }
 
 
@@ -584,6 +617,9 @@ footer {
 @media (min-width:768px){
     .gridStudents>div{
         padding: 20px;
+    }
+    .portalCard h4{
+        font-size: 1rem;
     }
 }
 @media (min-width:992px){
