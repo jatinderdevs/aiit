@@ -117,7 +117,7 @@ section {
 }
 .heading::after {
     content: "";
-    background: url(../img/headingDecorator.png)  center repeat;
+    background: url('../img/headingDecorator.png')  center repeat;
     background-size: contain;
     bottom: -10px;
     left: 0;
@@ -512,29 +512,56 @@ footer {
   position: relative;
   background: url('https://img.freepik.com/free-photo/lifestyle-people-learning-make-sushi_23-2149865335.jpg?t=st=1724381038~exp=1724384638~hmac=69921d86c9cf85b71d139a1ce07034416584b86be149df258bfbddb60a8683eb&w=1380') no-repeat center fixed;
   background-size: cover;
-   
+   overflow: hidden;
+   z-index: 99;
   /* background: linear-gradient(150deg, var(--green), var(--yellow), var(--red));
     background-size: 200%;
     
     animation: wave 10s infinite alternate; */
 }
 .pageHeading{
-    color: white;
+    color: rgba(255, 255,255, .01);
     margin: 0;
+
+    border-radius:5px ;
+    background-clip: text;
+    display: inline-block;
+    filter: drop-shadow(-1px -3px 2px #fff);
     font-size: 3.2rem;
+    padding: 10px 0;
     font-weight: bold;
-    text-transform: uppercase;
+    text-transform: capitalize;
+    animation: wave 3s infinite alternate;
+    background-size: 250%;
+    background-image: linear-gradient(150deg,var(--yellow),var(--green),var(--red),var(--black));
+    
 }
-.headerlayer{
+.headersection::after{
+    content: ' ';
+    position: absolute;
+    z-index: -1;
+    width: 50%;
+    top: 0;
+    transform: skewX(-30deg);
+    bottom:0 ;
+    left: -90px;
+    backdrop-filter: blur(5px) saturate(177%);
+    -webkit-backdrop-filter: blur(5px) saturate(177%);
+    background-color: rgba(255, 255, 255, 0.65);
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
+/* .headerlayer{
     position: absolute;
     top: 0;
     padding: 50px 0;
     left: 0;
     bottom: 0;
     right: 0;
+    width: ;
+    border-radius: 50%;
     background: rgba(0, 0, 0, .5);
     /* background: linear-gradient(150deg, var(--green), var(--yellow), var(--red)); */
-}
+*/
 .portalCard{
     box-shadow:inset 0 0 10px #dfdfdf;
     padding: 30px;
@@ -565,6 +592,65 @@ label{
     text-transform: capitalize;
     font-size: 12px;
     margin-top:10px ;
+}
+.contactboxes{
+    background:url('https://img.freepik.com/premium-photo/man-playing-game-with-microphone-his-hands_916191-400744.jpg?w=1380') no-repeat center fixed;
+    background-size: cover;
+
+}
+.contactbox{
+   padding: 20px;
+   border-radius: 20px;
+   box-shadow: 0 0 10px #dfdfdf;
+   backdrop-filter: blur(15px) saturate(137%);
+   -webkit-backdrop-filter: blur(15px) saturate(137%);
+   background-color: rgba(255, 255, 255, 0.35);
+   border-radius: 12px;
+   border: 1px solid rgba(209, 213, 219, 0.3);
+}
+.contactbox h4{
+    padding: 10px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1rem;
+}
+.address{
+    padding: 20px 0;
+}
+address{
+    font-size: 15px;
+}
+.contactbox h3{
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 1rem;
+}
+.cIcon{
+    background: white;
+    width:100px ;
+    margin: 0 auto;
+    place-content: center;
+    display: grid;
+    height: 100px;
+    border-radius: 50%;
+}
+.mediaBox{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-evenly;
+}
+.mediaBox>div{
+    margin: 10px 0;
+    
+}
+.mediaBox>div:hover p{
+    color: white;
+}
+.mediaBox>div:hover a>img{
+    transform: rotateY(360deg );
 }
 @media (min-width:320px){
    
