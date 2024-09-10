@@ -709,6 +709,19 @@ address{
     padding: 20px;
     background-color: #f27e12b2;
 }
+.steps{
+    position: relative;
+}
+.steps::before{
+    position: absolute;
+    content: '';
+    inset: 0;
+    z-index: -1;
+    left: 3%;
+    background: #dfdfdf;
+    height: 100%;
+    width: 5px;
+}
 .step{
     display: flex;
     align-items: center;
@@ -731,12 +744,12 @@ address{
     display: grid;
     box-shadow: inset 0 0 10px #dfdfdf;
     border-radius: 50%;
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 70px;
   place-content: center;
 }
 .stepCount h1{
-    font-size: 3.5rem;
+    font-size: 3.0rem;
     margin: 0;
     font-weight: 700;
 }
@@ -772,8 +785,72 @@ address{
 .stickyElement{
     position: sticky;
     top: 0;
+}
+.collapseheader:hover{
+    background: var(--green);
+}
+.collapseheader a{
+    font-size: 16px;
+    font-weight: bold;
+}
+.agentbox{
+    position: relative;
+    box-shadow: 15px 15px 30px #bebebe,
+    -15px -15px 30px #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.agentbox::after{
+    content: ' ';
+    position: absolute;
+    inset: 0;
+    bottom: 100%;
+    transition: ease-in-out all .6s;
+    top: 100%;
+    z-index: -1;
+    opacity: .4;
+    background:linear-gradient(to top,rgb(209, 209, 209),rgb(212, 212, 212)) ;
+}
+.agentbox:hover{
+    box-shadow: none;
+}
+.agentbox:hover::after{
+    inset: 0;
+}
+.agentbox:hover .agentlogo{
+    transform: rotateX(360deg);
+}
+.agentlogo {
+    padding: 10px;
+    filter: drop-shadow(0 0 2px #f9f9fb);
+}
+.agenttxt{
+    margin-top: 10px;
+    background-color: var(--green);
+    padding: 20px;
+    color: white;
+}
+.agenttxt h5{
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+.agenttxt ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.agenttxt ul>li{
+    font-size: 14px;
+    margin: 5px 0;
+}
+.agenttxt ul>li>p{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 14px;
+    font-weight: 400;
     
 }
+
 @media (min-width:320px){
    
     .headerGrid {
