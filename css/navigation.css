@@ -62,25 +62,37 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
-
 }
 
 
 .menu li a,
 .menu li span {
     color: var(--mixture);
-    border-bottom: 2px solid transparent;
+    position: relative;
 }
 
-.menu li a:hover {
+.menu li a::after,.menu li span::after {
+    content: '';
+    position: absolute;
+    transition: ease-in-out all .5s;
+    height: 2px;
+    z-index: 99;
+    bottom: -10px;
+    left: 50%;
+    right: 50%;
+    background: var(--yellow);
+/*     
     border-bottom: 2px solid var(--mainColor);
-    text-decoration: none;
+    text-decoration: none; */
 
+}
+.menu li a:hover::after{
+    left: 0;
+    right: 0;
 }
 
 .menu li span:hover {
-    border-bottom: 2px solid var(--mixture);
+    /* border-bottom: 2px solid var(--mixture); */
 
 }
 
