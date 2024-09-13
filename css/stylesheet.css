@@ -24,10 +24,7 @@ a {
     text-transform: capitalize;
     text-decoration: none;
     color: #333;
-
 }
-
-
 
 .logo img {
 
@@ -89,7 +86,9 @@ p {
 section {
     padding: 60px 0;
 }
-
+section:hover .heading{
+    text-shadow: unset;
+}
 .heading {
     margin-bottom: 30px;
     position: relative;
@@ -113,7 +112,7 @@ section {
 }
 
 .heading:hover{
-    text-shadow: unset;
+   
 }
 .heading::after {
     content: "";
@@ -127,10 +126,9 @@ section {
     height: 5px;
     position: absolute;
 }
-.heading:hover:after{
+section:hover .heading::after{
     transition: ease-in-out all 1s;
     right: 0;
-    
 }
 
 .banner {
@@ -255,16 +253,23 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     box-shadow: 0 0 10px #dfdfdf;
 }
 
-
 .sicon {
     box-shadow: 0 0 10px #dfdfdf;
-    height: 80px;
+    height: 60px;
     margin: 0 auto;
-    width: 80px;
+    width: 60px;
     display: grid;
     place-content: center;
     border-radius: 50%;
     padding: 10px;
+}
+.cooking{
+    opacity: 0;
+    display: none;
+}
+.leadership{
+    opacity: 0;
+    display: none;
 }
 
 .whytxt{
@@ -467,6 +472,7 @@ footer {
 
 .about p {
     color: black;
+    text-align: justify;
 }
 .abouttxt a{
     color: var(--black);

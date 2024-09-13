@@ -98,21 +98,27 @@
     </section>
 <section>
     <div class="container">
+        <div class="text-center py-4">
+            <button type="button" class="btnCstm " id="allcourses">All Courses</button>
+            <button type="button" class="btnCstm ml-3" id="cooking">Hospitality</button>
+            <button type="button" class="btnCstm green mx-3 " id="leadership">Leadership</button>
+            <button type="button" class="btnCstm ">Short Courses</button>
+        </div>
+        <hr>
         <div class="row">
-            <div class="col-md-3 col-6">
-                <div class="courseCard">
+            <div class="col-md-3 col-6 cooking">
+                <div class="courseCard ">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
                         <small class="badge badge-primary">SIT30821</small>
-    
                         <h4> Certificate III in Commercial Cookery</h4>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
-                <div class="courseCard">
+            <div class="col-md-3 col-6 cooking">
+                <div class="courseCard ">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
@@ -125,8 +131,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
-                <div class="courseCard">
+            <div class="col-md-3 col-6 cooking">
+                <div class="courseCard ">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
@@ -138,8 +144,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
-                <div class="courseCard">
+            <div class="col-md-3 col-6 cooking">
+                <div class="courseCard ">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
@@ -151,8 +157,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
-                <div class="courseCard">
+            <div class="col-md-3 col-6 cooking">
+                <div class="courseCard ">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
@@ -164,7 +170,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
+            <div class="col-md-3 col-6 leadership">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -176,7 +182,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
+            <div class="col-md-3 col-6 leadership">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -188,7 +194,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
+            <div class="col-md-3 col-6 leadership">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -200,7 +206,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
+            <div class="col-md-3 col-6 leadership">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -427,6 +433,42 @@
     }
     e.preventDefault();
 });
+
+    </script>
+    <!-- cooking course filter -->
+    <script>
+               function fadeOut(el) {
+            var opacity = 0; // Initial opacity
+            var interval = setInterval(function() {
+               if (opacity < 1) {
+                  opacity += 0.1;
+                  el.style.opacity = opacity;
+               } else {
+                  clearInterval(interval); // Stop the interval when opacity reaches 0
+                  el.style.display = 'block'; // Hide the element
+               }
+            }, 100);
+         }
+        document.querySelector("#cooking").addEventListener('click',()=>{
+            
+            const cooking=document.querySelectorAll('.cooking');
+
+            cooking.forEach(x=>{
+                    fadeOut(x);
+                    x.style.display = 'block';
+             });
+            })
+             //leadership course effect btn click
+             document.querySelector("#leadership").addEventListener('click',()=>{
+            
+            const cooking=document.querySelectorAll('.leadership');
+
+            cooking.forEach(x=>{
+                    fadeOut(x);
+                    x.style.display = 'block';
+             });
+          
+        })
 
     </script>
 </body>
