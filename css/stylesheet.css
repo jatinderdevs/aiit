@@ -3,6 +3,8 @@
 /* cursive */
 @import url('https://fonts.googleapis.com/css2?family=Allura&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+
+
 :root {
     --yellow: #f7a30a;
     --green: #7dba00;
@@ -835,6 +837,7 @@ address{
 }
 .agenttxt{
     margin-top: 10px;
+    
     /* background:linear-gradient(to top, var(--green),rgba(255, 255, 255, 0)); */
     padding: 20px;
 }
@@ -850,7 +853,7 @@ address{
 .agenttxt ul>li{
     position: relative;
     font-size: 14px;
-    margin: 5px 0;
+    margin: 10px 0;
 }
 .agenttxt ul>li::before{
     content: '';
@@ -859,6 +862,7 @@ address{
     position: absolute;
 }
 .agenttxt ul>li>p{
+    color: black;
    
     font-size: 14px;
     font-weight: 400;
