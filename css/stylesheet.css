@@ -868,7 +868,93 @@ address{
     font-weight: 400;
     
 }
+.CourseHighlight{
+    margin-top: -10px ;
+    position: relative;
+    z-index: 999;
+    background: white;
+    padding: 30px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #dfdfdf;
+}
+.grid{
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    align-items: center;
+}
+.highlight{
+    text-align: center;
+    border-right:1px solid var(--red) ;
+}
 
+.highlight:last-child{
+    border-right:unset;
+    
+}
+
+.highlight h6{
+    margin: 0;
+    text-transform: capitalize;
+    font-size: 13px;
+}
+.highlight i{
+    font-size: 28px;
+    color: var(--red);
+
+}
+.addon_info{
+    padding: 15px;
+    /* background: #f9f9fb; */
+    border-radius: 5px;
+    /* box-shadow: 0 0 5px #dfdfdf; */
+}
+.addon_info h5{
+    font-weight: bold;
+    color: black;
+    margin: 0;
+    font-size: 26px;
+}
+.addon_info>ul{
+    list-style: none;
+}
+.addon_info>ul>li{
+    padding: 15px 5px;
+    border-bottom: 1px solid  #dfdfdf;
+    background: #8eb6ff7a;
+    font-weight: bold;
+}
+.querybox{
+    padding:30px 15px;
+    margin: 0 15px;
+    /* background: #f9f9fb; */
+    border-radius: 5px;
+   background-color: #fa90062e;
+}
+.querybox a{
+    font-weight: 600;
+    font-size: 16px;
+}
+.querybox h5{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.NRT{
+    filter: drop-shadow(0 0 10px #dfdfdf);
+}
+.coursebox{
+    padding: 20px 0;
+    border-bottom: 1px solid #f9f9fb;
+}
+.coursebox h4{
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.coursebox p{
+    text-align: justify;
+    color: #777;
+}
 @media (min-width:320px){
    
     .headerGrid {
