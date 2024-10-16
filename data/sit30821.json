@@ -1,0 +1,176 @@
+{
+    "units": [
+      {
+        "unit_code": "SITHCCC023",
+        "unit_title": "Use food preparation equipment",
+        "core_elective": "Core",
+        "prerequisite_units": ["SITXFSA005 - Use hygienic practices for food safety"]
+      },
+      {
+        "unit_code": "SITHCCC027",
+        "unit_title": "Prepare dishes using basic methods of cookery",
+        "core_elective": "Core",
+        "prerequisite_units": ["SITXFSA005 - Use hygienic practices for food safety"]
+      },
+      {
+        "unit_code": "SITHCCC028",
+        "unit_title": "Prepare appetisers and salads",
+        "core_elective": "Core",
+        "prerequisite_units": ["SITXFSA005 - Use hygienic practices for food safety"]
+      },
+      {
+        "unit_code": "SITHCCC029",
+        "unit_title": "Prepare stocks, sauces and soups",
+        "core_elective": "Core",
+        "prerequisite_units": ["SITXFSA005 - Use hygienic practices for food safety"]
+      },
+      {
+        "unit_code": "SITHCCC030",
+        "unit_title": "Prepare vegetable, fruit, eggs and farinaceous dishes",
+        "core_elective": "Core",
+        "prerequisite_units": [
+          "SITXFSA005 - Use hygienic practices for food safety",
+          "SITHCCC027 - Prepare dishes using basic methods of cookery"
+        ]
+      },
+      {
+        "unit_code": "SITHCCC031",
+        "unit_title": "Prepare vegetarian and vegan dishes",
+        "core_elective": "Core",
+        "prerequisite_units": [
+          "SITXFSA005 - Use hygienic practices for food safety",
+          "SITHCCC027 - Prepare dishes using basic methods of cookery"
+        ]
+      },
+      {
+        "unit_code": "SITHCCC035",
+        "unit_title": "Prepare poultry dishes",
+        "core_elective": "Core",
+        "prerequisite_units": [
+          "SITXFSA005 - Use hygienic practices for food safety",
+          "SITHCCC027 - Prepare dishes using basic methods of cookery"
+        ]
+      },
+      {
+        "unit_code": "SITHCCC036",
+        "unit_title": "Prepare meat dishes",
+        "core_elective": "Core",
+        "prerequisite_units": [
+          "SITXFSA005 - Use hygienic practices for food safety",
+          "SITHCCC027 - Prepare dishes using basic methods of cookery"
+        ]
+      },
+      {
+        "unit_code": "SITHCCC037",
+        "unit_title": "Prepare seafood dishes",
+        "core_elective": "Core",
+        "prerequisite_units": [
+          "SITXFSA005 - Use hygienic practices for food safety",
+          "SITHCCC027 - Prepare dishes using basic methods of cookery"
+        ]
+      },
+      {
+        "unit_code": "SITHCCC041",
+        "unit_title": "Produce cakes, pastries and breads",
+        "core_elective": "Core",
+        "prerequisite_units": [
+          "SITXFSA005 - Use hygienic practices for food safety",
+          "SITHCCC027 - Prepare dishes using basic methods of cookery"
+        ]
+      },
+      {
+        "unit_code": "SITHCCC042",
+        "unit_title": "Prepare food to meet special dietary requirements",
+        "core_elective": "Core",
+        "prerequisite_units": [
+          "SITXFSA005 - Use hygienic practices for food safety",
+          "SITHCCC027 - Prepare dishes using basic methods of cookery"
+        ]
+      },
+      {
+        "unit_code": "SITHCCC043",
+        "unit_title": "Work effectively as a cook",
+        "core_elective": "Core",
+        "prerequisite_units": [
+          "SITXFSA005 - Use hygienic practices for food safety",
+          "SITHCCC027 - Prepare dishes using basic methods of cookery"
+        ],
+        "additional_info": "Work Placement Unit of Competency requiring completion in an industry workplace or simulated environment"
+      },
+      {
+        "unit_code": "SITHKOP009",
+        "unit_title": "Clean kitchen premises and equipment",
+        "core_elective": "Core",
+        "prerequisite_units": ["SITXFSA005 - Use hygienic practices for food safety"]
+      },
+      {
+        "unit_code": "SITHKOP010",
+        "unit_title": "Plan and cost recipes",
+        "core_elective": "Core"
+      },
+      {
+        "unit_code": "SITHPAT016",
+        "unit_title": "Produce desserts",
+        "core_elective": "Core",
+        "prerequisite_units": ["SITXFSA005 - Use hygienic practices for food safety"]
+      },
+      {
+        "unit_code": "SITXFSA005",
+        "unit_title": "Use hygienic practices for food safety",
+        "core_elective": "Core"
+      },
+      {
+        "unit_code": "SITXFSA006",
+        "unit_title": "Participate in safe food handling practices",
+        "core_elective": "Core"
+      },
+      {
+        "unit_code": "SITXHRM007",
+        "unit_title": "Coach others in job skills",
+        "core_elective": "Core"
+      },
+      {
+        "unit_code": "SITXINV006",
+        "unit_title": "Receive, store and maintain stock",
+        "core_elective": "Core",
+        "prerequisite_units": ["SITXFSA005 - Use hygienic practices for food safety"]
+      },
+      {
+        "unit_code": "SITXWHS005",
+        "unit_title": "Participate in safe work practices",
+        "core_elective": "Core"
+      },
+      {
+        "unit_code": "SITHCCC025",
+        "unit_title": "Prepare and present sandwiches",
+        "core_elective": "Elective (Group A)",
+        "prerequisite_units": ["SITXFSA005 - Use hygienic practices for food safety"]
+      },
+      {
+        "unit_code": "SITHCCC038",
+        "unit_title": "Produce and serve food for buffets",
+        "core_elective": "Elective (Group A)",
+        "prerequisite_units": [
+          "SITXFSA005 - Use hygienic practices for food safety",
+          "SITHCCC027 - Prepare dishes using basic methods of cookery"
+        ]
+      },
+      {
+        "unit_code": "SITHCCC040",
+        "unit_title": "Prepare and serve cheese",
+        "core_elective": "Elective (Group A)",
+        "prerequisite_units": ["SITXFSA005 - Use hygienic practices for food safety"]
+      },
+      {
+        "unit_code": "SITXCOM007",
+        "unit_title": "Show social and cultural sensitivity",
+        "core_elective": "Elective (Group C)"
+      },
+      {
+        "unit_code": "SITXWHS006",
+        "unit_title": "Identify hazards, assess and control safety risks",
+        "core_elective": "Elective (Group C)"
+      }
+    ]
+  }
+  

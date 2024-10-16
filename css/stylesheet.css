@@ -955,6 +955,56 @@ address{
     text-align: justify;
     color: #777;
 }
+.coursebox ul{
+    list-style-type: none;
+}
+.coursebox ul li{
+    padding: 10px 0;
+}
+.coursebox ul li> ul li:nth-child(odd) {
+    /* can be add style for the UI on course page */
+}
+.coursebox i{
+    font-size:1.2rem;
+    color: var(--red);
+}
+.coursebox>table>tbody>tr>td{
+    vertical-align: middle;
+}
+.campusCard{
+    cursor: pointer;
+    text-align: center;
+    padding: 40px 20px;
+    position: relative;
+    /* background:white; */
+    background: url('../img/map.PNG') no-repeat center ;
+    background-size:cover ;
+    box-shadow:  0 0 10px #dfdfdf;
+    
+    border-radius: 5px;
+    z-index: 9;
+}
+.campusCard::after{
+    inset: 0;
+
+     background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(1px) saturate(137%); 
+    z-index: -1;
+    position: absolute;
+    content: '';
+    filter: blur(1px);
+}
+.campusCard:hover{
+    color: var(--red);
+    box-shadow: unset;
+}
+.campusCard:hover i{
+    transform: rotateY(350deg);
+}
+.campusCard i{
+    font-size: 2rem;
+    color: black;
+}
 @media (min-width:320px){
    
     .headerGrid {
