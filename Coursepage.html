@@ -39,7 +39,6 @@
                     <a href="callto:+61 3 96497691" class="btn text-dark btn-sm btn-light"><img
                             src="img/icons/submit.png" alt=""> apply
                         online</a>
-
                 </div>
             </div>
         </div>
@@ -180,6 +179,35 @@ This qualification provides a pathway to work as a cook in organisations such as
                    
                    </div>
                 </div>
+       
+            </div>
+            <div class="col-md-4">
+                <div class="addon_info">
+                    <h5 class="text-dark ">Available intake</h5>
+                    <br>
+                    <!-- <hr> -->
+                    <ul>
+                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th March 2025</li>
+                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th january 2025</li>
+                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th december 2025</li>
+                    </ul>
+                </div>
+                <div class="querybox text-center">
+                    <h5>want to know more</h5>
+                    <br>
+                <a href="" class="btnCstm">Contact now</a>
+                    <br>
+                    <br>
+                <small>Lorem ipsum dolor sit amet.</small>
+                </div>
+                <br>
+                <div class="text-center NRT">
+                    
+                    <img src="https://www.aiit.vic.edu.au/images/NTR%20logo.png"  class="img-fluid w-50" alt="">
+
+                </div>
+            </div>
+            <div class="col-md-12">
                 <div class="coursebox">
                     <h4>
                         Entry Requirements</h4>
@@ -245,9 +273,9 @@ This qualification provides a pathway to work as a cook in organisations such as
                         Units of competency have been selected in accordance with the packaging rules and are relevant to the work outcome, local industry requirements and the AQF qualification level.
                     </p>
                     <br>
-                <small><strong><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Refer to: <a href=""> https://training.gov.au/Training/Details/SIT30816</a></strong></small>
+                <small><strong><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Refer to: <a href="" class="text-lowercase btn-link"> https://training.gov.au/Training/Details/SIT30816</a></strong></small>
                     <hr>
-                    <table class="table  table-hover table-striped" id="units">
+                    <table class="table  table-hover  table-bordered  " id="units">
                         <thead class="badge-primary text-uppercase">
                             <th>unit code</th>
                             <th>unit title</th>
@@ -257,31 +285,6 @@ This qualification provides a pathway to work as a cook in organisations such as
                            
                         </tbody>
                     </table>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="addon_info">
-                    <h5 class="text-dark ">Available intake</h5>
-                    <br>
-                    <!-- <hr> -->
-                    <ul>
-                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th March 2025</li>
-                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th january 2025</li>
-                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th december 2025</li>
-                    </ul>
-                </div>
-                <div class="querybox text-center">
-                    <h5>want to know more</h5>
-                    <br>
-                <a href="" class="btnCstm">Contact now</a>
-                    <br>
-                    <br>
-                <small>Lorem ipsum dolor sit amet.</small>
-                </div>
-                <br>
-                <div class="text-center NRT">
-                    <img src="https://www.aiit.vic.edu.au/images/NTR%20logo.png"  class="img-fluid w-50" alt="">
-
                 </div>
             </div>
         </div>
@@ -408,8 +411,8 @@ This qualification provides a pathway to work as a cook in organisations such as
             unit.prerequisite_units?.map(x=>{
                 prerequisites+=x +"<br/>";
             });
-            cellCode.innerHTML =`<p>${ unit.unit_code}</p>`;
-            cellTitle.innerHTML = `<p>${unit.unit_title}<br/></p> <small style='font-size:12px;'>${prerequisites}</small>`;
+            cellCode.innerHTML =`<strong>${ unit.unit_code}</strong>`;
+            cellTitle.innerHTML = `<p class="text-dark">${unit.unit_title}<br/></p> <small style='font-size:12px;'>${prerequisites}</small>`;
             cellCoreElective.innerHTML = `<p>${unit.core_elective}</p>`;
 
             row.appendChild(cellCode);

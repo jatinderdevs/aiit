@@ -174,6 +174,7 @@ p {
     font-size: 14px;
     line-height: 1.5;
     color: #555;
+    font-weight: 500;
     margin: 0;
 }
 
@@ -940,6 +941,7 @@ address{
     font-weight: bolder;
 }
 .NRT{
+    padding: 40px 0;
     filter: drop-shadow(0 0 10px #dfdfdf);
 }
 .coursebox{
@@ -947,9 +949,25 @@ address{
     border-bottom: 1px solid #f9f9fb;
 }
 .coursebox h4{
+position: relative;
+
+    padding: 5px;
+    border-radius: 5px;
     font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 15px;
+}
+.coursebox h4::after{
+    content: '';
+    position: absolute;
+    background: #dfdfdf;
+    inset: 0;
+    height: 0;
+   transition: ease-in-out all .5s;
+    z-index: -1;
+}
+.coursebox:hover h4::after{
+   height: 40px;
 }
 .coursebox p{
     text-align: justify;
