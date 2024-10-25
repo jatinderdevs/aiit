@@ -99,10 +99,10 @@
 <section>
     <div class="container">
         <div class="text-center py-4">
-            <button type="button" class="btnCstm " id="allcourses">All Courses</button>
-            <button type="button" class="btnCstm ml-3" id="cooking">Hospitality</button>
-            <button type="button" class="btnCstm green mx-3 " id="leadership">Leadership</button>
-            <button type="button" class="btnCstm ">Short Courses</button>
+            <button type="button"  onclick="showAllCourses()" class="btnCstm " id="allcourses">All Courses</button>
+            <button type="button" onclick="filterCourse('cooking')" class="btnCstm blue ml-3 text-light" id="cooking"> Hospitality</button>
+            <button type="button" onclick="filterCourse('leadership')" class="btnCstm green  mx-3 " id="leadership">Leadership</button>
+            <button type="button" onclick="filterCourse('shortCourse')" class="btnCstm black text-light">Short Courses</button>
         </div>
         <hr>
         <div class="row">
@@ -176,7 +176,7 @@
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
-                        <small class="badge badge-warning">BSB40520</small>
+                        <small class="badge badge-success">BSB40520</small>
     
                         <h4> Certificate IV in Leadership and Management</h4>
                     </div>
@@ -188,7 +188,7 @@
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
-                        <small class="badge badge-warning">BSB50420</small>
+                        <small class="badge badge-success">BSB50420</small>
     
                         <h4>Diploma of LEADERSHIP AND MANAGEMENT</h4>
                     </div>
@@ -200,7 +200,7 @@
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
-                        <small class="badge badge-warning">BSB60420</small>
+                        <small class="badge badge-success">BSB60420</small>
     
                         <h4> Advanced Diploma of LEADERSHIP AND MANAGEMENT</h4>
                     </div>
@@ -212,37 +212,37 @@
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
-                        <small class="badge badge-warning">BSB80320</small>
+                        <small class="badge badge-success">BSB80320</small>
     
                         <h4> Graduate Diploma of Strategic Leadership</h4>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
+            <div class="col-md-3 col-6 shortCourse">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
-                        <small class="badge badge-danger">SITSS00071</small>
+                        <small class="badge badge-dark">SITSS00071</small>
     
                         <h4> Responsible Service of Alcohol</h4>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
+            <div class="col-md-3 col-6 shortCourse">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
-                        <small class="badge badge-info">SITSS00069</small>
+                        <small class="badge badge-dark">SITSS00069</small>
     
                         <h4>  Food Safety Supervision Skill Set</h4>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
+            <div class="col-md-3 col-6 shortCourse">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -254,7 +254,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
+            <div class="col-md-3 col-6 shortCourse">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -267,7 +267,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
+            <div class="col-md-3 col-6 shortCourse">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -385,58 +385,37 @@
     <script src="js/navigation.js"></script>
 
     <script>
-        $('#banner').owlCarousel({
-            loop: true,
-            margin: 0,
-            nav: true,
-            autoplay: true,
-            autoplayTimeout: 2500,
+        
+        const courseCards =document.querySelectorAll('.col-6');
+       
+        //show all courses default
+        function showAllCourses(){
+            courseCards.forEach(card => {
+            card.style.display="block";
+        });
+        }
+        //course classname represent  coursename to filter and it should be same class name and coursename to filter
+        function filterCourse(courseName){
+            const filterCourses =document.querySelectorAll(`.${courseName}`);    
+            courseCards.forEach(card => {
+            card.style.display="none";
+        });
 
-            animateOut: 'fadeOut',
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 3
-                },
-                1000: {
-                    items: 1
-                }
-            }
-        })
-
-
-      var owl=  $('#partners').owlCarousel({
-            loop: true,
-            margin:20,
-            stagePadding: 50,
-            autoplay: true,
-            autoplayTimeout: 1500,
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 3
-                },
-                1000: {
-                    items: 5
-                }
+        filterCourses.forEach(element => {
+            const isCourseExist=element.classList.value.includes(courseName);
+            if(isCourseExist){
+                 element.style.display="block";
             }
         });
-        owl.on('mousewheel', '.owl-stage', function (e) {
-    if (e.deltaY>0) {
-        owl.trigger('next.owl');
-    } else {
-        owl.trigger('prev.owl');
-    }
-    e.preventDefault();
-});
 
+        }
+     
+
+
+     
     </script>
     <!-- cooking course filter -->
-    <script>
+    <!-- <script>
                function fadeOut(el) {
             var opacity = 0; // Initial opacity
             var interval = setInterval(function() {
@@ -470,7 +449,7 @@
           
         })
 
-    </script>
+    </script> -->
 </body>
 
 </html>

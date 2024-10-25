@@ -217,9 +217,22 @@ p {
     color: black;
     left: 0px;
 }
+.btnCstm:focus:after{
+    top: 0px;
+    color: black;
+    left: 0px;
+}
 
 .green::after {
     background-color: var(--green) !important;
+}
+.blue::after{
+    background-color: #007dcc !important;
+}
+.black::after{
+    
+    background-color:#575f64 !important;
+
 }
 
 .sbox {
@@ -268,12 +281,10 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     padding: 10px;
 }
 .cooking{
-    opacity: 0;
-    display: none;
+  
 }
 .leadership{
-    opacity: 0;
-    display: none;
+  
 }
 
 .whytxt{
@@ -878,9 +889,8 @@ address{
 }
 .grid{
     display: grid;
-    grid-template-columns:  1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: auto;
-    align-items: center;
+    gap: 20px;
+
 }
 .highlight{
     text-align: center;
@@ -1065,7 +1075,15 @@ position: relative;
     .steps::before{
         left: 8%;
     }
+    .grid{
+        grid-template-columns:  1fr  1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    }
+    .reverse{
+        flex-direction: column-reverse;
+    }
 }
+
 
 
 @media (min-width:420px){
@@ -1111,5 +1129,12 @@ position: relative;
     .steps::before{
         left: 3%;
     }
-    
+    .grid{
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr ;
+    }
+    .reverse{
+        flex-direction: unset;
+    }
 }
+    
