@@ -157,11 +157,11 @@ body {
 }
 
 @media only screen and (min-width: 993px) {
-    .menu-dropdown:hover>.submenu {
-        display: block;
+    .menu-dropdown:hover .studentinformation {
+        /* display: block;
         opacity: 1;
         visibility: visible;
-        transform: translateY(0);
+        transform: translateY(0); */
     }
 }
 

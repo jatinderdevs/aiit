@@ -67,8 +67,9 @@
                     <li class="menu-item"><a href="aboutus.html" class="menu-link">about us</a></li>
                     <li class="menu-item"><a href="courses.html" class="menu-link">courses</a></li>
 
-                    <li class="menu-item menu-dropdown">
+                    <li class="menu-item menu-dropdown"  onmouseover="showdrop()" onmouseout="hidedrop()" >
                         <span class="menu-link" data-toggle="submenu">student information<i class="fa fa-caret-down" aria-hidden="true"></i></span>
+                      
                         <ul class="submenu">
                             <li class="submenu-item"><a href="courseFees.html" class="submenu-link">courses Fees</a>
                             </li>
@@ -87,6 +88,14 @@
                     <!-- <li class="menu-item"><a href="contactus.php" class="menu-link btn btn-warning text-dark">Apply -->
                     <!-- now</a></li> -->
                 </ul>
+                <div class="studentinformation">
+                    <div class="container">
+                        <div>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non corrupti praesentium voluptas sequi voluptatem alias dicta quae quasi, rerum modi illo assumenda consequatur iste magni eaque cumque. Ducimus soluta iusto accusamus rerum animi reiciendis modi amet doloremque eum quaerat voluptatum dolorem corrupti odit sit, aut recusandae totam optio nesciunt quis architecto corporis quia a quo! Praesentium nobis pariatur quis et!</p>
+                        </div>
+                    </div>
+                
+                </div>
             </nav>
         </section>
 
@@ -529,6 +538,22 @@
     <script src="js/navigation.js"></script>
 
     <script>
+        //nav droop down
+        const studentinformation=document.querySelector('.studentinformation');
+        function showdrop(){
+            studentinformation.style.opacity="1";
+        }
+        function hidedrop(){
+            studentinformation.addEventListener('mouseover', () => {
+                studentinformation.style.opacity="1";
+            });
+            studentinformation.addEventListener('mouseout', () => {
+                studentinformation.style.opacity="0";
+            });
+
+        }
+     
+
         $('#banner').owlCarousel({
             loop: true,
             margin: 0,
