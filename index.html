@@ -39,7 +39,6 @@
                     <a href="callto:+61 3 96497691" class="btn text-dark btn-sm btn-light"><img
                             src="img/icons/submit.png" alt=""> apply
                         online</a>
-
                 </div>
             </div>
         </div>
@@ -50,7 +49,6 @@
             <div class="logo">
                 <a href="./index.php">
                     <img src="./img/logo.png" class="img-fluid" alt="">
-
                 </a>
             </div>
             <div class="burger" id="burger">
@@ -66,10 +64,9 @@
 
                     <li class="menu-item"><a href="aboutus.html" class="menu-link">about us</a></li>
                     <li class="menu-item"><a href="courses.html" class="menu-link">courses</a></li>
-
-                    <li class="menu-item menu-dropdown"  onmouseover="showdrop()" onmouseout="hidedrop()" >
-                        <span class="menu-link" data-toggle="submenu">student information<i class="fa fa-caret-down" aria-hidden="true"></i></span>
-                      
+                    <li class="menu-item menu-dropdown"  onclick="showdrop(this)" >
+                        <span class="menu-link drop"   data-toggle="submenu">student information <i class="fa fa-caret-down" aria-hidden="true"></i></span>
+                  
                         <ul class="submenu">
                             <li class="submenu-item"><a href="courseFees.html" class="submenu-link">courses Fees</a>
                             </li>
@@ -78,20 +75,51 @@
 
                         </ul>
                     </li>
-                    <li class="menu-item"><a href="agents.html" class="menu-link">agents</a></li>
+                    <li class="menu-item"><a href="agents.html" class="menu-link">agents <i class="fa fa-caret-down" aria-hidden="true"></i></a></li>
                     <li class="menu-item"><a href="contactus.html" class="menu-link">contact us</a></li>
-
-                    <!--<li class="menu-item"><a href="complaint.php" class="menu-link">Complaint</a></li>
-					<li class="menu-item"><a href="complaint-status.php" class="menu-link">Complaint Status</a></li>-->
-                    <!-- <li class="menu-item"><a href="login.php" class="menu-link">login</a></li> -->
-
-                    <!-- <li class="menu-item"><a href="contactus.php" class="menu-link btn btn-warning text-dark">Apply -->
-                    <!-- now</a></li> -->
                 </ul>
                 <div class="studentinformation">
                     <div class="container">
-                        <div>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non corrupti praesentium voluptas sequi voluptatem alias dicta quae quasi, rerum modi illo assumenda consequatur iste magni eaque cumque. Ducimus soluta iusto accusamus rerum animi reiciendis modi amet doloremque eum quaerat voluptatum dolorem corrupti odit sit, aut recusandae totam optio nesciunt quis architecto corporis quia a quo! Praesentium nobis pariatur quis et!</p>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="dropinfo">
+                                    <ul class="row">
+                                        <li class="col-sm-6">
+                                            <a href="std-adm"><i class="fa fa-yelp" aria-hidden="true"></i> How to Apply</a>
+                                        </li>
+                                        
+                                        <li class="col-sm-6">
+                                            <a href="fee"><i class="fa fa-money" aria-hidden="true"></i> Tuition Fees and Charges</a>
+                                        </li>
+                                        <li class="col-sm-6">
+                                            <a href="std-serv"> <i class="fa fa-info-circle" aria-hidden="true"></i> Student Services And Support</a>
+                                        </li>
+                                        <li class="col-sm-6">
+                                            <a href="pol-pro"><i class="fa fa-file-o" aria-hidden="true"></i> Policies and Procedures</a>
+                                        </li>
+                                        <li class="col-sm-6">
+                                            <a href="useful-links"><i class="fa fa-link" aria-hidden="true"></i> Useful Links</a>
+                                        </li>
+                                    
+                                        <li class="col-sm-6">
+                                            <a href="PDF/AIIT_45485_Student_Handbook_RT.pdf"><i class="fa fa-book" aria-hidden="true"></i> Student Hand Book</a>
+                                        </li>
+                                        
+                                        <li class="col-sm-6">
+                                            <a href="std_online_form.html"><i class="fa fa-globe" aria-hidden="true"></i> Student Online Application Form</a>
+                                        </li>
+                                        <li class="col-sm-6">
+                                            <a href="PDF/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Student PDF Application Form </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="dropimg">
+                                    <img src="img/studentinformation.svg" class="img-fluid" width="60%" alt="">
+
+                                </div>
+                            </div>
                         </div>
                     </div>
                 
@@ -539,21 +567,22 @@
 
     <script>
         //nav droop down
-        const studentinformation=document.querySelector('.studentinformation');
-        function showdrop(){
-            studentinformation.style.opacity="1";
-        }
-        function hidedrop(){
-            studentinformation.addEventListener('mouseover', () => {
+       //nav droop down
+       const studentinformation=document.querySelector('.studentinformation');
+        function showdrop(btn) {
+     btn.childNodes[1].style.color="#f7a30a"
+            if(studentinformation.style.opacity=="1"){
+            studentinformation.style.opacity="0";
+            btn.childNodes[1].style.color="#333"
+            }else{
                 studentinformation.style.opacity="1";
-            });
-            studentinformation.addEventListener('mouseout', () => {
-                studentinformation.style.opacity="0";
-            });
+            }
+            
 
         }
+    
      
-
+        
         $('#banner').owlCarousel({
             loop: true,
             margin: 0,

@@ -155,14 +155,45 @@ body {
 .menu-link:hover {
     outline: none;
 }
+.studentinformation{
+    position: absolute;
+    left: 0;    
+    top: 77px;
+    backdrop-filter: blur(5px);
+    opacity: 0;
+    right: 0;    
+    -webkit-backdrop-filter: blur(5px);
+     padding: 30px 0; 
+    background: rgba(247,163,10,.9);
+}
+.dropinfo>ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.dropinfo>ul>li{
+    /* border-bottom: 1px solid #333; */
+    padding: 10px 0;
+}
+.dropinfo>ul>li>a{
+    text-transform: capitalize;
+    font-size: 14px;
+}
+.dropinfo>ul>li:hover a{
+    color: white;
+    font-weight: bold;
+}
+.dropimg{
+    filter: drop-shadow(0 0 10px #999);
+}
+#drop{
+    /* color: var(--yellow); */
+}
 
 @media only screen and (min-width: 993px) {
-    .menu-dropdown:hover .studentinformation {
-        /* display: block;
-        opacity: 1;
-        visibility: visible;
-        transform: translateY(0); */
-    }
+    /* #drop:hover  .studentinformation {
+     height: auto;
+     } */
 }
 
 @media only screen and (max-width: 992px) {

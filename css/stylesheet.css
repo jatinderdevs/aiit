@@ -1031,19 +1031,7 @@ position: relative;
     font-size: 2rem;
     color: black;
 }
-.studentinformation{
-    position: absolute;
-    left: 0;
-    bottom: -120px;
-    width: 100%;
-    opacity: 0;
-    right: 0;
-    padding: 30px 0;
-    background: var(--yellow);
-}
-.studentinformation:hover{
-    opacity: 1;
-}
+
 @media (min-width:320px){
    
     .headerGrid {
