@@ -890,7 +890,7 @@ address{
 .grid{
     display: grid;
     gap: 20px;
-
+    align-items: center;
 }
 .highlight{
     text-align: center;
@@ -1012,8 +1012,7 @@ position: relative;
 }
 .campusCard::after{
     inset: 0;
-
-     background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 0.7);
     backdrop-filter: blur(1px) saturate(137%); 
     z-index: -1;
     position: absolute;
@@ -1133,6 +1132,7 @@ position: relative;
     .grid{
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
         grid-template-rows: 1fr ;
+       
     }
     .reverse{
         flex-direction: unset;
