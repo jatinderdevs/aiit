@@ -15,7 +15,6 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/navigation.css">
     <link rel="stylesheet" href="css/font-awesome.css">
-
 </head>
 
 <body>
@@ -85,14 +84,14 @@
                                 <div class="dropinfo">
                                     <ul class="row">
                                         <li class="col-sm-6">
-                                            <a href="std-adm"><i class="fa fa-yelp" aria-hidden="true"></i> How to Apply</a>
+                                            <a href="studentAdmissionProcess.html"><i class="fa fa-yelp" aria-hidden="true"></i> How to Apply</a>
                                         </li>
                                         
                                         <li class="col-sm-6">
-                                            <a href="fee"><i class="fa fa-money" aria-hidden="true"></i> Tuition Fees and Charges</a>
+                                            <a href="courseFees.html"><i class="fa fa-money" aria-hidden="true"></i> Tuition Fees and Charges</a>
                                         </li>
                                         <li class="col-sm-6">
-                                            <a href="std-serv"> <i class="fa fa-info-circle" aria-hidden="true"></i> Student Services And Support</a>
+                                            <a href="studentServiceSupport.html"> <i class="fa fa-info-circle" aria-hidden="true"></i> Student Services And Support</a>
                                         </li>
                                         <li class="col-sm-6">
                                             <a href="pol-pro"><i class="fa fa-file-o" aria-hidden="true"></i> Policies and Procedures</a>
@@ -269,27 +268,28 @@
         </div>
         <div class="container">
             <!-- <h1 class="heading">our course</h1> -->
-            <div class="row">
-                <div class="col-md-4 col-6">
-                    <div class="courseCardBox">
-                        <img src="img/courses/cookery.png" alt="" class="img-fluid">                
+            <div class="owl-carousel owl-theme" id="courses">
+            <div class="item">
+                <div class="courseCardBox">
+                    <img src="img/courses/cookery.png" alt="" class="img-fluid">                
 
-                    </div>
                 </div>
-                <div class="col-md-4 col-6">
-                    <div class="courseCardBox">
-                        <img src="img/courses/leadership.png" alt="" class="img-fluid">                
-
-                    </div>
-                </div>
-                <div class="col-md-4 col-6">
-                    <div class="courseCardBox">
-                        <img src="img/courses/shortCourses.png" alt="" class="img-fluid">                
-
-                    </div>
-                </div>
-
             </div>
+            <div class="item">
+                <div class="courseCardBox">
+                    <img src="img/courses/shortCourses.png" alt="" class="img-fluid">                
+
+                </div>
+            </div>
+            <div class="item">
+                <div class="courseCardBox">
+                    <img src="img/courses/leadership.png" alt="" class="img-fluid">                
+
+                </div>
+            </div>
+            
+                </div>
+     
         </div>
     </section>
     <section class="services bggray ">
@@ -545,7 +545,6 @@
                 studentinformation.style.opacity="1";
             }
             
-
         }
     
      
@@ -571,6 +570,27 @@
             }
         })
 
+        
+        var courseOwl=  $('#courses').owlCarousel({
+            loop: true,
+            margin:20,
+            stagePadding: 50,
+            autoplay: true,
+            autoplayTimeout: 1500,
+            autoplayHoverPause:true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 2
+                },
+                1000: {
+                    items: 3
+                }
+            }
+        });
+       
 
       var owl=  $('#partners').owlCarousel({
             loop: true,
