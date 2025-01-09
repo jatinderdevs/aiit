@@ -1082,6 +1082,18 @@ position: relative;
     font-size: 14px;
     font-weight: bold;
 }
+.policy::before{
+    position: absolute;
+    content: '';
+    top: 0;
+    /* background: red; */
+    bottom: 0%;
+    transform: rotate(30deg) ;
+    width:120px;
+    opacity: 0.1;
+    right: 40%;
+    background:url('../img/icons/pdf.png') center  no-repeat;
+}
 .policy::after{
     position: absolute;
     content: '';
@@ -1162,6 +1174,28 @@ position: relative;
     font-weight: bold;
     font-size: 14px;
 }
+.chatIcon{
+    padding: 20px;
+    box-shadow: 0 0 10px;
+    border: 3px solid var(--yellow);
+    border-radius: 50%;
+    background-color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    transform: scale(0.5);
+    animation: 2s ease-in-out 1s infinite alternate popup;
+}
+@keyframes popup{
+    from{
+        transform: scale(0.6);
+    }
+    to{
+        transform: scale(0.5);
+
+    }
+}
+
 @media (min-width:320px){
    
     .headerGrid {
