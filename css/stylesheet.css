@@ -1052,6 +1052,77 @@ position: relative;
     overflow: hidden;
     box-shadow:  0 0 10px #dfdfdf;
 }
+.policiesList{
+    height: 70vh;
+    overflow: auto;
+}
+.policy{
+    box-shadow: 0 0 10px #dfdfdf;
+    padding: 20px 30px;
+    display: flex;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    border: 1px solid #dfdfdf;
+}
+.policy:hover{
+    box-shadow: inset 0 0 10px #dfdfdf;
+    background: #f9f9fb;
+    transition: ease-in-out all 1s;
+
+
+}
+.policy i{
+    color: #dc3545;
+}
+.policy a{
+    font-size: 14px;
+    font-weight: bold;
+}
+.policy::after{
+    position: absolute;
+    content: '';
+    width: 20px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #dc3545;
+}
+.policyinform{
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color:#f7a40a42 ;
+    padding: 40px 10px;
+    text-align: justify;
+}
+
+*::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+*::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+*::-webkit-scrollbar-thumb
+{
+	background-color: var(--black);	
+	background-image: -webkit-linear-gradient(45deg,
+	                                          rgba(255, 255, 255, .2) 25%,
+											  transparent 25%,
+											  transparent 50%,
+											  rgba(255, 255, 255, .2) 50%,
+											  rgba(255, 255, 255, .2) 75%,
+											  transparent 75%,
+											  transparent)
+}
 
 @media (min-width:320px){
    
