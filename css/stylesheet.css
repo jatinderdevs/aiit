@@ -600,7 +600,7 @@ label{
     margin-top:10px ;
 }
 .contactboxes{
-    background:url('https://shorturl.at/TT9S0') no-repeat center fixed;
+    background:url('https://shorturl.at/8I363') no-repeat center fixed;
     background-size: cover;
 }
 .contactbox{
@@ -617,7 +617,7 @@ label{
     box-shadow: 0 0 10px;
 }
 .contactbox:hover{
-   background-color: rgba(255, 255, 255, 0.6);
+   background-color: rgba(255, 244, 149, 0.6);
 
 }
 .contactbox h4{
@@ -1106,7 +1106,7 @@ position: relative;
 .policyinform{
     margin-top: 10px;
     border-radius: 5px;
-    background-color:#f7a40a42 ;
+    background-color:#dddddd42 ;
     padding: 40px 10px;
     text-align: justify;
 }
