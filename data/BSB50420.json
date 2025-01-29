@@ -1,0 +1,63 @@
+[
+    {
+      "UNIT_CODE": "BSBCMM511",
+      "UNIT_TITLE": "Communicate with influence",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBCRT511",
+      "UNIT_TITLE": "Develop critical thinking in others",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBLDR523",
+      "UNIT_TITLE": "Lead and manage effective workplace relationships",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBOPS502",
+      "UNIT_TITLE": "Manage business operational plans",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBPEF502",
+      "UNIT_TITLE": "Develop and use emotional intelligence",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBTWK502",
+      "UNIT_TITLE": "Manage team effectiveness",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBOPS504",
+      "UNIT_TITLE": "Manage business risk",
+      "CORE_ELECTIVE": "Elective"
+    },
+    {
+      "UNIT_CODE": "BSBOPS505",
+      "UNIT_TITLE": "Manage organisational customer service",
+      "CORE_ELECTIVE": "Elective"
+    },
+    {
+      "UNIT_CODE": "BSBTWK503",
+      "UNIT_TITLE": "Manage meetings",
+      "CORE_ELECTIVE": "Elective"
+    },
+    {
+      "UNIT_CODE": "BSBTWK501",
+      "UNIT_TITLE": "Lead diversity and inclusion",
+      "CORE_ELECTIVE": "Elective"
+    },
+    {
+      "UNIT_CODE": "BSBSTR502",
+      "UNIT_TITLE": "Facilitate continuous improvement",
+      "CORE_ELECTIVE": "Elective"
+    },
+    {
+      "UNIT_CODE": "BSBWHS521",
+      "UNIT_TITLE": "Ensure a safe workplace for a work area",
+      "CORE_ELECTIVE": "Elective"
+    }
+  ]
+  

@@ -1,0 +1,53 @@
+[
+    {
+      "unit_code": "BSBCRT611",
+      "unit_title": "Apply critical thinking for complex problem solving",
+      "core_elective": "Core"
+    },
+    {
+      "unit_code": "BSBLDR601",
+      "unit_title": "Lead and manage organisational change",
+      "core_elective": "Core"
+    },
+    {
+      "unit_code": "BSBLDR602",
+      "unit_title": "Provide leadership across the organisation",
+      "core_elective": "Core"
+    },
+    {
+      "unit_code": "BSBOPS601",
+      "unit_title": "Develop and implement business plans",
+      "core_elective": "Core"
+    },
+    {
+      "unit_code": "BSBSTR601",
+      "unit_title": "Manage innovation and continuous improvement",
+      "core_elective": "Core"
+    },
+    {
+      "unit_code": "BSBCMM511",
+      "unit_title": "Communicate with influence",
+      "core_elective": "Elective"
+    },
+    {
+      "unit_code": "BSBHRM613",
+      "unit_title": "Contribute to the development of learning and development strategies",
+      "core_elective": "Elective"
+    },
+    {
+      "unit_code": "BSBHRM614",
+      "unit_title": "Contribute to strategic workforce planning",
+      "core_elective": "Elective"
+    },
+    {
+      "unit_code": "BSBPEF501",
+      "unit_title": "Manage personal and professional development",
+      "core_elective": "Elective"
+    },
+    {
+      "unit_code": "BSBSTR602",
+      "unit_title": "Develop organisational strategies",
+      "core_elective": "Elective"
+    }
+  ]
+  

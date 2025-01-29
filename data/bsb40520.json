@@ -1,0 +1,63 @@
+[
+    {
+      "UNIT_CODE": "BSBLDR411",
+      "UNIT_TITLE": "Demonstrate leadership in the workplace",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBLDR413",
+      "UNIT_TITLE": "Lead effective workplace relationships",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBOPS402",
+      "UNIT_TITLE": "Coordinate business operational plans",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBXCM401",
+      "UNIT_TITLE": "Apply communication strategies in the workplace",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBXTW401",
+      "UNIT_TITLE": "Lead and facilitate a team",
+      "CORE_ELECTIVE": "Core"
+    },
+    {
+      "UNIT_CODE": "BSBLDR414",
+      "UNIT_TITLE": "Lead team effectiveness",
+      "CORE_ELECTIVE": "Elective (Group A)"
+    },
+    {
+      "UNIT_CODE": "BSBOPS403",
+      "UNIT_TITLE": "Apply business risk management processes",
+      "CORE_ELECTIVE": "Elective (Group A)"
+    },
+    {
+      "UNIT_CODE": "BSBPEF402",
+      "UNIT_TITLE": "Develop personal work priorities",
+      "CORE_ELECTIVE": "Elective (Group A)"
+    },
+    {
+      "UNIT_CODE": "BSBWHS411",
+      "UNIT_TITLE": "Implement and monitor WHS policies, procedures, and programs",
+      "CORE_ELECTIVE": "Elective (Group A)"
+    },
+    {
+      "UNIT_CODE": "BSBSTR401",
+      "UNIT_TITLE": "Promote innovation in team environments",
+      "CORE_ELECTIVE": "Elective"
+    },
+    {
+      "UNIT_CODE": "BSBOPS404",
+      "UNIT_TITLE": "Implement customer service strategies",
+      "CORE_ELECTIVE": "Elective"
+    },
+    {
+      "UNIT_CODE": "BSBPMG430",
+      "UNIT_TITLE": "Undertake project work",
+      "CORE_ELECTIVE": "Elective"
+    }
+  ]
+  

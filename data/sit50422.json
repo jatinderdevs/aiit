@@ -1,0 +1,179 @@
+{
+    "units": [
+      {
+        "unit_code": "SITXCCS015",
+        "unit_title": "Enhance customer service experiences",
+        "core_elective": "Core",
+        "note": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT40521 - Certificate IV in Kitchen Management"
+      },
+      {
+        "unit_code": "SITXCCS016",
+        "unit_title": "Develop and manage quality customer service practices",
+        "core_elective": "Core"
+      },
+      {
+        "unit_code": "SITXCOM010",
+        "unit_title": "Manage conflict",
+        "core_elective": "Core",
+        "note": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT40521 - Certificate IV in Kitchen Management"
+      },
+      {
+        "unit_code": "SITXFIN009",
+        "unit_title": "Manage finances within a budget",
+        "core_elective": "Core",
+        "note": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT40521 - Certificate IV in Kitchen Management"
+      },
+      {
+        "unit_code": "SITXFIN010",
+        "unit_title": "Prepare and monitor budgets",
+        "core_elective": "Core"
+      },
+      {
+        "unit_code": "SITXGLC002",
+        "unit_title": "Identify and manage legal risks and comply with law",
+        "core_elective": "Core"
+      },
+      {
+        "unit_code": "SITXHRM008",
+        "unit_title": "Roster staff",
+        "core_elective": "Core",
+        "note": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT40521 - Certificate IV in Kitchen Management"
+      },
+      {
+        "unit_code": "SITXHRM009",
+        "unit_title": "Lead and manage people",
+        "core_elective": "Core",
+        "note": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT40521 - Certificate IV in Kitchen Management"
+      },
+      {
+        "unit_code": "SITXMGT004",
+        "unit_title": "Monitor work operations",
+        "core_elective": "Core",
+        "note": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT40521 - Certificate IV in Kitchen Management"
+      },
+      {
+        "unit_code": "SITXMGT005",
+        "unit_title": "Establish and conduct business relationships",
+        "core_elective": "Core"
+      },
+      {
+        "unit_code": "SITXWHS007",
+        "unit_title": "Implement and monitor work health and safety practices",
+        "core_elective": "Core",
+        "note": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT40521 - Certificate IV in Kitchen Management"
+      },
+      {
+        "unit_code": "SITXFSA005",
+        "unit_title": "Use hygienic practices for food safety",
+        "core_elective": "Elective",
+        "group": "Group A",
+        "note": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHKOP013",
+        "unit_title": "Plan cooking operations",
+        "core_elective": "Elective",
+        "group": "Group B",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT40521 - Certificate IV in Kitchen Management. Work Placement Unit of Competency requiring completion in an industry workplace or simulated environment"
+      },
+      {
+        "unit_code": "SITHCCC023",
+        "unit_title": "Use food preparation equipment",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHCCC027",
+        "unit_title": "Prepare dishes using basic methods of cookery",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHCCC028",
+        "unit_title": "Prepare appetisers and salads",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHCCC029",
+        "unit_title": "Prepare stocks, sauces and soups",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHCCC030",
+        "unit_title": "Prepare vegetable, fruit, eggs and farinaceous dishes",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. Prerequisite unit - SITHCCC027 - Prepare dishes using basic methods of cookery. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHCCC031",
+        "unit_title": "Prepare vegetarian and vegan dishes",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. Prerequisite unit - SITHCCC027 - Prepare dishes using basic methods of cookery. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHCCC035",
+        "unit_title": "Prepare poultry dishes",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. Prerequisite unit - SITHCCC027 - Prepare dishes using basic methods of cookery. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHCCC036",
+        "unit_title": "Prepare meat dishes",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. Prerequisite unit - SITHCCC027 - Prepare dishes using basic methods of cookery. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHCCC037",
+        "unit_title": "Prepare seafood dishes",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. Prerequisite unit - SITHCCC027 - Prepare dishes using basic methods of cookery. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHCCC041",
+        "unit_title": "Produce cakes, pastries and breads",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITHCCC042",
+        "unit_title": "Prepare food to meet special dietary requirements",
+        "core_elective": "Elective",
+        "group": "Group C",
+        "note": "Prerequisite unit - SITXFSA005 - Use hygienic practices for food safety. Prerequisite unit - SITHCCC027 - Prepare dishes using basic methods of cookery. This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery"
+      },
+      {
+        "unit_code": "SITXINV007",
+        "unit_title": "Purchase goods",
+        "core_elective": "Elective"
+      },
+      {
+        "unit_code": "SITXINV008",
+        "unit_title": "Control stocks",
+        "core_elective": "Elective"
+      },
+      {
+        "unit_code": "BSBOPS504",
+        "unit_title": "Manage business risk",
+        "core_elective": "Elective"
+      },
+      {
+        "unit_code": "BSBTWK501",
+        "unit_title": "Lead diversity and inclusion",
+        "core_elective": "Elective",
+        "note": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT40521 - Certificate IV in Kitchen Management"
+      }
+    ]
+  }
+  

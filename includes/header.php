@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+$base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 
+?>
+<base href="<?php echo $base_url; ?>" />
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -34,7 +38,6 @@
                 <div>
                     <a href="callto:+61 3 96497691"><i class="fa fa-phone" aria-hidden="true"></i> +61 3 96497690</a>
                 </div>
-
                 <div class="headerGridBtn">
                     <a class="btn btn-sm btn-light text-dark" href="https://aiit-vic-lms.moodlecloud.com/login/index.php"> 
                         <img src="img/icons/Moodle_Icon.png" width="70px" alt=""></a>

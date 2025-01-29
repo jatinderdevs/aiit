@@ -18,7 +18,7 @@
         <hr>
         <div class="row">
             <div class="col-md-3 col-6 cooking">
-                <a href="Coursepage.php">
+                <a href="courses/commercialCookery/certificate-III-in-Commercial-Cookery.php">
                     <div class="courseCard ">
                         <div class="cardBody">
                             <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -32,7 +32,7 @@
            
             </div>
             <div class="col-md-3 col-6 cooking">
-                <a href="courses/commercialCookery/certificateIvKitchenManagement.php">
+                <a href="courses/commercialCookery/certificate-IV-in-Kitchen-Management.php">
                     <div class="courseCard ">
                         <div class="cardBody">
                             <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -49,6 +49,7 @@
              
             </div>
             <div class="col-md-3 col-6 cooking">
+                <a href="courses/commercialCookery/diploma-of-hospitality-management.php">
                 <div class="courseCard ">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -60,6 +61,8 @@
                             <p class="text-danger">    (Packaged Pathway)</p></h4>
                     </div>
                 </div>
+                </a>
+             
             </div>
             <div class="col-md-3 col-6 cooking">
                 <div class="courseCard ">
@@ -88,6 +91,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-6 leadership">
+                <a href="courses/leadership/certificate-iv-in-leadership-and-management.php">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -98,8 +102,11 @@
                         <h4> Certificate IV in Leadership and Management</h4>
                     </div>
                 </div>
+                </a>
+              
             </div>
             <div class="col-md-3 col-6 leadership">
+            <a href="courses/leadership/diploma-of-leadership-and-management.php">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -110,20 +117,23 @@
                         <h4>Diploma of LEADERSHIP AND MANAGEMENT</h4>
                     </div>
                 </div>
+            </a>
             </div>
             <div class="col-md-3 col-6 leadership">
+            <a href="courses/leadership/advance-diploma-of-leadership-and-management.php">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
                         <small class="badge badge-success">BSB60420</small>
-    
                         <h4> Advanced Diploma of LEADERSHIP AND MANAGEMENT</h4>
                     </div>
                 </div>
+            </a>
             </div>
             <div class="col-md-3 col-6 leadership">
+            <a href="courses/leadership/graduate-diploma-of-strategic-leadership.php">
                 <div class="courseCard">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -134,6 +144,7 @@
                         <h4> Graduate Diploma of Strategic Leadership</h4>
                     </div>
                 </div>
+                </a>
             </div>
             <div class="col-md-3 col-6 shortCourse">
                 <div class="courseCard">

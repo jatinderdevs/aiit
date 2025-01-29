@@ -1,0 +1,43 @@
+[
+    {
+      "unit_code": "BSBLDR811",
+      "unit_title": "Lead strategic transformation",
+      "core_elective": "Core"
+    },
+    {
+      "unit_code": "BSBSTR802",
+      "unit_title": "Lead strategic planning processes for an organisation",
+      "core_elective": "Core"
+    },
+    {
+      "unit_code": "BSBINS603",
+      "unit_title": "Initiate and lead applied research",
+      "core_elective": "Core"
+    },
+    {
+      "unit_code": "BSBLDR812",
+      "unit_title": "Develop and cultivate collaborative partnerships and relationships",
+      "core_elective": "Elective"
+    },
+    {
+      "unit_code": "BSBPMG814",
+      "unit_title": "Lead the portfolio",
+      "core_elective": "Elective"
+    },
+    {
+      "unit_code": "BSBSTR801",
+      "unit_title": "Lead innovative thinking and practices",
+      "core_elective": "Elective"
+    },
+    {
+      "unit_code": "BSBSTR803",
+      "unit_title": "Establish business continuity management strategies",
+      "core_elective": "Elective"
+    },
+    {
+      "unit_code": "BSBTEC601",
+      "unit_title": "Review organisational digital strategy",
+      "core_elective": "Elective"
+    }
+  ]
+  
