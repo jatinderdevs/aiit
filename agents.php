@@ -6,8 +6,8 @@
     </section>
 <section>
     <div class="container">
-
-        <a href="https://www.aiit.vic.edu.au/PDF/forms/AIIT_45485_FORM_Agent_Application_RT.pdf"  download class="btn btn-warning">Download Agent Application Form </a>
+        <a href="https://www.aiit.vic.edu.au/PDF/forms/AIIT_45485_FORM_Agent_Application_RT.pdf"  download class="btnCstm blue  text-light"> <i class="fa fa-download" aria-hidden="true"></i> Agent Application Form </a>
+        <br>
         <hr>
         <div class="agents">
             <div class="agentbox">
@@ -76,9 +76,8 @@ agentData.forEach(agent => {
                         <p> 1602/150 Epping Road Lane Cove West, New South Wales 2066</p>
                     </div>
                     <div>
-                        <p><i class="fa fa-phone-square" aria-hidden="true"></i> ${agent['Agent Business Phone']}</p>
-                        <a class="btn-link" href="${agent['Agent Email']}"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</a>
-                        <p><i class="fa fa-globe" aria-hidden="true"></i> ${agent['website']}</p>
+                    <button class="btnCstm btn-sm" >Contact</button>
+                       
                       
                     </div>
                 </div>
@@ -93,3 +92,6 @@ agents.innerHTML=content;
 </body>
 
 </html>
+<!-- <p><i class="fa fa-phone-square" aria-hidden="true"></i> ${agent['Agent Business Phone']}</p>
+                        <a class="btn-link" href="${agent['Agent Email']}"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</a>
+                        <p><i class="fa fa-globe" aria-hidden="true"></i> ${agent['website']}</p> -->
