@@ -18,13 +18,13 @@
                     <div class="foottab">
                         <h4>quick links</h4>
                         <ul>
-                            <li><a href="">national Regulator - ASQA</a></li>
+                            <li><a href="https://www.asqa.gov.au/" target="_blank">national Regulator - ASQA</a></li>
                             <li><a href="https://www.education.gov.au/esos-framework" target="_blank">ESOS Legislative
                                     Framework</a></li>
                             <li><a href="https://www.yourcareer.gov.au/learn-and-train/training-providers/45485"
                                     target="_blank">YourCareer (MySkills)</a></li>
-                            <li><a href="useful-links">Useful Links</a></li>
-                            <li><a href="Crd-to">Special Thanks and Credits</a></li>
+                            <li><a href="useful-links.php">Useful Links</a></li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                         </span>
                         <hr>
                         <h6>AQF CERTIFICATE VERIFICATION</h6>
-                        <a href="" class="btn btn-sm btn-outline-light">Click here</a>
+                        <a href="https://learner.wisenet.co/AII/CertificateValidation" target="_blank" class="btn btn-sm btn-outline-light">Click here</a>
                     </div>
                 </div>
             </div>
@@ -160,12 +160,15 @@
         });
        
 
-      var owl=  $('#partners').owlCarousel({
+      var owl=  $('.ourpartners').owlCarousel({
             loop: true,
             margin:20,
             stagePadding: 50,
             autoplay: true,
             autoplayTimeout: 1500,
+            
+          
+    
             responsive: {
                 0: {
                     items: 2
@@ -188,6 +191,19 @@
 });
 
     </script>
+    <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6799afd53a84273260769046/1iio5dmmu';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 </body>
 
 </html>

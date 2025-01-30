@@ -9,42 +9,7 @@
     <div class="container">
         <h1 class="heading">Useful Links</h1>
         <div class="row">
-            <div class="col-md-4">
-                <div class="linkBox">
-                    <div class="linkBody">
-                        <a href="">
-                            <img src="https://www.education.gov.au/themes/custom/gurney/favicon.ico" style="filter: invert();"  class="img-fluid" alt="">
-                    </a>
-                    </div>
-                    <div class="linkTxt">
-                        <a href="">Australian Skills Quality Authority (ASQA)  <i class="fa fa-external-link" aria-hidden="true"></i></a>
-                    </div>
-                  </div>
-            </div>
-            <div class="col-md-4">
-                <div class="linkBox">
-                    <div class="linkBody">
-                        <a href="">
-                        <img src="https://www.asqa.gov.au/themes/custom/asqa_theme/favicons/safari-pinned-tab.svg"  class="img-fluid" alt="">
-                    </a>
-                    </div>
-                    <div class="linkTxt">
-                        <a href="">Standards for Registered Training Organisations (RTO) 2015 <i class="fa fa-external-link" aria-hidden="true"></i></a>
-                    </div>
-                  </div>
-            </div>
-            <div class="col-md-4">
-                <div class="linkBox">
-                    <div class="linkBody">
-                        <a href="">
-                        <img src="https://www.education.gov.au/themes/custom/gurney/favicon.ico"  style="filter: invert();" class="img-fluid" alt="">
-                    </a>
-                    </div>
-                    <div class="linkTxt">
-                        <a href="">ESOS Legislative Framework <i class="fa fa-external-link" aria-hidden="true"></i></a>
-                    </div>
-                  </div>
-            </div>
+            
             <div class="col-md-4">
                 <div class="linkBox">
                     <div class="linkBody">
@@ -201,6 +166,42 @@
                     </div>
                     <div class="linkTxt">
                         <a href="">Insider Guides <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-md-4">
+                <div class="linkBox">
+                    <div class="linkBody">
+                        <a href="">
+                            <img src="https://www.education.gov.au/themes/custom/gurney/favicon.ico" style="filter: invert();"  class="img-fluid" alt="">
+                    </a>
+                    </div>
+                    <div class="linkTxt">
+                        <a href="">Australian Skills Quality Authority (ASQA)  <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-md-4">
+                <div class="linkBox">
+                    <div class="linkBody">
+                        <a href="">
+                        <img src="https://www.asqa.gov.au/themes/custom/asqa_theme/favicons/safari-pinned-tab.svg"  class="img-fluid" alt="">
+                    </a>
+                    </div>
+                    <div class="linkTxt">
+                        <a href="">Standards for Registered Training Organisations (RTO) 2015 <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-md-4">
+                <div class="linkBox">
+                    <div class="linkBody">
+                        <a href="">
+                        <img src="https://www.education.gov.au/themes/custom/gurney/favicon.ico"  style="filter: invert();" class="img-fluid" alt="">
+                    </a>
+                    </div>
+                    <div class="linkTxt">
+                        <a href="">ESOS Legislative Framework <i class="fa fa-external-link" aria-hidden="true"></i></a>
                     </div>
                   </div>
             </div>

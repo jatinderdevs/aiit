@@ -226,7 +226,7 @@
         <div class="container">
             <h1 class="heading">our partners</h1>
             <br>
-            <div class="owl-carousel owl-theme" id="partners">
+            <div class="owl-carousel owl-theme ourpartners"  id="partners">
                 <div class="item">
                     <div class="partner">
                         <img src="img/partners/aqf.webp" class="img-fluid" alt="">
@@ -286,6 +286,69 @@
                     </div>
 
                 </div>
+            </div>
+            <div class="owl-carousel owl-theme ourpartners" id="partners">
+            <div class="item">
+                    <div class="partner">
+                        <img src="img/partners/aqf.webp" alt="">
+                    </div>
+
+                </div>
+                <div class="item">
+                    <div class="partner">
+                        <img src="img/partners/globalvic.webp" alt="">
+                    </div>
+
+                </div>
+                <div class="item">
+                    <div class="partner">
+                        <img src="img/partners/iteca.webp" alt="">
+                    </div>
+
+                </div>
+                <div class="item">
+                    <div class="partner">
+                        <img src="img/partners/aqf.webp" class="img-fluid" alt="">
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="partner">
+                        <img src="img/partners/asqa.webp" alt="">
+                    </div>
+
+                </div>
+             
+                <div class="item">
+                    <div class="partner">
+                        <img src="img/partners/sportingglobe.webp" alt="">
+                    </div>
+
+                </div>
+                <div class="item">
+                    <div class="partner">
+                        <img src="img/partners/lcv.webp" alt="">
+                    </div>
+
+                </div>
+                <div class="item">
+                    <div class="partner">
+                        <img src="img/partners/mamacanteen.webp" alt="">
+                    </div>
+
+                </div>
+                <div class="item">
+                    <div class="partner">
+                        <img src="img/partners/cityofmelb.webp" alt="">
+                    </div>
+
+                </div>
+              
+                <div class="item">
+                    <div class="partner">
+                        <img src="img/partners/scu.webp" alt="">
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>

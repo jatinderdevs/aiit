@@ -22,9 +22,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 </head>
 
 <body>
-    <div class="chatIcon">
-        <img src="img/icons/online-chat.png" class="img-fluid" alt="">
-    </div>
+    
     <div class="headerbar">
         <div class="container-fluid">
             <div class="headerGrid">

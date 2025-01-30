@@ -866,6 +866,7 @@ address{
 .agentbox:hover::after{
     inset: 0;
 }
+
 .agentbox:hover .agentlogo{
     transform: rotateX(360deg);
 }
