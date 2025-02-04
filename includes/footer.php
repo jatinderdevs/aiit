@@ -114,13 +114,9 @@
             }
             
         }
-    
-     
-        
         $('#banner').owlCarousel({
             loop: true,
             margin: 0,
-            nav: true,
             autoplay: true,
             autoplayTimeout: 2500,
 
@@ -137,7 +133,17 @@
                 }
             }
         })
-
+        $('#testimonials').owlCarousel({
+            loop: true,
+            margin: 0,
+            autoplay: true,
+            autoplayTimeout: 2500,
+            dots:true,
+            animateOut: "animate__animated animate__slideOutDown",
+            // animateIn: "animate__animated animate__flipInX",
+            items: 1,
+            
+        })
         
         var courseOwl=  $('#courses').owlCarousel({
             loop: true,

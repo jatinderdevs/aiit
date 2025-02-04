@@ -1209,6 +1209,34 @@ position: relative;
     }
 }
 
+.testiheading{
+    text-align: center;
+    font-weight: 800;
+    text-transform: capitalize;
+}
+.testibox{
+    display: grid;
+    background: white;
+    padding: 30px 0;
+    grid-template-columns: 30% 70%;
+    align-items: center;
+}
+.testi{
+    width: 250px;
+    margin: 0 auto;
+    overflow: hidden;
+    /* border-radius: 10px; */
+    box-shadow: 0.5rem 0.5rem var(--yellow), -0.5rem -0.5rem var(--green);
+}
+.testi:hover{
+    box-shadow: unset;
+}
+.testitxt p{
+    line-height: 2.0;
+    
+    text-align: justify !important;
+}
+
 @media (min-width:320px){
    .cardAgent{
     grid-template-columns: auto;

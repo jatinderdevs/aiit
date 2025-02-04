@@ -163,6 +163,60 @@
      
         </div>
     </section>
+    <section class="testimonial">
+        <div class="container">
+                <h1 class=" testiheading">What our student says</h1>
+                <div class="owl-carousel owl-theme " id="testimonials">
+                                <div class="item">
+                                        <div class="testibox ">
+                                                <div class="testi ">
+                                                        <video class="img-fluid" autoplay  controls>
+                                                        <source src="videos/testimonial01.mp4" type="video/mp4">
+                                                        Your browser does not support the video tag.
+                                                        </video>
+                                                 </div>
+                                            <div class="testitxt">
+                                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus autem aperiam laboriosam neque recusandae, asperiores deserunt expedita. Tenetur, aut mollitia fugit fugiat quia eos ad officia itaque, in quibusdam nisi expedita, praesentium quis. Harum temporibus quasi possimus numquam iusto porro molestias, vel, ullam architecto minus facilis illo praesentium ea voluptatum explicabo! Et, ducimus voluptas in accusamus magni exercitationem inventore nemo.</p>
+                                                        <br>
+                                                        <img src="img/icons/starRating.png" style="width:100px !important" alt="">
+                                                        
+                                                        <strong>- Jhon Smith <small>(Commercial Cookery 2024)</small></strong>
+                                                        <br>
+                                                        <br>
+                                                        <p><img src="img/testimonial/philipine.png" style="width:24px !important; display:inline-block" alt=""> Philippines<br></p>
+                                             </div>  
+                                            </div>
+                                            </div>
+                                <div class="item">
+                                    <div class="testibox ">
+                                    <div class="testi ">
+                                            <video class="img-fluid" autoplay  controls>
+                                            <source src="videos/testimonial02.mp4" type="video/mp4">
+                                            Your browser does not support the video tag.
+                                            </video>
+                                        </div>
+                                
+                                    <div class="testitxt">
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus autem aperiam laboriosam neque recusandae, asperiores deserunt expedita. Tenetur, aut mollitia fugit fugiat quia eos ad officia itaque, in quibusdam nisi expedita, praesentium quis. Harum temporibus quasi possimus numquam iusto porro molestias, vel, ullam architecto minus facilis illo praesentium ea voluptatum explicabo! Et, ducimus voluptas in accusamus magni exercitationem inventore nemo.</p>
+                                        <br>
+                                        <img src="img/icons/starRating.png" style="width:100px !important" alt="">
+                                        
+                                        <strong>- Neena Devi <small>(Commercial Cookery 2024)</small></strong>
+                                        <br>
+                                        <br>
+                                        <p><img src="img/testimonial/philipine.png" style="width:24px !important; display:inline-block" alt=""> India<br></p>
+
+
+                                    </div>  
+                                </div>
+                </div>
+        </div>
+                      
+                     
+                      
+                  
+             
+    </section>
     <section class="services bggray ">
         <div class="container">
             
