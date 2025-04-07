@@ -76,7 +76,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                             <li class="submenu-item"><a href="courseFees.php" class="submenu-link">courses Fees</a>
                             </li>
                             <li class="submenu-item"><a href="studentAdmissionProcess.php" class="submenu-link">Student Admission Process</a></li>
-                            <li class="submenu-item"><a href="studentServiceSupport.php" class="submenu-link">Student Service Support</a></li>
+                            <li class="submenu-item"><a href="student-services-and-support.php" class="submenu-link">Student Service Support</a></li>
 
                         </ul>
                     </li>
@@ -97,7 +97,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                                             <a href="courseFees.php"><i class="fa fa-money" aria-hidden="true"></i> Tuition Fees and Charges</a>
                                         </li>
                                         <li class="col-sm-6">
-                                            <a href="studentServiceSupport.php"> <i class="fa fa-info-circle" aria-hidden="true"></i> Student Services And Support</a>
+                                            <a href="student-services-and-support.php"> <i class="fa fa-info-circle" aria-hidden="true"></i> Student Services And Support</a>
                                         </li>
                                         <li class="col-sm-6">
                                             <a href="policies.php"><i class="fa fa-file-o" aria-hidden="true"></i> Policies and Procedures</a>

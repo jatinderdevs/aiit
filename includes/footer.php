@@ -136,8 +136,9 @@
         $('#testimonials').owlCarousel({
             loop: true,
             margin: 0,
-            autoplay: true,
-            autoplayTimeout: 2500,
+            autoplay: false,
+            autoplayTimeout: 3500,
+            autoplayHoverPause:true,
             dots:true,
             animateOut: "animate__animated animate__slideOutDown",
             // animateIn: "animate__animated animate__flipInX",
@@ -172,7 +173,7 @@
             stagePadding: 50,
             autoplay: true,
             autoplayTimeout: 1500,
-            
+            dots:false,
           
     
             responsive: {

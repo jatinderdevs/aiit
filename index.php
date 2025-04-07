@@ -19,10 +19,10 @@
                 <div class="col-md-6">
                     <div class="owl-carousel owl-theme" id="banner">
                         <div class="item">
-                            <img src="https://shorturl.at/TVOjI" alt="">
+                            <img src="https://img.freepik.com/premium-vector/happy-young-employees-giving-support-help-each-other_179970-676.jpg?w=826" alt="">
                         </div>
                         <div class="item">
-                            <img src="https://shorturl.at/Jg7Uu" alt="">
+                            <img src="https://img.freepik.com/free-vector/chef-masterclass-concept-illustration_114360-22567.jpg?t=st=1744003406~exp=1744007006~hmac=e4fa6db83af7c1bf7cdf0bbf2d6293b90902e8ba025bd45a9068903335c8764d&w=996" alt="">
 
                         </div>
                         <div class="item">
@@ -190,7 +190,7 @@
                                 <div class="item">
                                     <div class="testibox ">
                                     <div class="testi ">
-                                            <video class="img-fluid" autoplay  controls>
+                                            <video class="img-fluid"   controls>
                                             <source src="videos/testimonial02.mp4" type="video/mp4">
                                             Your browser does not support the video tag.
                                             </video>
