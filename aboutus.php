@@ -1,4 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<?php
+$base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
+
+?>
+<base href="<?php echo $base_url; ?>" />
+<head>
+<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us | AIIT Melbourne</title>
+  <meta name="description" content="Learn about AIIT Melbourne, offering top cookery & leadership training. Discover our mission.">
+  <meta name="keywords" content="AIIT about us, who is AIIT Melbourne, AIIT college history,Cookery courses Melbourne,best cookery courses in Melbourne,Melbourne Cookery College,Commercial cookery college near to the Flinders Street,Leadership courses Melbourne CBD,Commercial cookery training in Melbourne CBD,Diploma of Leadership and Management Melbourne,Vocational training Melbourne,International student courses Melbourne">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.aiit.edu.au/aboutus.php">
+  <meta property="og:title" content="Contact Us| AIIT Melbourne">
+  <meta property="og:description" content="Learn about AIIT Melbourne, offering top cookery & leadership training. Discover our mission.">
+  <meta property="og:image" content="https://www.aiit.edu.au/img/logo.png">
+  <meta property="og:url" content="https://www.aiit.edu.au/courses/aboutus.php">
+  <meta property="og:type" content="website">
+    <?php include_once('./includes/links.php') ?>
+</head>
+
+<body>
+    
 <?php include_once('./includes/header.php') ?>
+    
     <section class="headersection">
         <div class="container">
             <h1 class="pageHeading">about us </h1>

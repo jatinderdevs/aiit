@@ -1,6 +1,23 @@
-<?php include_once('../../includes/header.php') ?>
 
-    <section class="headersection">
+<!DOCTYPE html>
+<html lang="en">
+<?php
+$base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
+
+?>
+<base href="<?php echo $base_url; ?>" />
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIIT COLLAGE || Courses</title>
+    <?php include_once('../../includes/links.php') ?>
+</head>
+
+<body>
+    
+<?php include_once('../../includes/header.php') ?>
+   
+   <section class="headersection">
         <div class="headerlayer">
             <div class="container">
                 <h1 class="pageHeading">BSB60420 - Advanced Diploma of leadership and management</h1>

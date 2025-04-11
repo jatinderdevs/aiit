@@ -1,5 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<?php
+$base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
+
+?>
+<base href="<?php echo $base_url; ?>" />
+<head>
+<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Courses | AIIT Melbourne</title>
+  <meta name="description" content="Hands-on courses for career success. Enroll today! in Commercial cookery and Leadership Courses">
+  <meta name="keywords" content="AIIT, AIIT Melbourne, Courses Fees for VET, AIIT college Tuition Fees Details, Cookery tuition fees, Leadership Course Tuition Fees">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.aiit.edu.au/courses.php">
+    <?php include_once('./includes/links.php') ?>
+</head>
+
+<body>
+    
 <?php include_once('./includes/header.php') ?>
-    <section class="headersection">
+    
+
+
+<section class="headersection">
         <div class="headerlayer">
             <div class="container">
                 <h1 class="pageHeading">our  courses </h1>

@@ -9,7 +9,6 @@
                             <br>
                             <a href="https://cricos.education.gov.au/Institution/InstitutionDetails.aspx?ProviderCode=03754M" target="_blank"> CRICOS - 03754M</a><br>
                             <a href="https://abr.business.gov.au/ABN/View?id=24622575679" target="_blank">ABN - 24 622 575 679</a>
-                       
                         </span>
 
                     </div>
@@ -47,8 +46,6 @@
                                 <a href="PDF/forms/AIIT_45485_FORM_Agent_Application_RT.pdf" target="_blank">Agent
                                     Application Form</a>
                             </li>
-
-
                         </ul>
                     </div>
                 </div>
@@ -102,15 +99,24 @@
 
     <script>
         //nav droop down
-       //nav droop down
+        //nav droop down
        const studentinformation=document.querySelector('.studentinformation');
         function showdrop(btn) {
-     btn.childNodes[1].style.color="#f7a30a"
-            if(studentinformation.style.opacity=="1"){
-            studentinformation.style.opacity="0";
+        btn.childNodes[1].style.color="#f7a30a";
+ 
+            if(studentinformation.style.height=="auto"){
+                studentinformation.style.height="0px";
+                studentinformation.style.padding="0px";
+                studentinformation.style.overflow="hidden";
+              
+            //studentinformation.style.opacity="0";
             btn.childNodes[1].style.color="#333"
             }else{
                 studentinformation.style.opacity="1";
+                studentinformation.style.padding="30px 0";
+
+              studentinformation.style.height="auto";
+
             }
             
         }

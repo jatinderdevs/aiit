@@ -1,5 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<?php
+$base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
+
+?>
+<base href="<?php echo $base_url; ?>" />
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Services and Support | AIIT Melbourne</title>
+  <meta name="description" content="Study Commercial cookery & leadership Courses at AIIT Melbourne. Hands-on courses for career success. Enroll today!">
+  <meta name="keywords" content="AIIT, AIIT Melbourne, AIIT Student Services and Support,student services at AIIT College,services at AIIT, student support and wellbeing,Support at AIIT">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.aiit.edu.au/student-services-and-support.php">
+    <?php include_once('./includes/links.php') ?>
+</head>
+
+<body>
+    
 <?php include_once('./includes/header.php') ?>
-    <section class="headersection">
+        <section class="headersection">
         <div class="container">
             <h1 class="pageHeading">Student Services and support</h1>
             <p><a href="">Home</a> / <a href="">Course Fees </a></p>
