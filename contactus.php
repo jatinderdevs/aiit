@@ -120,9 +120,9 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                         </div>
                         <h4>location</h4>
                         <div class="address">
-                            <h3>City Campus</h3>
+                            <h3>Corporate Head Office</h3>
                             <address>
-                                Ground Floor, 313-315 Flinders Lane, Melbourne, Victoria 3000
+                                Level 13, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008
                             </address>
                         </div>
                         <div class="address">
