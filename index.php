@@ -197,7 +197,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                                 <div class="item">
                                         <div class="testibox ">
                                                 <div class="testi ">
-                                                        <video class="img-fluid" autoplay  controls>
+                                                        <video class="img-fluid" autoplay  controls muted>
                                                         <source src="videos/testimonial01.mp4" type="video/mp4">
                                                         Your browser does not support the video tag.
                                                         </video>

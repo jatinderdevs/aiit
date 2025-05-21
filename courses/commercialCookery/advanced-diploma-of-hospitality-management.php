@@ -9,26 +9,26 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BSB40520 - Certificate IV in Leadership and Management | AIIT Melbourne</title>
-  <meta name="description" content="Study BSB40520 Certificate IV in Leadership & Management at AIIT Docklands, Melbourne. Build leadership skills. Enroll now!">
-  <meta name="keywords" content="Certificate IV Leadership Management, leadership course Melbourne, AIIT, management training">
+  <title>SIT60322 - Advanced Diploma of Hospitality Management | AIIT Melbourne</title>
+  <meta name="description" content="Study SIT60322 Advanced Diploma of Hospitality Management (Packaged Pathway) at AIIT Docklands, Melbourne. Enroll now!">
+  <meta name="keywords" content="Advanced Diploma Hospitality Management, hospitality course Melbourne, packaged pathway, AIIT">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/certificate-iv-leadership-management">
-  <meta property="og:title" content="BSB40520 Certificate IV in Leadership & Management | AIIT Melbourne">
-  <meta property="og:description" content="Develop leadership skills with AIIT’s Certificate IV in Leadership & Management in Docklands, Melbourne. Apply today!">
-  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/leadership-class.jpg">
-  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/certificate-iv-leadership-management">
+  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/advanced-diploma-hospitality-management">
+  <meta property="og:title" content="SIT60322 Advanced Diploma of Hospitality Management | AIIT Melbourne">
+  <meta property="og:description" content="Master hospitality with AIIT’s Advanced Diploma (Packaged Pathway) in Docklands, Melbourne. Apply today!">
+  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/hospitality-management-class.jpg">
+  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/advanced-diploma-hospitality-management">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Certificate IV in Leadership & Management | AIIT Melbourne">
-  <meta name="twitter:description" content="Join AIIT’s Certificate IV in Leadership & Management in Docklands, Melbourne to boost your career. Enroll now!">
-  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/leadership-class.jpg">
+  <meta name="twitter:title" content="Advanced Diploma of Hospitality Management | AIIT Melbourne">
+  <meta name="twitter:description" content="Join AIIT’s Advanced Diploma of Hospitality Management (Packaged Pathway) in Docklands, Melbourne. Enroll now!">
+  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/hospitality-management-class.jpg">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Course",
-    "name": "BSB40520 Certificate IV in Leadership and Management",
-    "description": "Gain essential leadership and management skills with AIIT’s Certificate IV in Docklands, Melbourne.",
+    "name": "SIT60322 Advanced Diploma of Hospitality Management (Packaged Pathway)",
+    "description": "Develop advanced hospitality management skills with AIIT’s Packaged Pathway in Docklands, Melbourne.",
     "provider": {
       "@type": "Organization",
       "name": "Australian International Institute of Technology",
@@ -55,18 +55,16 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
   }
   </script>
     <?php include_once('../../includes/links.php') ?>
-
 </head>
 
 <body>
     
 <?php include_once('../../includes/header.php') ?>
- 
-
+    
     <section class="headersection">
         <div class="headerlayer">
             <div class="container">
-                <h1 class="pageHeading">BSB40520 - Certifcate IV in Leadership and Management</h1>
+                <h1 class="pageHeading">SIT60322  - advanced Diploma of Hospitality Management Packaged Pathway</h1>
             </div>
         </div>
     </section>
@@ -76,20 +74,20 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
             <div class="highlight ">
                 <i class="fa fa-certificate" aria-hidden="true"></i>
                 <h6>Course Code <br>
-                BSB40520</h6>
+                SIT60322 </h6>
             </div>
             <div class="highlight ">
                 <i class="fa fa-certificate" aria-hidden="true"></i>
 
                 <h6> 
                     CRICOS course Code <br>
-                    104007F</h6>
+                    113604K</h6>
             </div>
             <div class="highlight ">
                 <i class="fa fa-calendar" aria-hidden="true"></i>
                 <h6> 
                     Course Duration <br>
-                    52 Weeks <small> (Packaged Pathway)</small>
+                    104 Weeks <small> (Packaged Pathway)</small>
 </h6>
             </div>
             <div class="highlight ">
@@ -99,7 +97,8 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                     <a href="assets/preEnrollmentFactsSheets/Pre-requirement Commercial Cookery - FactSheet.pdf" target="_blank" class="  btn-link">click here</a></h6>
             </div>
             <div class="highlight ">
-             
+                <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+                <!-- <br> -->
                 <a href="" class=" btn btn-danger" ><i class="fa fa-paper-plane-o" style="color: white; font-size: 1.2rem;" aria-hidden="true"></i> Apply now</a>
             </div>
         </div>
@@ -113,39 +112,51 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                 <div class="coursebox">
                     <h4>Course Description  </h4>
                     <p>
-                    This qualification reflects the role of individuals working as developing and emerging leaders and managers in a range of enterprise and industry contexts.
-                    <br>
-                    <br>
-As well as assuming responsibility for their own performance, individuals at this level are likely to provide leadership, guidance, and support to others. They may also have some responsibility for organising and monitoring the output of teams.
-<br>
-<br>
-They apply solutions to a defined range of predictable and unpredictable problems, and analyse and evaluate information from a variety of sources. 
+                            This qualification reflects the role of highly skilled senior managers who use a broad range of hospitality skills combined with specialised managerial skills and substantial knowledge of industry to coordinate hospitality operations. They operate with significant autonomy and are responsible for making strategic business management decisions.
+                                <br>
+                                <br>
+                        This qualification provides a pathway to work in any hospitality industry sector and for a diversity of employers including restaurants, hotels, motels, catering operations, clubs, pubs, cafés, and coffee shops. This qualification allows for multi-skilling and for acquiring targeted skills in accommodation services, cookery, food and beverage and gaming.
                     </p>
                 </div>
                 <div class="coursebox">
                     <h4>Course Duration                  </h4>
                     <p>
-                    52 weeks (including public holidays, re-assessment, and catch-up classes) - full-time study 20 contact hours per week timetabled over 2.5 days per week.
+                   This qualification and its duration have been structured as a packaged pathway program.
+                        <br>
+                        <br>
+                        The packaged pathway program is delivered over one-hundred and four (104) weeks* (including term breaks, public holidays, re-assessment, and catch-up classes) full-time study 20 contact hours per week timetabled over 2.5 days per week.
+                        <br>
+                        <br>
+                        The delivery and assessment of the SIT60322 - Advanced Diploma of Hospitality is scheduled for twenty-six (26) weeks after the successful completion of the SIT30821 - Certificate III in Commercial Cookery, SIT40521 - Certificate IV in Kitchen Management, and SIT50422 - Diploma of Hospitality Management.
+                        <br><br>
+                        <small> *This qualification and its duration have been structured as a packaged pathway program. Successful completion of the SIT30821 - Certificate III in Commercial Cookery, SIT40521 - Certificate IV in Kitchen Management and SIT50422 - Diploma of Hospitality Management is mandatory to undertake this training plan.</small>
                     </p>
                 </div>
                 <div class="coursebox">
                     <h4>Mode of Study</h4>
                     <p>
-                    The program is classroom-based face to face delivery with trainer led training in classrooms, and computer labs consisting of direct observation, product-based methods, portfolios, questioning and third-party evidence.
+                        The program is classroom-based delivery face to face with practical application completed in a simulated work environment/ or a work placement venue with trainer led training in classrooms, simulated work environments/industry workplaces and computer labs consisting of direct observation, product-based methods, portfolios, questioning and third-party evidence (when applicable).
                     </p>
                 </div>
                 <div class="coursebox">
                     <h4>Campuses</h4>
                    <div class="row">
-                    <div class="col-md-2"></div>
-                    <div class="col-md-8">
+                    <div class="col-md-6">
                         <div class="campusCard">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
                             <strong>Level 9, Suite 25, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
                         </div>
                     </div>
-                    <div class="col-md-2"></div>                 
+                    <div class="col-md-6">
+                        <div class="campusCard ">
+                            <i class="fa fa-location-arrow" aria-hidden="true"></i>
+                            <br>
+                            <strong>390A Lygon Street, Brunswick East, Melbourne, Victoria, 3057</strong>
+                        </div>
+                    </div>
+                 
+                   
                    </div>
                 </div>
        
@@ -171,9 +182,11 @@ They apply solutions to a defined range of predictable and unpredictable problem
                 </div>
                 <br>
                 <div class="text-center NRT">
+                    
                     <img src="https://www.aiit.vic.edu.au/images/NTR%20logo.png"  class="img-fluid w-50" alt="">
+
                 </div>
-            </div>    
+            </div>
             
         </div>
         <div class="row">
@@ -182,13 +195,24 @@ They apply solutions to a defined range of predictable and unpredictable problem
                     <h4>
                         Entry Requirements</h4>
                     <p>
-                    Australian International Institute of Technology has the following entry requirements for the BSB40520 - Certificate IV in Leadership and Management:
+                        Australian International Institute of Technology has the following entry requirements for the SIT30816 - Certificate III in Commercial Cookery.
                         All International students must:
                     </p>
                     <ul>
                         <li>
-                            
-                            <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Be at least 18 years of age and must have completed at least the equivalent of Year 12.</p>
+                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Be at least 18 years of age and must have completed at least the equivalent of Year 12.</p>
+                        </li>
+                        <li>
+                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Have have completed at least the equivalent of Year 12.</p>
+                        </li>
+                        <li>
+                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Have successfully completed the SIT30821 - Certificate III in Commercial Cookery. </p>
+                        </li>
+                        <li>
+                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Have successfully completed the SIT40521 - Certificate IV in Kitchen Management. </p>
+                        </li>
+                           <li>
+                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Have successfully completed the SIT50422 - Diploma of Hospitality Management.</p>
                         </li>
                         <li>
                             
@@ -214,26 +238,42 @@ They apply solutions to a defined range of predictable and unpredictable problem
                 </div>
                 <div class="coursebox">
                     <h4>Course Requirements</h4>
-               <p>The handling of raw meat including beef, lamb, pork poultry, seafood and shellfish are part of the course requirements.
-                Timetabled Classes and Work Placement can include Morning’s and Evening’s; Work Placement can also include sessions on Weekends and Public Holidays which align to industry operational requirements.
-                Work placement is scheduled only after all prerequisites have been completed in an approved Industry or Simulated Work Environment for 12 Complete Food Service periods*.
-            </p>
-                <br>
-                <small><strong><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>  * A complete food service period can cover a Breakfast service, Lunch service, Dinner service or a Special function for a minimum of four (4) hours in an industry workplace with industry-realistic ratios of kitchen staff to customers</strong></small>
+                        <p>
+                            This qualification and its duration have been structured as a pathway program. Successful completion of the SIT30821 - Certificate III in Commercial Cookery, SIT40521 - Certificate IV in Kitchen Management and SIT50422 - Diploma of Hospitality Management is mandatory to undertake this training plan.
+                                <br>
+                                <br>
+                            Students are required to attend 20 contact hours of classroom, training kitchen and/or work placement per week.
+                                <br>
+                                                               <br>
+                                                           The handling of raw meat including beef, lamb, pork, poultry, seafood and shellfish are part of the course requirements requirement during the SIT30821 - Certificate III in Commercial Cookery and the SIT40521 - Certificate IV in Kitchen Management.
+                                <br>
+                                                               <br>
+                                                           Students are required to undertake Work Placement and complete a minimum of 12 Complete Food Service Periods* which is completed as a core requirement during the SIT40521 - Certificate IV in Kitchen Management.
+                                <br>
+                                <br>
+                            Timetabled classes and Work Placement can include Morning’s and Evening’s, Work Placement can also include sessions on Weekends and Public Holidays which align to industry operational requirements.
+                        </p>
+                        <br>
+                    <small><strong><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>*Note:
+                    A food service period can cover a Breakfast service, Lunch service, Dinner service or a Special function for a minimum of four (4) hours in an industry workplace with industry-realistic ratios of kitchen staff to customers.</strong></small>
                 </div>
                 <div class="coursebox">
                     <h4>Pathways</h4>
                     <p>
-                    Potential employment options could include as a Supervisor in a range of industry areas and sectors. Students who complete this course may wish to continue their education into the BSB50420 - Diploma of Leadership and Management.
+                     Potential employment options could be as a Chef or Chef de Partie in organisations such as restaurants, hotels, clubs, pubs, cafés, and coffee shops.
+                    <br><br>
+                    Students who complete this course may wish to continue their education into the SIT50422 – Diploma of Hospitality Management or pursue a career as a Chef or Chef de Partie in the Tourism, Travel and Hospitality industry.
                     </p>
                 </div>
                 <div class="coursebox">
                     <h4>Units of Competency</h4>
                     <p>
-                          Total number of units of competency - 12 (Total number of units - 5 core units and 7 elective units)
+                          Total number of units - 33 Units of Competency (This qualification has 14 core units and 19 elective units)
+                            <br><br>
+                            Units of competency have been selected in accordance with the packaging rules and are relevant to the work outcome,
                     </p>
                     <br>
-                <small><strong><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Refer to: <a href="https://training.gov.au/Training/Details/BSB40520" class="text-lowercase btn-link"> Refer to: https://training.gov.au/Training/Details/BSB40520</a></strong></small>
+                <small><strong><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Refer to: <a href="https://training.gov.au/Training/Details/SIT60322 " class="text-lowercase btn-link"> Refer to: https://training.gov.au/Training/Details/SIT60322 </a></strong></small>
                     <hr>
                     <table class="table  table-hover  table-bordered  " id="units">
                         <thead class="badge-primary text-uppercase">
@@ -259,22 +299,21 @@ They apply solutions to a defined range of predictable and unpredictable problem
                 getData();
         async function getData() {
             const tableBody = document.querySelector('#units tbody');
-            const result=await fetch('./data/bsb40520.json');
+            const result=await fetch('./data/sit60322.json');
             const data =await result.json();
         
-            data.forEach(unit => {
+            data.units.forEach(unit => {
                 let prerequisites="";
             const row = document.createElement('tr');
             const cellCode = document.createElement('td');
             const cellTitle = document.createElement('td');
             const cellCoreElective = document.createElement('td');
-            
             unit.prerequisite_units?.map(x=>{
                 prerequisites+=x +"<br/>";
             });
-            cellCode.innerHTML =`<strong>${ unit.UNIT_CODE}</strong>`;
-            cellTitle.innerHTML = `<p class="text-dark">${unit.UNIT_TITLE}<br/></p> `;
-            cellCoreElective.innerHTML = `<p class="text-center">${unit.CORE_ELECTIVE}</p>`;
+            cellCode.innerHTML =`<strong>${ unit.unit_code}</strong>`;
+            cellTitle.innerHTML = `<p class="text-dark">${unit.unit_title}<br/></p> <small style='font-size:12px;'>${(unit.note!="undefind")?unit.note:''}</small>`;
+            cellCoreElective.innerHTML = `<p>${unit.core_elective}</p>`;
 
             row.appendChild(cellCode);
             row.appendChild(cellTitle);

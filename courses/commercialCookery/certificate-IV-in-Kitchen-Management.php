@@ -7,9 +7,53 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 ?>
 <base href="<?php echo $base_url; ?>" />
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AIIT COLLAGE || Courses</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Certificate IV in Kitchen Management | AIIT Docklands, Melbourne</title>
+  <meta name="description" content="Study SIT40521 Certificate IV in Kitchen Management at AIIT Docklands, Melbourne. Lead kitchens with confidence. Enroll now!">
+  <meta name="keywords" content="Certificate IV Kitchen Management, kitchen management course Melbourne, AIIT, culinary management training">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.aiit.edu.au/courses/certificate-iv-kitchen-management">
+  <meta property="og:title" content="SIT40521 Certificate IV in Kitchen Management | AIIT Melbourne">
+  <meta property="og:description" content="Master kitchen management with AIIT’s Certificate IV in Docklands, Melbourne. Start your culinary career today!">
+  <meta property="og:image" content="https://www.aiit.edu.au/images/kitchen-management-class.jpg">
+  <meta property="og:url" content="https://www.aiit.edu.au/courses/certificate-iv-kitchen-management">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Certificate IV in Kitchen Management | AIIT Melbourne">
+  <meta name="twitter:description" content="Join AIIT’s Certificate IV in Kitchen Management in Docklands, Melbourne to lead culinary teams. Enroll now!">
+  <meta name="twitter:image" content="https://www.aiit.edu.au/images/kitchen-management-class.jpg">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "SIT40521 Certificate IV in Kitchen Management",
+    "description": "Develop advanced culinary and management skills with AIIT’s Certificate IV in Kitchen Management in Docklands, Melbourne.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Australian International Institute of Technology",
+      "sameAs": "https://www.aiit.edu.au/"
+    },
+    "offers": {
+      "@type": "Offer",
+      "category": "Vocational Education",
+      "availability": "InStock",
+      "priceCurrency": "AUD"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "AIIT Docklands, Melbourne",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive",
+        "addressLocality": "Docklands, Melbourne",
+        "addressRegion": "VIC",
+        "postalCode": "3008",
+        "addressCountry": "AU"
+      }
+    }
+  }
+  </script>
     <?php include_once('../../includes/links.php') ?>
 </head>
 
@@ -101,7 +145,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                         <div class="campusCard">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>Ground Floor 313 - 315 Flinders Lane, Melbourne, Victoria, 3000</strong>
+                            <strong>Level 9, Suite 25, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
                         </div>
                     </div>
                     <div class="col-md-6">

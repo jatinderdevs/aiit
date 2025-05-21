@@ -7,9 +7,53 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 ?>
 <base href="<?php echo $base_url; ?>" />
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AIIT COLLAGE || Courses</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SIT30821 - Certificate III in Commercial Cookery | AIIT Melbourne</title>
+  <meta name="description" content="Study Certificate III in Commercial Cookery at AIIT Melbourne. Hands-on chef training for your career. Enroll now!">
+  <meta name="keywords" content="Certificate III Commercial Cookery, cookery course Melbourne, AIIT, chef training">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/commercialCookery/certificate-III-in-Commercial-Cookery.php">
+  <meta property="og:title" content="Certificate III in Commercial Cookery | AIIT Melbourne">
+  <meta property="og:description" content="Launch your chef career with AIIT’s Certificate III in Commercial Cookery in Melbourne. Apply today!">
+  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/cookery-class.jpg">
+  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/commercialCookery/certificate-III-in-Commercial-Cookery.php">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Certificate III in Commercial Cookery | AIIT Melbourne">
+  <meta name="twitter:description" content="Join AIIT Melbourne’s cookery course to become a chef. Hands-on training awaits!">
+  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/cookery-class.jpg">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "SIT30821 Certificate III in Commercial Cookery",
+    "description": "Hands-on training in commercial cookery at AIIT Melbourne to prepare you for a chef career.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Australian International Institute of Technology",
+      "sameAs": "https://www.aiit.vic.edu.au/"
+    },
+    "offers": {
+      "@type": "Offer",
+      "category": "Vocational Education",
+      "availability": "InStock",
+      "priceCurrency": "AUD"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "AIIT Melbourne",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive, Docklands",
+        "addressLocality": "Melbourne",
+        "addressRegion": "VIC",
+        "postalCode": "3008",
+        "addressCountry": "AU"
+      }
+    }
+  }
+  </script>
     <?php include_once('../../includes/links.php') ?>
 </head>
 
@@ -96,7 +140,7 @@ This qualification provides a pathway to work as a cook in organisations such as
                         <div class="campusCard">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>Ground Floor 313 - 315 Flinders Lane, Melbourne, Victoria, 3000</strong>
+                            <strong>Level 9, Suite 25, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
                         </div>
                     </div>
                     <div class="col-md-6">

@@ -7,9 +7,53 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 ?>
 <base href="<?php echo $base_url; ?>" />
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AIIT COLLAGE || Courses</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SIT50422 - Diploma of Hospitality Management | AIIT Docklands, Melbourne</title>
+  <meta name="description" content="Study SIT50422 Diploma of Hospitality Management at AIIT Docklands, Melbourne. Lead in hospitality. Enroll now!">
+  <meta name="keywords" content="Diploma Hospitality Management, hospitality course Melbourne, AIIT, hospitality training">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/diploma-hospitality-management">
+  <meta property="og:title" content="SIT50422 Diploma of Hospitality Management | AIIT Melbourne">
+  <meta property="og:description" content="Advance your career with AIIT’s Diploma of Hospitality Management in Docklands, Melbourne. Apply today!">
+  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/hospitality-class.jpg">
+  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/diploma-hospitality-management">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Diploma of Hospitality Management | AIIT Melbourne">
+  <meta name="twitter:description" content="Join AIIT’s Diploma of Hospitality Management in Docklands, Melbourne to lead in hospitality. Enroll now!">
+  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/hospitality-class.jpg">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "SIT50422 Diploma of Hospitality Management",
+    "description": "Develop leadership skills in hospitality with AIIT’s Diploma of Hospitality Management in Docklands, Melbourne.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Australian International Institute of Technology",
+      "sameAs": "https://www.aiit.vic.edu.au/"
+    },
+    "offers": {
+      "@type": "Offer",
+      "category": "Vocational Education",
+      "availability": "InStock",
+      "priceCurrency": "AUD"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "AIIT Docklands, Melbourne",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive",
+        "addressLocality": "Docklands, Melbourne",
+        "addressRegion": "VIC",
+        "postalCode": "3008",
+        "addressCountry": "AU"
+      }
+    }
+  }
+  </script>
     <?php include_once('../../includes/links.php') ?>
 </head>
 
@@ -97,7 +141,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                         <div class="campusCard">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>Ground Floor 313 - 315 Flinders Lane, Melbourne, Victoria, 3000</strong>
+                            <strong>Level 9, Suite 25, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -192,7 +236,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                         Potential employment options could be as a Chef or Chef de Partie in organisations such as restaurants, hotels, clubs, pubs, cafés, and coffee shops.
                         <br>
                         <br>
-                        Students who complete this course may wish to continue their education into the SIT50416 – Diploma of Hospitality Management or pursue a career as a Chef or Chef de Partie in the Tourism, Travel and Hospitality industry.
+                        Students who complete this course may wish to continue their education into the SIT50422 – Diploma of Hospitality Management or pursue a career as a Chef or Chef de Partie in the Tourism, Travel and Hospitality industry.
                     </p>
                 </div>
                 <div class="coursebox">

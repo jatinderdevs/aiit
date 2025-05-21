@@ -77,7 +77,7 @@ Our mission and agenda is simple; to empower individuals for the world of tomorr
     <div class="container">
         <h1 class="heading">we provide</h1>
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-3 col-6">
                 <div class="sbox greenbox ">
                     <div class="sicon greenicon text-center">
                         <img src="img/icons/teacher.png" width="64px" class="img-fluid" alt="">
@@ -89,7 +89,7 @@ Our mission and agenda is simple; to empower individuals for the world of tomorr
                     </div>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 col-6">
                 <div class="sbox yellow">
                     <div class="sicon yellowicon text-center">
                         <img src="img/icons/leadership.png" width="64px" class="img-fluid" alt="">
@@ -101,7 +101,7 @@ Our mission and agenda is simple; to empower individuals for the world of tomorr
                     </div>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 col-6">
                 <div class="sbox red">
                     <div class="sicon redicon text-center">
                         <img src="img/icons/academic.png" width="64px" class="img-fluid" alt="">
@@ -113,7 +113,7 @@ Our mission and agenda is simple; to empower individuals for the world of tomorr
                     </div>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 col-6">
                 <div class="sbox black">
                     <div class="sicon blackicon text-center">
                         <img src="img/icons/exchange.png" width="64px" class="img-fluid" alt="">

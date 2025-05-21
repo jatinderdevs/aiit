@@ -2,7 +2,7 @@
         <div class="container-fluid">
             <div class="headerGrid">
                 <div>
-                    <p class="text-light"> <i class="fa fa-map-marker" aria-hidden="true"></i> Ground Floor 313 -315 Flinders Lane, Melbourne VIC 3000</p>
+                    <p class="text-light"> <i class="fa fa-map-marker" aria-hidden="true"></i> Level 13, Suite 17, 401 Docklands Drive, Docklands, Melbourne, VIC 3008</p>
 
                 </div>
                 <div>

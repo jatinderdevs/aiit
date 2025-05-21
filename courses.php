@@ -101,6 +101,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                 </div>
             </div>
             <div class="col-md-3 col-6 cooking">
+                <a href="courses/commercialCookery/advanced-diploma-of-hospitality-management.php">
                 <div class="courseCard ">
                     <div class="cardBody">
                         <img src="img/about/students.jpg" class="img-fluid" alt="">
@@ -112,6 +113,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                             <p class="text-danger">    (Packaged Pathway)</p></h4>
                     </div>
                 </div>
+                </a>
             </div>
             <div class="col-md-3 col-6 leadership">
                 <a href="courses/leadership/certificate-iv-in-leadership-and-management.php">
@@ -206,17 +208,20 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                 </div>
             </div>
             <div class="col-md-3 col-6 shortCourse">
-                <div class="courseCard">
-                    <div class="cardBody">
-                        <img src="img/about/students.jpg" class="img-fluid" alt="">
+                <a href="courses/english/general-english-course.php">
+                    <div class="courseCard">
+                        <div class="cardBody">
+                            <img src="img/about/students.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="cardText py-3">
+                        
+        
+                            <h4>General English Course
+                                <p> (Beginner to Advanced)</p></h4>
+                        </div>
                     </div>
-                    <div class="cardText py-3">
-                      
-    
-                        <h4>General English Course
-                            <p> (Beginner to Advanced)</p></h4>
-                    </div>
-                </div>
+                </a>
+           
             </div>
             <div class="col-md-3 col-6 shortCourse">
                 <div class="courseCard">

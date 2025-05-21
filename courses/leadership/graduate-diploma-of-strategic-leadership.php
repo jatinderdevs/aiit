@@ -7,9 +7,53 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 ?>
 <base href="<?php echo $base_url; ?>" />
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AIIT COLLAGE || Courses</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BSB80320 - Graduate Diploma of Strategic Leadership | AIIT Melbourne</title>
+  <meta name="description" content="Study BSB80320 Graduate Diploma of Strategic Leadership at AIIT Docklands, Melbourne. Lead strategically. Enroll now!">
+  <meta name="keywords" content="Graduate Diploma Strategic Leadership, strategic leadership course Melbourne, AIIT, leadership training">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/graduate-diploma-strategic-leadership">
+  <meta property="og:title" content="BSB80320 Graduate Diploma of Strategic Leadership | AIIT Melbourne">
+  <meta property="og:description" content="Master strategic leadership with AIIT’s Graduate Diploma in Docklands, Melbourne. Apply today!">
+  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/strategic-leadership-class.jpg">
+  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/graduate-diploma-strategic-leadership">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Graduate Diploma of Strategic Leadership | AIIT Melbourne">
+  <meta name="twitter:description" content="Join AIIT’s Graduate Diploma of Strategic Leadership in Docklands, Melbourne to excel in leadership. Enroll now!">
+  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/strategic-leadership-class.jpg">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "BSB80320 Graduate Diploma of Strategic Leadership",
+    "description": "Develop high-level strategic leadership skills with AIIT’s Graduate Diploma in Docklands, Melbourne.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Australian International Institute of Technology",
+      "sameAs": "https://www.aiit.vic.edu.au/"
+    },
+    "offers": {
+      "@type": "Offer",
+      "category": "Vocational Education",
+      "availability": "InStock",
+      "priceCurrency": "AUD"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "AIIT Docklands, Melbourne",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive",
+        "addressLocality": "Docklands, Melbourne",
+        "addressRegion": "VIC",
+        "postalCode": "3008",
+        "addressCountry": "AU"
+      }
+    }
+  }
+  </script>
     <?php include_once('../../includes/links.php') ?>
 </head>
 
@@ -97,7 +141,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                         <div class="campusCard">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>Ground Floor 313 - 315 Flinders Lane, Melbourne, Victoria, 3000</strong>
+                            <strong>Level 9, Suite 25, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
                         </div>
                     </div>
                     <div class="col-md-2"></div>                 

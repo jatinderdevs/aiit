@@ -7,9 +7,53 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 ?>
 <base href="<?php echo $base_url; ?>" />
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AIIT COLLAGE || Courses</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BSB60420 - Advanced Diploma of Leadership & Management | AIIT Melbourne</title>
+  <meta name="description" content="Study BSB60420 Advanced Diploma of Leadership & Management at AIIT Docklands, Melbourne. Lead with expertise. Enroll now!">
+  <meta name="keywords" content="Advanced Diploma Leadership Management, leadership course Melbourne, AIIT, advanced management training">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/advanced-diploma-leadership-management">
+  <meta property="og:title" content="BSB60420 Advanced Diploma of Leadership & Management | AIIT Melbourne">
+  <meta property="og:description" content="Elevate your career with AIIT’s Advanced Diploma of Leadership & Management in Docklands, Melbourne. Apply today!">
+  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/advanced-leadership-class.jpg">
+  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/advanced-diploma-leadership-management">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Advanced Diploma of Leadership & Management | AIIT Melbourne">
+  <meta name="twitter:description" content="Join AIIT’s Advanced Diploma of Leadership & Management in Docklands, Melbourne to excel in leadership. Enroll now!">
+  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/advanced-leadership-class.jpg">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "BSB60420 Advanced Diploma of Leadership and Management",
+    "description": "Master advanced leadership skills with AIIT’s Advanced Diploma of Leadership and Management in Docklands, Melbourne.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Australian International Institute of Technology",
+      "sameAs": "https://www.aiit.vic.edu.au/"
+    },
+    "offers": {
+      "@type": "Offer",
+      "category": "Vocational Education",
+      "availability": "InStock",
+      "priceCurrency": "AUD"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "AIIT Docklands, Melbourne",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive",
+        "addressLocality": "Docklands, Melbourne",
+        "addressRegion": "VIC",
+        "postalCode": "3008",
+        "addressCountry": "AU"
+      }
+    }
+  }
+  </script>
     <?php include_once('../../includes/links.php') ?>
 </head>
 
@@ -96,7 +140,7 @@ They use cognitive and communication skills to identify, analyse and synthesise 
                         <div class="campusCard">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>Ground Floor 313 - 315 Flinders Lane, Melbourne, Victoria, 3000</strong>
+                            <strong>Level 9, Suite 25, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
                         </div>
                     </div>
                     <div class="col-md-2"></div>                 

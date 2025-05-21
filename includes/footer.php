@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <div class="foottab text-center">
+                    <div class="foottab ">
                         <h4 class="m-0">AUSTRALIAN INTERNATIONAL INSTITUTE OF TECHNOLOGY</h4>
                         <span class="">
                             <a href="https://training.gov.au/Organisation/Details/45485" target="_blank">RTO - 45485 </a>
@@ -50,7 +50,7 @@
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="foottab text-center">
+                    <div class="foottab">
                         <h4>business hours</h4>
                         <span class="">
                             <p>Monday to Friday <br>9:00am to 5:00pm</p>
@@ -81,7 +81,7 @@
     </footer>
     <div class="footbar">
         <div class="container">
-            <p> &copy; 2024 Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust T/A
+            <p> &copy; <span id="year"></span> Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust T/A
                 Australian
                 International Institute of Technology.
                 (Established 2017)</p>
@@ -96,7 +96,13 @@
     </script>
     <script src="js/owl.carousel.js"></script>
     <script src="js/navigation.js"></script>
-
+    <script>
+        const year=document.querySelector('#year');
+        const date=new Date();
+        
+        
+        year.innerHTML=date.getFullYear();
+    </script>
     <script>
         //nav droop down
         //nav droop down

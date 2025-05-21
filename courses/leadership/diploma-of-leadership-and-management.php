@@ -7,9 +7,53 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 ?>
 <base href="<?php echo $base_url; ?>" />
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AIIT COLLAGE || Courses</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BSB50420 - Diploma of Leadership and Management | AIIT Melbourne</title>
+  <meta name="description" content="Study Diploma of Leadership & Management at AIIT Melbourne. Build skills for success. Enroll today!">
+  <meta name="keywords" content="Diploma Leadership Management, leadership course Melbourne, AIIT, management training">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/diploma-leadership-management">
+  <meta property="og:title" content="Diploma of Leadership & Management | AIIT Melbourne">
+  <meta property="og:description" content="Advance your career with AIIT’s Diploma of Leadership & Management in Melbourne. Apply now!">
+  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/leadership-class.jpg">
+  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/diploma-leadership-management">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Diploma of Leadership & Management | AIIT Melbourne">
+  <meta name="twitter:description" content="Join AIIT Melbourne’s leadership course to boost your management skills. Enroll now!">
+  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/leadership-class.jpg">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "BSB50420 Diploma of Leadership and Management",
+    "description": "Develop leadership skills with AIIT Melbourne’s Diploma of Leadership and Management.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Australian International Institute of Technology",
+      "sameAs": "https://www.aiit.vic.edu.au/"
+    },
+    "offers": {
+      "@type": "Offer",
+      "category": "Vocational Education",
+      "availability": "InStock",
+      "priceCurrency": "AUD"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "AIIT Melbourne",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive, Docklands",
+        "addressLocality": "Melbourne",
+        "addressRegion": "VIC",
+        "postalCode": "3000",
+        "addressCountry": "AU"
+      }
+    }
+  }
+  </script>
     <?php include_once('../../includes/links.php') ?>
 </head>
 
@@ -96,7 +140,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                         <div class="campusCard">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>Ground Floor 313 - 315 Flinders Lane, Melbourne, Victoria, 3000</strong>
+                            <strong>Level 13, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
                         </div>
                     </div>
                     <div class="col-md-2"></div>                 
