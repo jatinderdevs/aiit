@@ -259,9 +259,11 @@ p {
   border-radius: 50%;
   padding: 10px;
 }
-.cooking {
-}
-.leadership {
+input[type="text"],
+input[type="textarea"],
+input[type="email"],
+select {
+  padding: 10px 20px;
 }
 
 .whytxt {
@@ -567,18 +569,19 @@ label {
   margin-top: 10px;
 }
 .contactboxes {
-  background: url("https://shorturl.at/8I363") no-repeat center fixed;
-  background-size: cover;
+  background: url("https://img.freepik.com/premium-vector/ready-use-linear-sticker-customer-service_9206-7124.jpg?w=2000")
+    no-repeat right;
+  background-size: contain;
 }
 .contactbox {
   padding: 20px;
   border-radius: 20px;
   box-shadow: 0 0 10px #dfdfdf;
-  backdrop-filter: blur(15px) saturate(137%);
-  -webkit-backdrop-filter: blur(15px) saturate(137%);
-  background-color: rgba(255, 255, 255, 0.35);
+  margin-bottom: 15px;
   border-radius: 12px;
-  border: 1px solid rgba(209, 213, 219, 0.3);
+  background: linear-gradient(150deg, var(--green), var(--yellow));
+  background-size: 200%;
+  animation: wave 6s infinite alternate;
 }
 .contactbox:hover .cIcon {
   box-shadow: 0 0 10px;
@@ -590,7 +593,13 @@ label {
   padding: 10px 0;
   text-transform: uppercase;
   font-weight: bold;
+  color: white;
   font-size: 1rem;
+}
+.maps {
+  background: url("https://img.freepik.com/premium-vector/business-management-character-art-vector-flat-line-illustration_220346-10004.jpg?w=2000")
+    no-repeat left;
+  background-size: contain;
 }
 .address {
   padding: 20px 0;
@@ -626,7 +635,7 @@ address {
 }
 
 .mediaBox > div:hover p {
-  color: black;
+  color: rgb(255, 255, 255);
 }
 .mediaBox > div:hover a > img {
   transform: rotateY(360deg);
@@ -681,12 +690,16 @@ address {
 .lygonmap:hover::before {
   left: -20px;
 }
+.contactform {
+}
 .card-text {
   color: white;
   font-weight: bolder;
   text-shadow: #e0e0e0 1px 1px 0;
   padding: 20px;
-  background-color: #f27e12b2;
+  background: linear-gradient(150deg, var(--green), var(--yellow), var(--red));
+  background-size: 200%;
+  animation: wave 6s infinite alternate;
 }
 .steps {
   position: relative;

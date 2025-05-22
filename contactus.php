@@ -38,67 +38,71 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="">
-                        <img src="https://img.freepik.com/premium-vector/girl-attending-online-class_701961-8288.jpg?w=1380" class="img-fluid" alt="">
+                        <img src="https://img.freepik.com/free-vector/hand-drawn-business-communication-concept_52683-76159.jpg?t=st=1747874967~exp=1747878567~hmac=f3a7970dba3639520117ac33fe4e48a43b8798334fb59cffd794b51d8c5e2846&w=2000" class="img-fluid" alt="">
 
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="contactform">
                       
-                        <div class="card shadow ">
+                        <div class="card ">
                             <div class="card-text ">
-                                <h2 class="m-0">Write to Us</h2>
+                                <h2 class="m-0">Have a Query or Question?</h2>
                             </div>
-                            <div class="card-body">
+                            <div class="card-body py-4">
                                 <form class="needs-validation" novalidate>
                                     <div class="form-row">
-                                      <div class="col-md-12">
-                                        <label for="validationCustom01">First name</label>
-                                        <input type="text" class="form-control" id="validationCustom01" value="Mark" required>
-                                        <div class="valid-feedback">
-                                          Looks good!
-                                        </div>
-                                      </div>
-                                      <div class="col-md-12">
-                                        <label for="validationCustom02">Last name</label>
-                                        <input type="text" class="form-control" id="validationCustom02" value="Otto" required>
-                                        <div class="valid-feedback">
-                                          Looks good!
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="form-row">
-                                      <div class="col-md-12">
-                                        <label for="validationCustom03">City</label>
-                                        <input type="text" class="form-control" id="validationCustom03" required>
-                                        <div class="invalid-feedback">
-                                          Please provide a valid city.
-                                        </div>
-                                      </div>
-                                      <div class="col-md-12">
-                                        <label for="validationCustom04">State</label>
-                                        <select class="custom-select" id="validationCustom04" required>
-                                          <option selected disabled value="">Choose...</option>
-                                          <option>...</option>
-                                        </select>
-                                        <div class="invalid-feedback">
-                                          Please select a valid state.
-                                        </div>
-                                      </div>
-                                      <div class="col-md-12">
+                                         <div class="col-md-12">
                                         <label for="validationCustom05">message</label>
                                         <textarea class="form-control" rows="3" name="" id="" required></textarea>
                                         
                                         <div class="invalid-feedback">
-                                          Please provide a valid zip.
+                                          Please provide your query
                                         </div>
                                       </div>
+                                        <div class="col-md-12">
+                                        <label for="validationCustom02">Email</label>
+                                        <input type="email" class="form-control" id="validationCustom02" value="" placeholder="Email" required>
+                                        <div class="valid-feedback">
+                                          Looks good!
+                                        </div>
+                                        <div class="invalid-feedback">
+                                              Please provide a valid Email .
+                                        </div>
+                                      </div>
+                                      <div class="col-md-12">
+                                        <label for="validationCustom01">Full name</label>
+                                        <input type="text" class="form-control" id="validationCustom01" value="" required>
+                                        <div class="valid-feedback">
+                                          Looks good!
+                                        </div>
+                                      </div>
+                          
                                     </div>
-                                    <hr>
-                                    <button class="btn btn-warning" type="submit"><i class="fa fa-paper-plane-o" aria-hidden="true"></i> Send</button>
-                                  </form>
+                                    <div class="form-row">
+                                      <div class="col-md-12">
+                                        <label for="validationCustom03">I am/ We are</label>
+                                        <select name=""  class="form-control" id="validationCustom03">
+                                            <option value="">Previos or current Student Enrolled with us</option>
+                                            <option value="">A Migration Agency</option>
+                                            
+                                            <option value="">Here for feedback</option>
+                                            <option value="">You have complaint for any service</option>
+                                        </select>
+                                       
+                                      
+                                      </div>
+                                   
+                                     
+                                    </div>
+                                    
+                                   
                             </div>
-                            
+                             <div class="card-footer">
+                                    <button class="btn btn-lg btn-block btn-warning" type="submit"><i class="fa fa-paper-plane-o" aria-hidden="true"></i> Submit</button>
+                                
+                                    </div>
+                                  </form>
                        
                         </div>
                          
@@ -225,7 +229,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
             </div>
         </div>
     </section>
-<section>
+<section class="maps">
     <div class="container">
         <h1 class="heading">our campus</h1>
         <hr>
