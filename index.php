@@ -308,56 +308,38 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
             <h1 class="heading">our partners</h1>
             <br>
             <div class="owl-carousel owl-theme ourpartners"  id="partners">
-                <div class="item">
+               
+                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/aqf.webp" class="img-fluid" alt="">
+                        <a href="https://www.worksafe.vic.gov.au/" target="_blank"><img src="img/partners/worksafe.webp" alt=""></a>
                     </div>
-                </div>
-                <div class="item">
-                    <div class="partner">
-                        <img src="img/partners/asqa.webp" alt="">
                     </div>
-
-                </div>
-                <div class="item">
+                    <div class="item">
                     <div class="partner">
-                        <img src="img/partners/cityofmelb.webp" alt="">
+                         <a href="https://www.austrade.gov.au/" target="_blank"><img src="img/partners/afu.webp" alt=""></a>
                     </div>
-
-                </div>
+                    </div>
                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/aqf.webp" alt="">
+                      <a href="https://www.sportingglobe.com.au/" target="_blank">   <img src="img/partners/sportingglobe.webp" alt=""></a>
                     </div>
 
                 </div>
                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/globalvic.webp" alt="">
+                       <a href="https://www.vic.gov.au/liquor-education-and-training" target="_blank">   <img src="img/partners/lcv.webp" alt=""></a>
                     </div>
 
                 </div>
-                <div class="item">
+                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/iteca.webp" alt="">
+                        <a href="https://degani.com.au/" target="_blank"><img src="img/partners/degani.webp" alt=""></a>
                     </div>
 
                 </div>
-                <div class="item">
+                  <div class="item">
                     <div class="partner">
-                        <img src="img/partners/scu.webp" alt="">
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="partner">
-                        <img src="img/partners/sportingglobe.webp" alt="">
-                    </div>
-
-                </div>
-                <div class="item">
-                    <div class="partner">
-                        <img src="img/partners/lcv.webp" alt="">
+                        <a href="https://www.tgifridays.com.au/" target="_blank"><img src="img/partners/tgifriday.webp" alt=""></a>
                     </div>
 
                 </div>
@@ -367,70 +349,76 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                     </div>
 
                 </div>
+                  <div class="item">
+                    <div class="partner">
+                        <a href="https://www.cuffmelbourne.com/" target="_blank"> <img src="img/partners/cuff.webp" alt=""></a>
+                    </div>
+
+                </div>
+                 <div class="item">
+                    <div class="partner">
+                      <a href="https://www.yourcareer.gov.au/learn-and-train/training-providers/45485" target="_blank">   <img src="img/partners/yourcareer.webp" alt=""></a>
+                    </div>
+
+                </div>
+                
             </div>
-            <div class="owl-carousel owl-theme ourpartners" id="partners">
-            <div class="item">
+
+             <div class="owl-carousel owl-theme ourpartners"  id="partners">
+                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/aqf.webp" alt="">
+                      <a href="https://www.afterpay.com/en-AU" target="_blank">   <img src="img/partners/afterpay.webp" alt=""></a>
+                    </div>
+
+                </div>
+             <div class="item">
+                    <div class="partner">
+                      <a href="https://www.aqf.edu.au/" target="_blank">  <img src="img/partners/aqf.webp" class="img-fluid" alt=""></a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="partner">
+                        <a href="https://www.asqa.gov.au/" target="_blank"> <img src="img/partners/asqa.webp" alt=""></a>
                     </div>
 
                 </div>
                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/globalvic.webp" alt="">
+                        <a href="https://www.melbourne.vic.gov.au/" target="_blank">  <img src="img/partners/cityofmelb.webp" alt=""></a>
                     </div>
 
                 </div>
                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/iteca.webp" alt="">
+                       <a href="https://www.studymelbourne.vic.gov.au/" target="_blank">  <img src="img/partners/studymelb.webp" alt=""></a>
                     </div>
 
                 </div>
                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/aqf.webp" class="img-fluid" alt="">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="partner">
-                        <img src="img/partners/asqa.webp" alt="">
-                    </div>
-
-                </div>
-             
-                <div class="item">
-                    <div class="partner">
-                        <img src="img/partners/sportingglobe.webp" alt="">
+                          <a href="https://global.vic.gov.au/" target="_blank"><img src="img/partners/globalvic.webp" alt=""></a>
                     </div>
 
                 </div>
                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/lcv.webp" alt="">
+                      <a href="https://www.iteca.edu.au/" target="_blank">  <img src="img/partners/iteca.webp" alt=""></a>
                     </div>
 
                 </div>
                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/mamacanteen.webp" alt="">
+                       <a href="https://www.scu.edu.au/" target="_blank">  <img src="img/partners/scu.webp" alt=""></a>
                     </div>
-
                 </div>
-                <div class="item">
+                 <div class="item">
                     <div class="partner">
-                        <img src="img/partners/cityofmelb.webp" alt="">
+                       <a href="https://www.merri-bek.vic.gov.au/" target="_blank"> <img src="img/partners/merribek.webp" alt=""></a>
                     </div>
 
                 </div>
-              
-                <div class="item">
-                    <div class="partner">
-                        <img src="img/partners/scu.webp" alt="">
-                    </div>
-                </div>
-
             </div>
+           
         </div>
     </section>
 

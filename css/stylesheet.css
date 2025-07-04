@@ -197,9 +197,11 @@ p {
 }
 
 .btnCstm:hover:after {
-  top: 5px;
+  top: 0px;
+  box-shadow: 0 0 10px #999;
   color: black;
-  left: 5px;
+  left: 0px;
+  background: white;
 }
 .btnCstm:focus:after {
   top: 0px;
@@ -817,6 +819,7 @@ address {
   top: 0;
   opacity: 0.9;
   bottom: 0;
+  right: 4%;
   background: #f7a30a;
 }
 .agentbox i {
@@ -848,7 +851,7 @@ address {
 }
 .agentlogo {
   padding: 10px;
-
+  background: white;
   filter: drop-shadow(0 0 2px #f9f9fb);
 }
 .agenttxt {
@@ -1235,9 +1238,7 @@ address {
     grid-template-columns: auto;
     text-align: center;
   }
-  .agentbox::before {
-    left: 30%;
-  }
+
   .headerGrid {
     grid-template-columns: auto;
   }
@@ -1343,12 +1344,10 @@ address {
     flex-direction: unset;
   }
   .cardAgent {
-    grid-template-columns: 20% 60% 20%;
+    grid-template-columns: 20% 50% 30%;
     text-align: unset;
   }
-  .agentbox::before {
-    left: 5%;
-  }
+
   .testibox {
     grid-template-columns: 30% 70%;
   }

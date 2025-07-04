@@ -286,7 +286,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                 prerequisites+=x +"<br/>";
             });
             cellCode.innerHTML =`<strong>${ unit.unit_code}</strong>`;
-            cellTitle.innerHTML = `<p class="text-dark">${unit.unit_title}<br/></p> <small style='font-size:12px;'>${(unit.note!="undefind")?unit.note:''}</small>`;
+            cellTitle.innerHTML = `<p class="text-dark">${unit.unit_title}<br/></p> <small style='font-size:12px;'>${(unit.note!="undefind" && unit.note)?unit.note:' '}</small>`;
             cellCoreElective.innerHTML = `<p>${unit.core_elective}</p>`;
 
             row.appendChild(cellCode);

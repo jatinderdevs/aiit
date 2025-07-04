@@ -83,21 +83,24 @@ const data=fetch('./data/AgentData.csv') .then(response => {
         console.error('Error fetching the CSV file:', error);
     });
 const agentData=await data;
-    
+    agentData.pop();   // to re,ove the last line of unwanted data
 let content="";
 agentData.forEach(agent => {
+
     content+=`
       <div class="agentbox">
                 <div class="cardAgent">
                     <div class="agentlogo">
-                        <img src="https://dummyimage.com/100X100/b5b5b5/000000&text=Agency+Image" class="img-fluid" alt="">
+                        <img src="${agent['logo']}" class="img-fluid" alt="">
                     </div>
                     <div class="agenttxt">
-                        <h6>${agent['Agent Name']}</h6>
-                        <p> 1602/150 Epping Road Lane Cove West, New South Wales 2066</p>
+                        <h5>${agent['Agent Name']}</h5>
+                      
                     </div>
                     <div>
-                    <button class="btnCstm btn-sm" >Contact</button>
+                   <p> <i class="fa fa-phone" aria-hidden="true"></i> ${agent['Agent Business Phone']}</p>
+                        <p> <i class="fa fa-envelope-o" aria-hidden="true"></i> ${agent['Agent Email']}</p>
+                        <p> <a class="text-lowercase" href="http://${agent['website']}" target="_blank"> <i class="fa fa-globe" aria-hidden="true"></i> ${agent['website']}</a></p>
                        
                       
                     </div>
