@@ -64,9 +64,9 @@
             </div>
             <div class="obriginal">
                 <div>
-                    <img src="img/flag.png" width="150px" class="mb-2 img-fluid" alt="">
+                    <img src="<?php echo BASE_PATH; ?>img/flag.png" width="150px" class="mb-2 img-fluid" alt="">
 
-                    <img src="img/flag_pride_inclusion.jpg" width="60px" class="img-fluid" alt="">
+                    <img src="<?php echo BASE_PATH; ?>img/flag_pride_inclusion.jpg" width="60px" class="img-fluid" alt="">
                 </div>
                 <p>Australian International Institute of Technology acknowledges Aboriginal and Torres Strait Islander
                     people as the Traditional Custodians of the land and acknowledges and pays respect to their Elders,
@@ -94,8 +94,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous">
     </script>
-    <script src="js/owl.carousel.js"></script>
-    <script src="js/navigation.js"></script>
+    <script src="<?php echo BASE_PATH; ?>js/owl.carousel.js"></script>
+    <script src="<?php echo BASE_PATH; ?>js/navigation.js"></script>
     <script>
         const year=document.querySelector('#year');
         const date=new Date();

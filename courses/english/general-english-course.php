@@ -1,11 +1,8 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<?php
-$base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 
-?>
-<base href="<?php echo $base_url; ?>" />
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -280,7 +277,7 @@ Students will be further encouraged to utilise their newly developed English Lan
                 getData();
         async function getData() {
             const tableBody = document.querySelector('#units tbody');
-            const result=await fetch('./data/bsb40520.json');
+            const result=await fetch('<?php echo BASE_PATH; ?>data/bsb40520.json');
             const data =await result.json();
         
             data.forEach(unit => {

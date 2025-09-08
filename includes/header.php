@@ -13,7 +13,7 @@
                 </div>
                 <div class="headerGridBtn">
                     <a class="btn btn-sm btn-light text-dark" href="https://aiit-vic-lms.moodlecloud.com/login/index.php"> 
-                        <img src="img/icons/Moodle_Icon.png" width="70px" alt=""></a>
+                        <img src="<?php echo BASE_PATH; ?>img/icons/Moodle_Icon.png" width="70px" alt=""></a>
                     <a href="callto:+61 3 96497691" class="btn text-dark btn-sm btn-light"><img
                             src="img/icons/submit.png" alt=""> apply
                         online</a>
@@ -25,8 +25,8 @@
 
         <section class="wrapper container">
             <div class="logo">
-                <a href="./index.php">
-                    <img src="./img/logo.png" class="img-fluid" alt="">
+                <a href="<?php echo BASE_PATH; ?>index.php">
+                    <img src="<?php echo BASE_PATH; ?>img/logo.png" class="img-fluid" alt="">
                 </a>
             </div>
             <div class="burger" id="burger">
@@ -37,24 +37,24 @@
             <span class="overlay"></span>
             <nav class="navbarcstm" id="navbarcstm">
                 <ul class="menu" id="menu">
-                    <li class="menu-item"><a href="index.php" class="menu-link">Home</a></li>
-                    <li class="menu-item"><a href="onlinePortal.php" class="menu-link">online portals</a></li>
+                    <li class="menu-item"><a href="<?php echo BASE_PATH; ?>index.php" class="menu-link">Home</a></li>
+                    <li class="menu-item"><a href="<?php echo BASE_PATH; ?>onlinePortal.php" class="menu-link">online portals</a></li>
 
-                    <li class="menu-item"><a href="aboutus.php" class="menu-link">about us</a></li>
-                    <li class="menu-item"><a href="courses.php" class="menu-link">courses</a></li>
+                    <li class="menu-item"><a href="<?php echo BASE_PATH; ?>aboutus.php" class="menu-link">about us</a></li>
+                    <li class="menu-item"><a href="<?php echo BASE_PATH; ?>courses.php" class="menu-link">courses</a></li>
                     <li class="menu-item menu-dropdown"  onclick="showdrop(this)" >
                         <span class="menu-link drop"   data-toggle="submenu">student information <i class="fa fa-caret-down" aria-hidden="true"></i></span>
                   
                         <ul class="submenu">
-                            <li class="submenu-item"><a href="courseFees.php" class="submenu-link">courses Fees</a>
+                            <li class="submenu-item"><a href="<?php echo BASE_PATH; ?>courseFees.php" class="submenu-link">courses Fees</a>
                             </li>
-                            <li class="submenu-item"><a href="studentAdmissionProcess.php" class="submenu-link">Student Admission Process</a></li>
-                            <li class="submenu-item"><a href="student-services-and-support.php" class="submenu-link">Student Service Support</a></li>
+                            <li class="submenu-item"><a href="<?php echo BASE_PATH; ?>studentAdmissionProcess.php" class="submenu-link">Student Admission Process</a></li>
+                            <li class="submenu-item"><a href="<?php echo BASE_PATH; ?>student-services-and-support.php" class="submenu-link">Student Service Support</a></li>
 
                         </ul>
                     </li>
-                    <li class="menu-item"><a href="agents.php" class="menu-link">agents <i class="fa fa-caret-down" aria-hidden="true"></i></a></li>
-                    <li class="menu-item"><a href="contactus.php" class="menu-link">contact us</a></li>
+                    <li class="menu-item"><a href="<?php echo BASE_PATH; ?>agents.php" class="menu-link">agents <i class="fa fa-caret-down" aria-hidden="true"></i></a></li>
+                    <li class="menu-item"><a href="<?php echo BASE_PATH; ?>contactus.php" class="menu-link">contact us</a></li>
                 </ul>
                 <div class="studentinformation">
                     <div class="container">
@@ -63,20 +63,20 @@
                                 <div class="dropinfo">
                                     <ul class="row">
                                         <li class="col-sm-6">
-                                            <a href="studentAdmissionProcess.php"><i class="fa fa-yelp" aria-hidden="true"></i> How to Apply</a>
+                                            <a href="<?php echo BASE_PATH; ?>studentAdmissionProcess.php"><i class="fa fa-yelp" aria-hidden="true"></i> How to Apply</a>
                                         </li>
                                         
                                         <li class="col-sm-6">
-                                            <a href="courseFees.php"><i class="fa fa-money" aria-hidden="true"></i> Tuition Fees and Charges</a>
+                                            <a href="<?php echo BASE_PATH; ?>courseFees.php"><i class="fa fa-money" aria-hidden="true"></i> Tuition Fees and Charges</a>
                                         </li>
                                         <li class="col-sm-6">
-                                            <a href="student-services-and-support.php"> <i class="fa fa-info-circle" aria-hidden="true"></i> Student Services And Support</a>
+                                            <a href="<?php echo BASE_PATH; ?>student-services-and-support.php"> <i class="fa fa-info-circle" aria-hidden="true"></i> Student Services And Support</a>
                                         </li>
                                         <li class="col-sm-6">
-                                            <a href="policies.php"><i class="fa fa-file-o" aria-hidden="true"></i> Policies and Procedures</a>
+                                            <a href="<?php echo BASE_PATH; ?>policies.php"><i class="fa fa-file-o" aria-hidden="true"></i> Policies and Procedures</a>
                                         </li>
                                         <li class="col-sm-6">
-                                            <a href="useful-links.php"><i class="fa fa-link" aria-hidden="true"></i> Useful Links</a>
+                                            <a href="<?php echo BASE_PATH; ?>useful-links.php"><i class="fa fa-link" aria-hidden="true"></i> Useful Links</a>
                                         </li>
                                     
                                         <li class="col-sm-6">
@@ -94,7 +94,7 @@
                             </div>
                             <div class="col-md-4">
                                 <div class="dropimg">
-                                    <img src="img/studentinformation.svg" class="img-fluid" width="60%" alt="">
+                                    <img src="<?php echo BASE_PATH; ?>img/studentinformation.svg" class="img-fluid" width="60%" alt="">
 
                                 </div>
                             </div>

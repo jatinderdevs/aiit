@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
+//$base_url = $_SERVER['HTTP_HOST'];  // or just "/"
+// define('BASE_PATH','./');
+// $base_url = $_SERVER['HTTP_HOST'];  // or just "/"
 
 ?>
-<base href="<?php echo $base_url; ?>" />
+<!--  -->
 <head>
 <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

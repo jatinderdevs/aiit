@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php
-$base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
 
-?>
-<base href="<?php echo $base_url; ?>" />
+
 <head>
 <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -119,7 +116,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
                 <a href="courses/leadership/certificate-iv-in-leadership-and-management.php">
                 <div class="courseCard">
                     <div class="cardBody">
-                        <img src="img/about/students.jpg" class="img-fluid" alt="">
+                        <img src="img/courses/leadership.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
                         <small class="badge badge-success">BSB40520</small>
@@ -134,7 +131,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
             <a href="courses/leadership/diploma-of-leadership-and-management.php">
                 <div class="courseCard">
                     <div class="cardBody">
-                        <img src="img/about/students.jpg" class="img-fluid" alt="">
+                        <img src="img/courses/leadership.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
                         <small class="badge badge-success">BSB50420</small>
@@ -148,7 +145,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
             <a href="courses/leadership/advance-diploma-of-leadership-and-management.php">
                 <div class="courseCard">
                     <div class="cardBody">
-                        <img src="img/about/students.jpg" class="img-fluid" alt="">
+                        <img src="img/courses/leadership1.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
                         <small class="badge badge-success">BSB60420</small>
@@ -161,7 +158,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
             <a href="courses/leadership/graduate-diploma-of-strategic-leadership.php">
                 <div class="courseCard">
                     <div class="cardBody">
-                        <img src="img/about/students.jpg" class="img-fluid" alt="">
+                        <img src="img/courses/leadership1.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
                         <small class="badge badge-success">BSB80320</small>
@@ -174,7 +171,7 @@ $base_url = "http://" . $_SERVER['HTTP_HOST']."/aiit-main/";  // or just "/"
             <div class="col-md-3 col-6 shortCourse">
                 <div class="courseCard">
                     <div class="cardBody">
-                        <img src="img/about/students.jpg" class="img-fluid" alt="">
+                        <img src="img/courses/rsa.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="cardText">
                         <small class="badge badge-dark">SITSS00071</small>
