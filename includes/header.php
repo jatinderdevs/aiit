@@ -87,7 +87,7 @@
                                             <a href="std_online_form.php"><i class="fa fa-globe" aria-hidden="true"></i> Student Online Application Form</a>
                                         </li>
                                         <li class="col-sm-6">
-                                            <a href="PDF/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Student PDF Application Form </a>
+                                            <a href="assets/forms-and-policies/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf"> <b class="text-white">  <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Student PDF Application Form</b> </a>
                                         </li>
                                     </ul>
                                 </div>
