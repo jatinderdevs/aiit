@@ -48,7 +48,7 @@
     
     <div class="container">
         <h1 class="text-center"></h1>
-        <form action="process_form.php" method="POST"  class=" application_form needs-validation" novalidate>
+        <form action="studentApplications/createApplications.php" method="POST"  class=" application_form needs-validation" novalidate>
             <!-- Applicant Details -->
             <div class="card mt-4">
                 <div class="card-header"> Applicant Details</h4></div>
@@ -90,7 +90,7 @@
                     </div>
                     <div class="form-group" style="position:relative">
                         <label for="country_residence">Country of Residence</label>
-                       <input type="text" class="form-control" id="searchInput" placeholder="Type to search...">
+                       <input type="text" class="form-control" id="country_residence" name=[country_residence] placeholder="Type to search...">
                      <ul class="list-group" id="results"></ul>
                     </div>
                     <div class="form-group">
@@ -700,7 +700,7 @@ const countries = [
     "Uruguay", "Uzbekistan", "Vanuatu", "Vatican City", "Venezuela", "Vietnam", "Yemen", "Zambia", "Zimbabwe"
 ];
 
-const searchInput = document.getElementById('searchInput');
+const searchInput = document.getElementById('country_residence');
         const resultsList = document.getElementById('results');
 
         // Function to render results
