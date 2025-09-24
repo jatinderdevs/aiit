@@ -4,7 +4,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Allura&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 
 :root {
-  --yellow: #f7a30a;
+  --yellow: #eda711;
+
+  /* --yellow: #f7a30a; */
   --green: #7dba00;
   --red: #e60d2e;
   --black: #24292e;
@@ -165,7 +167,16 @@ p {
 .bggray {
   background: #f9f9fb;
 }
-
+.transparentbtn {
+  border-color: var(--green) !important;
+}
+.transparentbtn::after {
+  background: white !important;
+}
+.transparentbtn:hover {
+  background: var(--green);
+  color: white !important;
+}
 .btnCstm {
   font-size: 16px;
   font-weight: 200;
@@ -394,7 +405,7 @@ footer {
 }
 
 .foottab h4 {
-  color: var(--green);
+  color: white;
   font-weight: bold;
   margin-bottom: 20px;
   text-transform: capitalize;
@@ -465,7 +476,7 @@ footer {
 }
 .abouttxt a {
   color: var(--black);
-  font-size: 14px;
+
   font-weight: 500;
 }
 

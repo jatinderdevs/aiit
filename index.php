@@ -37,7 +37,7 @@
                         <hr>
                         <a href="courses.php" class="btnCstm mr-4">Explore Course</a>
 
-                        <a href="contactus.php" class="btnCstm green">Contact us</a>
+                        <a href="contactus.php" class="btnCstm transparentbtn">Contact us</a>
 
                         <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto excepturi delectus id
                             exercitationem debitis beatae, maiores tempora ipsam, quae a reprehenderit, aliquid enim quo
@@ -171,8 +171,7 @@
             <div class="owl-carousel owl-theme" id="courses">
             <div class="item">
                 <div class="courseCardBox">
-                    <img src="img/courses/cookery.png" alt="" class="img-fluid">                
-
+               <a href="">     <img src="img/courses/cookery.png" alt="" class="img-fluid">          </a>
                 </div>
             </div>
             <div class="item">
