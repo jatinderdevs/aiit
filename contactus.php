@@ -47,11 +47,11 @@
                                 <h2 class="m-0">Have a Query or Question?</h2>
                             </div>
                             <div class="card-body py-4">
-                                <form class="needs-validation" novalidate>
+                              <form class="needs-validation" novalidate method="post" action="email.php">
                                     <div class="form-row">
                                          <div class="col-md-12">
                                         <label for="validationCustom05">message</label>
-                                        <textarea class="form-control" rows="3" name="" id="" required></textarea>
+                                        <textarea class="form-control" rows="3" name="message" id="message" required></textarea>
                                         
                                         <div class="invalid-feedback">
                                           Please provide your query
@@ -59,7 +59,7 @@
                                       </div>
                                         <div class="col-md-12">
                                         <label for="validationCustom02">Email</label>
-                                        <input type="email" class="form-control" id="validationCustom02" value="" placeholder="Email" required>
+                                        <input type="email" class="form-control" id="email" name="email" value="" placeholder="Email" required>
                                         <div class="valid-feedback">
                                           Looks good!
                                         </div>
@@ -69,7 +69,7 @@
                                       </div>
                                       <div class="col-md-12">
                                         <label for="validationCustom01">Full name</label>
-                                        <input type="text" class="form-control" id="validationCustom01" value="" required>
+                                        <input type="text" class="form-control" id="name" name="name" value="" required>
                                         <div class="valid-feedback">
                                           Looks good!
                                         </div>

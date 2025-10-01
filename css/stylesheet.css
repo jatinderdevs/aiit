@@ -609,11 +609,23 @@ label {
   color: white;
   font-size: 1rem;
 }
-.maps {
+.map {
+  margin-bottom: 30px;
+}
+/* .maps {
+  background-size: contain;
+  position: relative;
+}
+.maps::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: red;
+  right: 0;
   background: url("https://img.freepik.com/premium-vector/business-management-character-art-vector-flat-line-illustration_220346-10004.jpg?w=2000")
     no-repeat left;
-  background-size: contain;
-}
+} */
 .address {
   padding: 20px 0;
 }
