@@ -31,9 +31,9 @@
     <div class="container">
         <div class="text-center py-4">
             <button type="button"  onclick="showAllCourses()" class="btnCstm " id="allcourses">All Courses</button>
-            <button type="button" onclick="filterCourse('cooking')" class="btnCstm blue ml-3 text-light" id="cooking"> Hospitality</button>
-            <button type="button" onclick="filterCourse('leadership')" class="btnCstm green  mx-3 " id="leadership">Leadership</button>
-            <button type="button" onclick="filterCourse('shortCourse')" class="btnCstm black text-light">Short Courses</button>
+            <button type="button" onclick="filterCourse('cooking')" class="btnCstm bluetransparetbtn ml-3 " id="cooking"> Hospitality</button>
+            <button type="button" onclick="filterCourse('leadership')" class="btnCstm transparentbtn  mx-3 " id="leadership">Leadership</button>
+            <button type="button" onclick="filterCourse('shortCourse')" class="btnCstm darktransparentbtn ">Short Courses</button>
         </div>
         <hr>
         <div class="row">

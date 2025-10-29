@@ -201,7 +201,7 @@
                         </tr>
                         <tr>
                             <th>Address</th>
-                            <td><p> Ground Floor, 313-315 Flinders Lane, Melbourne, Victoria 3000</p></td>
+                            <td><p> Level 13, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</p></td>
                         </tr>
                     </table>
             </div>

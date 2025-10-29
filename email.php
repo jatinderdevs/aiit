@@ -80,7 +80,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             // Recipients
             $mail->setFrom('website@aiit.vic.edu.au', 'AIIT Website');
-            $mail->addAddress('info@aiit.vic.edu.au');
+            $mail->addAddress('jssingh134@gmail.com');
             $mail->setFrom('website@aiit.vic.edu.au', 'AIIT Website');
 
             // Content

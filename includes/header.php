@@ -53,7 +53,7 @@
 
                         </ul>
                     </li>
-                    <li class="menu-item"><a href="<?php echo BASE_PATH; ?>agents.php" class="menu-link">agents <i class="fa fa-caret-down" aria-hidden="true"></i></a></li>
+                    <li class="menu-item"><a href="<?php echo BASE_PATH; ?>agents.php" class="menu-link">agents </a></li>
                     <li class="menu-item"><a href="<?php echo BASE_PATH; ?>contactus.php" class="menu-link">contact us</a></li>
                 </ul>
                 <div class="studentinformation">
@@ -80,7 +80,7 @@
                                         </li>
                                     
                                         <li class="col-sm-6">
-                                            <a href="PDF/AIIT_45485_Student_Handbook_RT.pdf"><i class="fa fa-book" aria-hidden="true"></i> Student Hand Book</a>
+                                            <a href="<?php echo BASE_PATH; ?>assets/forms-and-policies/AIIT_45485_Student_Handbook_RT.pdf"><i class="fa fa-book" aria-hidden="true"></i> Student Hand Book</a>
                                         </li>
                                         
                                         <li class="col-sm-6">

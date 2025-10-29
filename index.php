@@ -171,18 +171,18 @@
             <div class="owl-carousel owl-theme" id="courses">
             <div class="item">
                 <div class="courseCardBox">
-               <a href="">     <img src="img/courses/cookery.png" alt="" class="img-fluid">          </a>
+               <a href="courses.php">     <img src="img/courses/cookery.png" alt="" class="img-fluid">          </a>
                 </div>
             </div>
             <div class="item">
                 <div class="courseCardBox">
-                    <img src="img/courses/shortCourses.png" alt="" class="img-fluid">                
+               <a href="courses.php">      <img src="img/courses/shortCourses.png" alt="" class="img-fluid">    </a>            
 
                 </div>
             </div>
             <div class="item">
                 <div class="courseCardBox">
-                    <img src="img/courses/leadership.png" alt="" class="img-fluid">                
+                  <a href="courses.php">   <img src="img/courses/leadership.png" alt="" class="img-fluid">     </a>           
 
                 </div>
             </div>

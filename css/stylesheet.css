@@ -169,12 +169,47 @@ p {
 }
 .transparentbtn {
   border-color: var(--green) !important;
+  color: var(--green) !important;
 }
 .transparentbtn::after {
   background: white !important;
 }
 .transparentbtn:hover {
   background: var(--green);
+  color: white !important;
+}
+.transparentbtn:focus {
+  background-color: var(--green);
+  color: white !important;
+}
+.bluetransparetbtn {
+  border-color: var(--blue) !important;
+  color: var(--blue) !important;
+}
+.bluetransparetbtn::after {
+  background: white !important;
+}
+.bluetransparetbtn:hover {
+  background: var(--blue);
+  color: white !important;
+}
+.bluetransparetbtn:focus {
+  background-color: var(--blue);
+  color: white !important;
+}
+.darktransparentbtn {
+  border-color: var(--black) !important;
+  color: var(--black) !important;
+}
+.darktransparentbtn::after {
+  background: white !important;
+}
+.darktransparentbtn:hover {
+  background: var(--black);
+  color: white !important;
+}
+.darktransparentbtn:focus {
+  background-color: var(--black);
   color: white !important;
 }
 .btnCstm {
@@ -1317,7 +1352,22 @@ address {
   font-weight: 600;
   cursor: pointer;
 }
-
+.geintouch {
+  background: linear-gradient(150deg, var(--green), var(--yellow), var(--red));
+  background-size: 200%;
+  animation: wave 6s infinite alternate;
+  position: fixed;
+  border-radius: 10px 10px 0 0;
+  right: -2%;
+  transform: rotateZ(-90deg);
+  box-shadow: 0 0 10px;
+  bottom: 50%;
+  padding: 10px 20px;
+}
+.geintouch a {
+  color: white;
+  font-weight: bold;
+}
 @media (min-width: 320px) {
   .cardAgent {
     grid-template-columns: auto;

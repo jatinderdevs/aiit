@@ -24,7 +24,7 @@
     </section>
 <section>
     <div class="container">
-        <a href="https://www.aiit.vic.edu.au/PDF/forms/AIIT_45485_FORM_Agent_Application_RT.pdf"  download class="btnCstm blue  text-light"> <i class="fa fa-download" aria-hidden="true"></i> Agent Application Form </a>
+        <a href="assets/forms-and-policies/forms/AIIT_45485_FORM_Agent_Application_RT.pdf"   class="btnCstm blue mt-4  text-light"> <i class="fa fa-download" aria-hidden="true"></i> Agent Application Form </a>
         <br>
         <hr>
         <div class="agents">

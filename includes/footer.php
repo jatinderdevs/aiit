@@ -1,3 +1,7 @@
+<div class="geintouch">
+    <a href="">get in touch</a>
+</div>
+
 <footer>
         <div class="container">
             <div class="row">
@@ -32,10 +36,10 @@
                         <h4>pdf downloads</h4>
                         <ul>
                             <li>
-                                <a href="PDF/AIIT_45485_Student_Handbook_RT.pdf" target="_blank">Student Handbook</a>
+                                <a href="<?php echo BASE_PATH; ?>assets/forms-and-policies/AIIT_45485_Student_Handbook_RT.pdf" target="_blank">Student Handbook</a>
                             </li>
                             <li>
-                                <a href="PDF/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf"
+                                <a href="<?php echo BASE_PATH; ?>assets/forms-and-policies/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf"
                                     target="_blank">Student Application Form</a>
                             </li>
                             <li>
@@ -43,7 +47,7 @@
                                     target="_blank">Application Form - Short Courses</a>
                             </li>
                             <li>
-                                <a href="PDF/forms/AIIT_45485_FORM_Agent_Application_RT.pdf" target="_blank">Agent
+                                <a href="<?php echo BASE_PATH; ?>assets/forms-and-policies/forms/AIIT_45485_FORM_Agent_Application_RT.pdf" target="_blank">Agent
                                     Application Form</a>
                             </li>
                         </ul>
