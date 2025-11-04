@@ -84,9 +84,11 @@ p {
 section {
   padding: 60px 0;
 }
+
 section:hover .heading {
   text-shadow: unset;
 }
+
 .heading {
   margin-bottom: 30px;
   position: relative;
@@ -102,8 +104,8 @@ section:hover .heading {
     0 20px 20px rgba(0, 0, 0, 0.15);
 }
 
-.heading:hover {
-}
+.heading:hover {}
+
 .heading::after {
   content: "";
   background: url("../img/headingDecorator.png") center repeat;
@@ -116,6 +118,7 @@ section:hover .heading {
   height: 5px;
   position: absolute;
 }
+
 section:hover .heading::after {
   transition: ease-in-out all 1s;
   right: 0;
@@ -137,20 +140,21 @@ section:hover .heading::after {
   font-weight: 400;
 }
 
-.studentData {
-}
+.studentData {}
 
 .gridStudents {
   display: grid;
   gap: 20px;
   grid-template-rows: auto;
 }
-.gridStudents > div {
+
+.gridStudents>div {
   background: #f2f2f2;
   text-align: center;
   border-radius: 10px;
   box-shadow: inset 0 0 10px #dfdfdf;
 }
+
 .gridStudents h1 {
   font-weight: 700;
   color: var(--black);
@@ -167,51 +171,64 @@ p {
 .bggray {
   background: #f9f9fb;
 }
+
 .transparentbtn {
   border-color: var(--green) !important;
   color: var(--green) !important;
 }
+
 .transparentbtn::after {
   background: white !important;
 }
+
 .transparentbtn:hover {
   background: var(--green);
   color: white !important;
 }
+
 .transparentbtn:focus {
   background-color: var(--green);
   color: white !important;
 }
+
 .bluetransparetbtn {
   border-color: var(--blue) !important;
   color: var(--blue) !important;
 }
+
 .bluetransparetbtn::after {
   background: white !important;
 }
+
 .bluetransparetbtn:hover {
   background: var(--blue);
   color: white !important;
 }
+
 .bluetransparetbtn:focus {
   background-color: var(--blue);
   color: white !important;
 }
+
 .darktransparentbtn {
   border-color: var(--black) !important;
   color: var(--black) !important;
 }
+
 .darktransparentbtn::after {
   background: white !important;
 }
+
 .darktransparentbtn:hover {
   background: var(--black);
   color: white !important;
 }
+
 .darktransparentbtn:focus {
   background-color: var(--black);
   color: white !important;
 }
+
 .btnCstm {
   font-size: 16px;
   font-weight: 200;
@@ -249,6 +266,7 @@ p {
   left: 0px;
   background: white;
 }
+
 .btnCstm:focus:after {
   top: 0px;
   color: black;
@@ -258,9 +276,11 @@ p {
 .green::after {
   background-color: var(--green) !important;
 }
+
 .blue::after {
   background-color: #007dcc !important;
 }
+
 .black::after {
   background-color: #575f64 !important;
 }
@@ -279,20 +299,24 @@ p {
   border: 1px solid rgba(255, 255, 255, 0.3);
   padding: 20px;
 }
+
 .whyimg {
   border-radius: 20px;
   overflow: hidden;
 }
+
 /* service box design */
 .flex {
   padding: 20px 0;
   display: flex;
   justify-content: space-around;
 }
+
 .flex h6 {
   font-size: 14px;
   font-weight: bold;
 }
+
 .sbox:hover {
   box-shadow: 0 0 10px #dfdfdf;
 }
@@ -307,6 +331,7 @@ p {
   border-radius: 50%;
   padding: 10px;
 }
+
 input[type="text"],
 input[type="textarea"],
 input[type="email"],
@@ -318,6 +343,7 @@ select {
   padding: 5px 0;
   text-align: center;
 }
+
 .stxt {
   text-align: center;
 }
@@ -381,6 +407,7 @@ select {
   box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
   cursor: pointer;
 }
+
 .courseCard:hover img {
   transform: scale(1.3);
   /* transform: rotate(5deg); */
@@ -414,9 +441,11 @@ select {
   border-radius: 5px;
   box-shadow: inset 0 0 10px #f9f9fb, 0 0 10px #dfdfdf;
 }
+
 .partners:hover {
   cursor: e-resize;
 }
+
 footer {
   padding: 40px 0;
   background: var(--black);
@@ -488,19 +517,23 @@ footer {
   background: rgb(0, 0, 0);
   padding: 20px 0;
 }
+
 .aboutImages {
   display: flex;
 }
+
 .aboutImage {
   margin-left: 15px;
   margin-bottom: 20px;
 
   overflow: hidden;
 }
+
 .aboutImage:hover {
   filter: drop-shadow(6px 10px 20px #ecb772a1);
   box-shadow: 0 0 10px #dfdfdf;
 }
+
 .about {
   position: relative;
 }
@@ -509,6 +542,7 @@ footer {
   color: black;
   text-align: justify;
 }
+
 .abouttxt a {
   color: var(--black);
 
@@ -524,13 +558,14 @@ footer {
 
   position: absolute;
 }
-.abouttxt > ul {
+
+.abouttxt>ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-.abouttxt ul > li:hover a {
+.abouttxt ul>li:hover a {
   color: var(--green);
 }
 
@@ -552,8 +587,7 @@ footer {
 
 .headersection {
   position: relative;
-  background: url("https://img.freepik.com/free-photo/lifestyle-people-learning-make-sushi_23-2149865335.jpg?t=st=1724381038~exp=1724384638~hmac=69921d86c9cf85b71d139a1ce07034416584b86be149df258bfbddb60a8683eb&w=1380")
-    no-repeat center fixed;
+  background: url("../img/breadcoveriamge.webp") no-repeat center fixed;
   background-size: cover;
   overflow: hidden;
   z-index: 99;
@@ -562,6 +596,7 @@ footer {
     
     animation: wave 10s infinite alternate; */
 }
+
 .pageHeading {
   margin: 0;
   text-align: center;
@@ -601,9 +636,11 @@ footer {
   filter: unset;
   border: 1px solid #dfdfdf;
 }
+
 .portalCard:hover img {
   transform: scale(1.1);
 }
+
 .portalCard h4 {
   text-transform: capitalize;
 
@@ -611,16 +648,18 @@ footer {
 
   font-weight: bold;
 }
+
 label {
   text-transform: capitalize;
   /* font-size: 12px; */
   /* margin-top: 10px; */
 }
+
 .contactboxes {
-  background: url("https://img.freepik.com/premium-vector/ready-use-linear-sticker-customer-service_9206-7124.jpg?w=2000")
-    no-repeat right;
+  /* background: url("https://img.freepik.com/premium-vector/ready-use-linear-sticker-customer-service_9206-7124.jpg?w=2000") no-repeat right; */
   background-size: contain;
 }
+
 .contactbox {
   padding: 20px;
   border-radius: 20px;
@@ -631,12 +670,15 @@ label {
   background-size: 200%;
   animation: wave 6s infinite alternate;
 }
+
 .contactbox:hover .cIcon {
   box-shadow: 0 0 10px;
 }
+
 .contactbox:hover {
   background-color: rgba(255, 244, 149, 0.6);
 }
+
 .contactbox h4 {
   padding: 10px 0;
   text-transform: uppercase;
@@ -644,9 +686,11 @@ label {
   color: white;
   font-size: 1rem;
 }
+
 .map {
   margin-bottom: 30px;
 }
+
 /* .maps {
   background-size: contain;
   position: relative;
@@ -664,14 +708,17 @@ label {
 .address {
   padding: 20px 0;
 }
+
 address {
   font-size: 15px;
 }
+
 .contactbox h3 {
   text-transform: capitalize;
   font-weight: bold;
   font-size: 1rem;
 }
+
 .cIcon {
   background: white;
   width: 100px;
@@ -681,6 +728,7 @@ address {
   height: 100px;
   border-radius: 50%;
 }
+
 .mediaBox {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -689,17 +737,20 @@ address {
   gap: 10px;
   justify-content: space-evenly;
 }
-.mediaBox > div {
+
+.mediaBox>div {
   margin: 10px 0;
   text-transform: capitalize;
 }
 
-.mediaBox > div:hover p {
+.mediaBox>div:hover p {
   color: rgb(255, 255, 255);
 }
-.mediaBox > div:hover a > img {
+
+.mediaBox>div:hover a>img {
   transform: rotateY(360deg);
 }
+
 .map {
   border-radius: 10px;
   overflow: hidden;
@@ -709,6 +760,7 @@ address {
 .citymap {
   position: relative;
 }
+
 .citymap::before {
   content: " Corporate Head Office";
   position: absolute;
@@ -725,12 +777,15 @@ address {
   background: linear-gradient(to right, var(--red), var(--yellow));
   padding: 10px 40px;
 }
+
 .citymap:hover::before {
   left: -20px;
 }
+
 .lygonmap {
   position: relative;
 }
+
 .lygonmap::before {
   content: "Lygon Street Campus";
   position: absolute;
@@ -747,11 +802,13 @@ address {
   background: linear-gradient(to right, var(--red), var(--yellow));
   padding: 10px 40px;
 }
+
 .lygonmap:hover::before {
   left: -20px;
 }
-.contactform {
-}
+
+.contactform {}
+
 .card-text {
   color: white;
   font-weight: bolder;
@@ -761,9 +818,11 @@ address {
   background-size: 200%;
   animation: wave 6s infinite alternate;
 }
+
 .steps {
   position: relative;
 }
+
 .steps::before {
   position: absolute;
   content: "";
@@ -773,6 +832,7 @@ address {
   height: 100%;
   width: 5px;
 }
+
 .step {
   display: flex;
   align-items: center;
@@ -780,6 +840,7 @@ address {
   padding: 30px 0;
   justify-content: space-between;
 }
+
 .stepInfo h3 {
   text-transform: capitalize;
   padding: 10px 5px;
@@ -789,6 +850,7 @@ address {
   border-radius: 5px;
   font-weight: 600;
 }
+
 .stepHeading {
   background: white;
   display: grid;
@@ -798,11 +860,13 @@ address {
   width: 70px;
   place-content: center;
 }
+
 .stepCount h1 {
   font-size: 3rem;
   margin: 0;
   font-weight: 700;
 }
+
 .flexUl {
   padding: 0;
   margin: 0;
@@ -810,6 +874,7 @@ address {
   list-style-type: none;
   flex-wrap: wrap;
 }
+
 .flexUl li {
   display: flex;
   gap: 10px;
@@ -818,21 +883,26 @@ address {
   margin: 10px;
   padding: 10px;
 }
+
 .flexUl li p {
   font-size: 14px;
   margin: 0;
   padding: 0;
 }
+
 .feeContainer {
   padding: 30px 0;
 }
+
 .feeContainer {
   font-weight: bolder;
   filter: grayscale(2);
 }
+
 .feeContainer:hover {
   filter: unset;
 }
+
 .stickyElement {
   position: sticky;
   top: 0;
@@ -846,6 +916,7 @@ address {
   font-size: 16px;
   font-weight: bold;
 }
+
 .cardAgent {
   padding: 10px 20px;
   display: grid;
@@ -855,6 +926,7 @@ address {
   align-content: center;
   align-items: center;
 }
+
 .agentbox {
   position: relative;
   /* background:url('https://img.freepik.com/premium-photo/white-cement-wall-texture-backgrounds_707519-24233.jpg?w=1380') center fixed  no-repeat;   filter: drop-shadow(5px 5px 7px #dfdfdf);  */
@@ -868,6 +940,7 @@ address {
   border: 2px solid #fff;
   z-index: 9;
 }
+
 .agentbox::before {
   content: "";
   z-index: -1;
@@ -880,10 +953,12 @@ address {
   right: 4%;
   background: #f7a30a;
 }
+
 .agentbox i {
   margin-bottom: 10px;
   color: #444;
 }
+
 .agentbox::after {
   content: " ";
   position: absolute;
@@ -894,12 +969,14 @@ address {
   z-index: -1;
   backdrop-filter: blur(5px);
 }
+
 .agentbox:hover {
   box-shadow: none;
   border: 2px solid #f7a30a;
   filter: none;
   /* border: 1px solid #dfdfdf; */
 }
+
 .agentbox:hover::after {
   inset: 0;
 }
@@ -907,43 +984,51 @@ address {
 .agentbox:hover .agentlogo {
   transform: rotateX(360deg);
 }
+
 .agentlogo {
   padding: 10px;
   background: white;
   filter: drop-shadow(0 0 2px #f9f9fb);
 }
+
 .agenttxt {
   margin-top: 10px;
   /* opacity: 0.5;
      background:linear-gradient(to top, var(--green),rgba(255, 255, 255, 0)); */
   padding: 20px;
 }
+
 .agenttxt h5 {
   font-weight: bolder;
   text-transform: capitalize;
 }
+
 .agenttxt ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
 }
-.agenttxt ul > li {
+
+.agenttxt ul>li {
   position: relative;
   font-size: 14px;
   margin: 10px 0;
 }
-.agenttxt ul > li::before {
+
+.agenttxt ul>li::before {
   content: "";
   inset: 0;
   left: -10px;
   position: absolute;
 }
-.agenttxt ul > li > p {
+
+.agenttxt ul>li>p {
   color: black;
 
   font-size: 14px;
   font-weight: 400;
 }
+
 .CourseHighlight {
   margin-top: -10px;
   position: relative;
@@ -953,11 +1038,13 @@ address {
   border-radius: 10px;
   box-shadow: 0 0 10px #dfdfdf;
 }
+
 .grid {
   display: grid;
   gap: 20px;
   align-items: center;
 }
+
 .highlight {
   text-align: center;
   border-right: 1px solid var(--red);
@@ -972,31 +1059,37 @@ address {
   text-transform: capitalize;
   font-size: 13px;
 }
+
 .highlight i {
   font-size: 28px;
   color: var(--red);
 }
+
 .addon_info {
   padding: 15px;
   /* background: #f9f9fb; */
   border-radius: 5px;
   /* box-shadow: 0 0 5px #dfdfdf; */
 }
+
 .addon_info h5 {
   font-weight: bold;
   color: black;
   margin: 0;
   font-size: 26px;
 }
-.addon_info > ul {
+
+.addon_info>ul {
   list-style: none;
 }
-.addon_info > ul > li {
+
+.addon_info>ul>li {
   padding: 15px 5px;
   border-bottom: 1px solid #dfdfdf;
   background: #8eb6ff7a;
   font-weight: bold;
 }
+
 .querybox {
   padding: 30px 15px;
   margin: 0 15px;
@@ -1004,22 +1097,27 @@ address {
   border-radius: 5px;
   background-color: #fa90062e;
 }
+
 .querybox a {
   font-weight: 600;
   font-size: 16px;
 }
+
 .querybox h5 {
   text-transform: uppercase;
   font-weight: bolder;
 }
+
 .NRT {
   padding: 40px 0;
   filter: drop-shadow(0 0 10px #dfdfdf);
 }
+
 .coursebox {
   padding: 20px 0;
   border-bottom: 1px solid #f9f9fb;
 }
+
 .coursebox h4 {
   position: relative;
 
@@ -1029,6 +1127,7 @@ address {
   text-transform: uppercase;
   margin-bottom: 15px;
 }
+
 .coursebox h4::after {
   content: "";
   position: absolute;
@@ -1038,29 +1137,37 @@ address {
   transition: ease-in-out all 0.5s;
   z-index: -1;
 }
+
 .coursebox:hover h4::after {
   height: 40px;
 }
+
 .coursebox p {
   text-align: justify;
   color: #777;
 }
+
 .coursebox ul {
   list-style-type: none;
 }
+
 .coursebox ul li {
   padding: 10px 0;
 }
-.coursebox ul li > ul li:nth-child(odd) {
+
+.coursebox ul li>ul li:nth-child(odd) {
   /* can be add style for the UI on course page */
 }
+
 .coursebox i {
   font-size: 1.2rem;
   color: var(--red);
 }
-.coursebox > table > tbody > tr > td {
+
+.coursebox>table>tbody>tr>td {
   vertical-align: middle;
 }
+
 .campusCard {
   cursor: pointer;
   text-align: center;
@@ -1074,6 +1181,7 @@ address {
   border-radius: 5px;
   z-index: 9;
 }
+
 .campusCard::after {
   inset: 0;
   background: rgba(255, 255, 255, 0.7);
@@ -1083,26 +1191,32 @@ address {
   content: "";
   filter: blur(1px);
 }
+
 .campusCard:hover {
   color: var(--red);
   box-shadow: unset;
 }
+
 .campusCard:hover i {
   transform: rotateY(350deg);
 }
+
 .campusCard i {
   font-size: 2rem;
   color: black;
 }
+
 .courseCardBox {
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 0 10px #dfdfdf;
 }
+
 .policiesList {
   height: 70vh;
   overflow: auto;
 }
+
 .policy {
   box-shadow: 0 0 10px #dfdfdf;
   padding: 20px 30px;
@@ -1115,18 +1229,22 @@ address {
   position: relative;
   border: 1px solid #dfdfdf;
 }
+
 .policy:hover {
   box-shadow: inset 0 0 10px #dfdfdf;
   background: #f9f9fb;
   transition: ease-in-out all 1s;
 }
+
 .policy i {
   color: #dc3545;
 }
+
 .policy a {
   font-size: 14px;
   font-weight: bold;
 }
+
 .policy::before {
   position: absolute;
   content: "";
@@ -1139,6 +1257,7 @@ address {
   right: 40%;
   background: url("../img/icons/pdf.png") center no-repeat;
 }
+
 .policy::after {
   position: absolute;
   content: "";
@@ -1148,6 +1267,7 @@ address {
   left: 0;
   background-color: #dc3545;
 }
+
 .policyinform {
   margin-top: 10px;
   border-radius: 5px;
@@ -1168,16 +1288,14 @@ address {
 
 *::-webkit-scrollbar-thumb {
   background-color: var(--black);
-  background-image: -webkit-linear-gradient(
-    45deg,
-    rgba(255, 255, 255, 0.2) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgba(255, 255, 255, 0.2) 50%,
-    rgba(255, 255, 255, 0.2) 75%,
-    transparent 75%,
-    transparent
-  );
+  background-image: -webkit-linear-gradient(45deg,
+      rgba(255, 255, 255, 0.2) 25%,
+      transparent 25%,
+      transparent 50%,
+      rgba(255, 255, 255, 0.2) 50%,
+      rgba(255, 255, 255, 0.2) 75%,
+      transparent 75%,
+      transparent);
 }
 
 .linkBox {
@@ -1192,31 +1310,38 @@ address {
   justify-content: space-between;
   align-items: center;
 }
+
 .linkBox:hover {
   box-shadow: 0 0 10px #dfdfdf;
 }
+
 .linkBody {
   padding: 20px;
   background: #ffffff;
 }
-.linkBox:hover .linkBody > a > img {
+
+.linkBox:hover .linkBody>a>img {
   filter: unset;
   transform: scale(1.4);
 }
-.linkBody > a > img {
+
+.linkBody>a>img {
   /* height:100px; */
 
   filter: grayscale();
 }
+
 .linkTxt {
   text-align: center;
   padding: 20px 10px;
   background: #dfdfdf;
 }
+
 .linkTxt a {
   font-weight: bold;
   font-size: 14px;
 }
+
 .chatIcon {
   padding: 20px;
   box-shadow: 0 0 10px;
@@ -1229,10 +1354,12 @@ address {
   transform: scale(0.5);
   animation: 2s ease-in-out 1s infinite alternate popup;
 }
+
 @keyframes popup {
   from {
     transform: scale(0.6);
   }
+
   to {
     transform: scale(0.5);
   }
@@ -1243,51 +1370,62 @@ address {
   font-weight: 800;
   text-transform: capitalize;
 }
+
 .testibox {
   display: grid;
-  background: white;
+
   padding: 30px 0;
-  align-items: center;
+  align-items: start;
 }
+
 .testi {
-  width: 250px;
+  width: 150px;
   margin: 0 auto;
   overflow: hidden;
-  /* border-radius: 10px; */
+  border-radius: 50%;
   box-shadow: 0.5rem 0.5rem var(--yellow), -0.5rem -0.5rem var(--green);
 }
+
 .testi:hover {
   box-shadow: unset;
 }
+
 .testitxt p {
   line-height: 2;
 
   text-align: justify !important;
 }
+
 .faq-quest {
   border: 1px solid #dfdfdf;
   padding: 20px;
 }
+
 .questionBar {
   font-weight: bold;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
+
 .questionBar a:hover {
   color: var(--green);
 }
+
 .answer {
   margin-top: 10px;
   padding: 20px;
   background-color: rgba(202, 202, 202, 0.192);
 }
+
 .answer p {
   color: #333;
 }
-.answer > ol > li {
+
+.answer>ol>li {
   margin: 10px 0;
 }
+
 .answer a {
   text-transform: none;
 }
@@ -1301,30 +1439,39 @@ address {
   z-index: 10;
   padding: 10px;
 }
+
 .application_form .card:nth-child(1) .card-header {
   background-color: var(--green);
 }
+
 .application_form .card:nth-child(2) .card-header {
   background-color: var(--blue);
 }
+
 .application_form .card:nth-child(3) .card-header {
   background-color: var(--yellow);
 }
+
 .application_form .card:nth-child(4) .card-header {
   background-color: var(--red);
 }
+
 .application_form .card:nth-child(5) .card-header {
   background-color: #333;
 }
+
 .application_form .card:nth-child(8) .card-header {
   background-color: var(--purple);
 }
+
 .application_form .card:nth-child(6) .card-header {
   background-color: #333;
 }
+
 .application_form .card:nth-child(7) .card-header {
   background-color: #333;
 }
+
 .application_form .card:nth-child(n + 9) .card-header {
   background-color: #333;
 }
@@ -1335,6 +1482,7 @@ address {
   padding: 5px;
   font-weight: 600;
 }
+
 .card-body h6 {
   color: var(--black);
   background-color: #dfdfdf;
@@ -1342,32 +1490,46 @@ address {
   padding: 5px;
   font-weight: 600;
 }
-.form-check > label {
+
+.form-check>label {
   font-size: 14px;
 
   margin: 5px 0;
 }
-.form-check > label:hover {
+
+.form-check>label:hover {
   color: black;
   font-weight: 600;
   cursor: pointer;
 }
+
 .geintouch {
   background: linear-gradient(150deg, var(--green), var(--yellow), var(--red));
   background-size: 200%;
   animation: wave 6s infinite alternate;
   position: fixed;
-  border-radius: 10px 10px 0 0;
-  right: -2%;
+  border-radius: 10px;
+  left: 0%;
+  z-index: 9999;
   transform: rotateZ(-90deg);
   box-shadow: 0 0 10px;
   bottom: 50%;
   padding: 10px 20px;
 }
+
 .geintouch a {
   color: white;
   font-weight: bold;
 }
+
+.btnGrid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
 @media (min-width: 320px) {
   .cardAgent {
     grid-template-columns: auto;
@@ -1377,107 +1539,139 @@ address {
   .headerGrid {
     grid-template-columns: auto;
   }
+
   .headerGridBtn {
     text-align-last: justify;
   }
+
   .banner h1 {
     font-size: 2.9rem;
     /* text-transform: capitalize; */
   }
-  .abouttxt ul > li {
+
+  .abouttxt ul>li {
     padding: 10px 0;
   }
+
   .whyimg {
     text-align: center;
   }
+
   .obriginal {
     flex-direction: column;
   }
+
   .gridStudents {
     grid-template-columns: 30% 30% 30%;
   }
-  .gridStudents > div {
+
+  .gridStudents>div {
     padding: 5px;
   }
+
   .aboutImages {
     align-items: center;
     justify-content: center;
   }
+
   .aboutImage {
     width: unset;
   }
+
   .portalCard h4 {
     font-size: 0.8rem;
   }
+
   .steps::before {
     left: 8%;
   }
+
   .grid {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
   }
+
   .reverse {
     flex-direction: column-reverse;
   }
+
   .testibox {
     grid-template-columns: auto;
   }
+
   .foottab {
     text-align: left;
   }
+
+  .abouticon {
+    display: none;
+  }
 }
 
-@media (min-width: 420px) {
-}
+@media (min-width: 420px) {}
 
 @media (min-width: 768px) {
-  .gridStudents > div {
+  .gridStudents>div {
     padding: 20px;
   }
+
   .portalCard h4 {
     font-size: 1rem;
   }
+
   .foottab {
     text-align: center;
   }
 }
+
 @media (min-width: 992px) {
   .headerGrid {
     grid-template-columns: auto auto auto auto;
   }
+
   .banner h1 {
-    font-size: 3.5rem;
+    font-size: 3.0rem;
     /* text-transform: capitalize; */
   }
-  .abouttxt ul > li {
+
+  .abouttxt ul>li {
     padding: 20px 0;
   }
+
   .whyimg {
     text-align: right;
   }
+
   .obriginal {
     flex-direction: row;
   }
+
   .gridStudents {
     grid-template-columns: auto auto auto;
   }
+
   .aboutImage {
     width: 180px;
   }
+
   .aboutImages {
     align-items: unset;
     justify-content: unset;
   }
+
   .steps::before {
     left: 3%;
   }
+
   .grid {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr;
   }
+
   .reverse {
     flex-direction: unset;
   }
+
   .cardAgent {
     grid-template-columns: 20% 50% 30%;
     text-align: unset;
@@ -1485,5 +1679,9 @@ address {
 
   .testibox {
     grid-template-columns: 30% 70%;
+  }
+
+  .abouticon {
+    display: block;
   }
 }
