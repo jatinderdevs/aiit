@@ -195,7 +195,8 @@
 
                 </div>
                 <div class="col-md-3 col-6 shortCourse">
-                    <div class="courseCard">
+                    <a href="assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol FAQ (SITSS00071).pdf">
+                        <div class="courseCard">
                         <div class="cardBody">
                             <img src="img/courses/rsa.webp" class="img-fluid" alt="">
                         </div>
@@ -205,8 +206,11 @@
                             <h4> Responsible Service of Alcohol</h4>
                         </div>
                     </div>
+                    </a>
+                  
                 </div>
                 <div class="col-md-3 col-6 shortCourse">
+                     <a href="assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol FAQ (SITSS00069).pdf">
                     <div class="courseCard">
                         <div class="cardBody">
                             <img src="img/about/students.webp" class="img-fluid" alt="">
@@ -217,8 +221,10 @@
                             <h4> Food Safety Supervision Skill Set</h4>
                         </div>
                     </div>
+                    </a>
                 </div>
                 <div class="col-md-3 col-6 shortCourse">
+                     <a href="assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol FAQ (SITSS00068).pdf">
                     <div class="courseCard">
                         <div class="cardBody">
                             <img src="img/about/students.webp" class="img-fluid" alt="">
@@ -229,6 +235,7 @@
                             <h4>Food Handling Skill Set</h4>
                         </div>
                     </div>
+                    </a>
                 </div>
 
 

@@ -452,7 +452,13 @@ footer {
   padding: 40px 0;
   background: var(--black);
 }
-
+.source {
+  font-size: 12px;
+  color: #999;
+}
+.source a {
+  font-weight: 500;
+}
 .obriginal {
   margin: 10px 0;
   background: rgba(0, 0, 0, 0.538);
@@ -1379,7 +1385,7 @@ address {
 .testibox {
   display: grid;
 
-  padding: 30px 0;
+  padding-top: 30px;
   align-items: start;
 }
 

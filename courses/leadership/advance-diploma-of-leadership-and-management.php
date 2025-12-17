@@ -91,7 +91,7 @@
                 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
                 <h6> 
                     Pre Enrolment Information <br>
-                    <a href="assets/preEnrollmentFactsSheets/Pre-requirement Commercial Cookery - FactSheet.pdf" target="_blank" class="  btn-link">click here</a></h6>
+                    <a href="../../assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol_FAQ_(BSB60420).pdf" target="_blank" class="  btn-link">click here</a></h6>
             </div>
             <div class="highlight ">
              
@@ -146,28 +146,8 @@ They use cognitive and communication skills to identify, analyse and synthesise 
        
             </div>
             <div class="col-md-4">
-                <div class="addon_info">
-                    <h5 class="text-dark ">Available intake</h5>
-                    <br>
-                    <!-- <hr> -->
-                    <ul>
-                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th March 2025</li>
-                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th january 2025</li>
-                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th december 2025</li>
-                    </ul>
-                </div>
-                <div class="querybox text-center">
-                    <h5>want to know more</h5>
-                    <br>
-                <a href="" class="btnCstm">Contact now</a>
-                    <br>
-                    <br>
-                <small>Lorem ipsum dolor sit amet.</small>
-                </div>
-                <br>
-                <div class="text-center NRT">
-                    <img src="https://www.aiit.vic.edu.au/images/NTR%20logo.png"  class="img-fluid w-50" alt="">
-                </div>
+                                  <?php include_once('../../includes/intakeinfo.php') ?>
+
             </div>    
             
         </div>

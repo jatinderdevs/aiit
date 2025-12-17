@@ -94,7 +94,7 @@
                 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
                 <h6> 
                     Pre Enrolment Information <br>
-                    <a href="assets/preEnrollmentFactsSheets/Pre-requirement Commercial Cookery - FactSheet.pdf" target="_blank" class="  btn-link">click here</a></h6>
+                    <a href="../../assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol_FAQ_(SIT30821).pdf" target="_blank" class="  btn-link">click here</a></h6>
             </div>
             <div class="highlight ">
                 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
@@ -145,6 +145,7 @@ This qualification provides a pathway to work as a cook in organisations such as
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
                             <strong>390A Lygon Street, Brunswick East, Melbourne, Victoria, 3057</strong>
+                            <br>&nbsp; 
                         </div>
                     </div>
                  
@@ -154,30 +155,7 @@ This qualification provides a pathway to work as a cook in organisations such as
        
             </div>
             <div class="col-md-4">
-                <div class="addon_info">
-                    <h5 class="text-dark ">Available intake</h5>
-                    <br>
-                    <!-- <hr> -->
-                    <ul>
-                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th March 2025</li>
-                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th january 2025</li>
-                        <li><i class="fa fa-clock-o" aria-hidden="true"></i>  15th december 2025</li>
-                    </ul>
-                </div>
-                <div class="querybox text-center">
-                    <h5>want to know more</h5>
-                    <br>
-                <a href="" class="btnCstm">Contact now</a>
-                    <br>
-                    <br>
-                <small>Lorem ipsum dolor sit amet.</small>
-                </div>
-                <br>
-                <div class="text-center NRT">
-                    
-                    <img src="https://www.aiit.vic.edu.au/images/NTR%20logo.png"  class="img-fluid w-50" alt="">
-
-                </div>
+                  <?php include_once('../../includes/intakeinfo.php') ?>
             </div>
      
             
