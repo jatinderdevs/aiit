@@ -11,7 +11,7 @@
                 <div class="querybox text-center">
                             <h5>want to know more</h5>
                             <br>
-                                <a href="contactus.php" class="btnCstm">Contact now</a>
+                                <a href="../../contactus.php" class="btnCstm">Contact now</a>
                             <br>
                             <br>
                         <small>Intake details, enrollment Process, entry requirements</a></small>

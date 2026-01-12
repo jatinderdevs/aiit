@@ -91,12 +91,12 @@
 </footer>
 <div class="footbar">
     <div class="container">
-        <p> &copy; <span id="year"></span> Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust
+        <p class="text-light"> &copy; <span id="year"></span> Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust
             T/A
             Australian
             International Institute of Technology.
             (Established 2017)</p>
-        <p class="m-0 text-capitalize text-center">made with <span class="text-danger"> ♥ </span> in melbourne by <a
+        <p class="m-0  text-center">Made with <span class="text-danger"> ♥ </span> in melbourne by <a class="text-secondary"
                 traget="_blank" href="https://www.jatinderdev.com/">jatinderdev</a></p>
     </div>
 
@@ -278,6 +278,12 @@ var Tawk_API = Tawk_API || {},
     s1.setAttribute('crossorigin', '*');
     s0.parentNode.insertBefore(s1, s0);
 })();
+</script>
+
+<script>
+    const applyNowBtn= document.querySelector(".highlight>a");
+
+    applyNowBtn.setAttribute("href","<?php echo BASE_PATH; ?>assets/forms-and-policies/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf")
 </script>
 <!--End of Tawk.to Script-->
 </body>
