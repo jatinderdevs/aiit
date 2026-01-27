@@ -1,0 +1,291 @@
+[
+  {
+    "unitCode": "CPCCCA2002",
+    "unitTitle": "Use carpentry tools and equipment",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA2011",
+    "unitTitle": "Handle carpentry materials",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3001",
+    "unitTitle": "Carry out general demolition of minor building structures",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3002",
+    "unitTitle": "Carry out setting out",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3003",
+    "unitTitle": "Install flooring systems",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3004",
+    "unitTitle": "Construct and erect wall frames",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3005",
+    "unitTitle": "Construct ceiling frames",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3006",
+    "unitTitle": "Erect roof trusses",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3007",
+    "unitTitle": "Construct pitched roofs",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3008",
+    "unitTitle": "Construct eaves",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3010",
+    "unitTitle": "Install windows and doors",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3016",
+    "unitTitle": "Construct, assemble and install timber external stairs",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3017",
+    "unitTitle": "Install exterior cladding",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3024",
+    "unitTitle": "Install lining, panelling and moulding",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3025",
+    "unitTitle": "Read and interpret plans, specifications and drawings for carpentry work",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3028",
+    "unitTitle": "Erect and dismantle formwork for footings and slabs on ground",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCM2006",
+    "unitTitle": "Apply basic levelling procedures",
+    "prerequisite": [],
+    "notes": false,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCM2008",
+    "unitTitle": "Erect and dismantle restricted height scaffolding",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCM2012",
+    "unitTitle": "Work safely at heights",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCO2013",
+    "unitTitle": "Carry out concreting to simple forms",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCOM1012",
+    "unitTitle": "Work effectively and sustainably in the construction industry",
+    "prerequisite": [],
+    "notes": false,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCOM1014",
+    "unitTitle": "Conduct workplace communication",
+    "prerequisite": [],
+    "notes": false,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCOM1015",
+    "unitTitle": "Carry out measurements and calculations",
+    "prerequisite": [],
+    "notes": false,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCOM3001",
+    "unitTitle": "Perform construction calculations to determine carpentry material requirements",
+    "prerequisite": [],
+    "notes": false,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCOM3006",
+    "unitTitle": "Carry out levelling operations",
+    "prerequisite": [],
+    "notes": false,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCWHS2001",
+    "unitTitle": "Apply WHS requirements, policies and procedures in the construction industry",
+    "prerequisite": [],
+    "notes": false,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCWHS3001",
+    "unitTitle": "Identify construction work hazards and select risk control strategies",
+    "prerequisite": [],
+    "notes": false,
+    "type": "Core"
+  },
+  {
+    "unitCode": "CPCCCA3009",
+    "unitTitle": "Construct advanced roofs",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry",
+      "CPCCCA3007 - Construct pitched roofs"
+    ],
+    "notes": true,
+    "type": "Elective (Group A)"
+  },
+  {
+    "unitCode": "CPCCCA3012",
+    "unitTitle": "Frame and fit wet area fixtures",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Elective (Group A)"
+  },
+  {
+    "unitCode": "CPCCCA3018",
+    "unitTitle": "Construct, erect and dismantle formwork for stairs and ramps",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Elective (Group A)"
+  },
+  {
+    "unitCode": "CPCCCM2002",
+    "unitTitle": "Carry out hand excavation",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Elective (Group A)"
+  },
+  {
+    "unitCode": "CPCCOM1013",
+    "unitTitle": "Plan and organise work",
+    "prerequisite": [],
+    "notes": false,
+    "type": "Elective (Group A)"
+  },
+  {
+    "unitCode": "CPCCSF2004",
+    "unitTitle": "Place and fix reinforcement materials",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Elective"
+  },
+  {
+    "unitCode": "CPCCWC3004",
+    "unitTitle": "Install suspended ceilings",
+    "prerequisite": [
+      "CPCCWHS2001 - Apply WHS requirements, policies and procedures in the construction industry"
+    ],
+    "notes": true,
+    "type": "Elective"
+  }
+]
