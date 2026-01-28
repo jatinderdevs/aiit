@@ -4,26 +4,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CPC30220 - Certificate III in Carpentry | AIIT Melbourne</title>
-  <meta name="description" content="Study CPC30220 Certificate III in Carpentry at AIIT Melbourne. Gain trade skills in building and construction. Enroll now!">
-  <meta name="keywords" content="Certificate III Carpentry, carpentry course Melbourne, AIIT, building construction training">
+  <title>CPC50220 - Diploma of Building and Construction (Building) | AIIT Melbourne</title>
+  <meta name="description" content="Study CPC50220 Diploma of Building and Construction (Building) at AIIT Melbourne. Advance your career in building management. Enroll now!">
+  <meta name="keywords" content="Diploma Building Construction, building management course Melbourne, AIIT, construction training">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/carpentry/certificate-III-in-carpentry.php">
-  <meta property="og:title" content="Certificate III in Carpentry | AIIT Melbourne">
-  <meta property="og:description" content="Launch your career in carpentry with AIIT’s Certificate III in Carpentry in Melbourne. Hands-on training for builders. Apply today!">
-  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/carpentry-class.jpg">
-  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/carpentry/certificate-III-in-carpentry.php">
+  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/building-construction/diploma-of-building-and-construction-building.php">
+  <meta property="og:title" content="Diploma of Building and Construction (Building) | AIIT Melbourne">
+  <meta property="og:description" content="Elevate your expertise with AIIT’s Diploma of Building and Construction (Building) in Melbourne. Pathway for aspiring builders. Apply today!">
+  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/building-construction-class.jpg">
+  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/building-construction/diploma-of-building-and-construction-building.php">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Certificate III in Carpentry | AIIT Melbourne">
-  <meta name="twitter:description" content="Join AIIT Melbourne’s carpentry course to become a qualified carpenter. Practical skills in construction await!">
-  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/carpentry-class.jpg">
+  <meta name="twitter:title" content="Diploma of Building and Construction (Building) | AIIT Melbourne">
+  <meta name="twitter:description" content="Join AIIT Melbourne’s Diploma in Building and Construction to manage projects effectively. Hands-on leadership training!">
+  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/building-construction-class.jpg">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Course",
-    "name": "CPC30220 Certificate III in Carpentry",
-    "description": "Hands-on training in carpentry at AIIT Melbourne to prepare you for a career in building and construction.",
+    "name": "CPC50220 Diploma of Building and Construction (Building)",
+    "description": "Advanced training in building and construction management at AIIT Melbourne to prepare you for leadership roles.",
     "provider": {
       "@type": "Organization",
       "name": "Australian International Institute of Technology",
@@ -59,7 +59,7 @@
     <section class="headersection">
         <div class="headerlayer">
             <div class="container">
-                <h1 class="pageHeading">CPC30220 - Certificate III in Carpentry</h1>
+                <h1 class="pageHeading">CPC50220 - Diploma of Building and Construction (Building)</h1>
             </div>
         </div>
     </section>
@@ -69,7 +69,7 @@
             <div class="highlight ">
                 <i class="fa fa-certificate" aria-hidden="true"></i>
                 <h6>Course Code <br>
-                    CPC30220</h6>
+                    CPC50220</h6>
             </div>
             <div class="highlight ">
                 <i class="fa fa-certificate" aria-hidden="true"></i>
@@ -88,7 +88,7 @@
                 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
                 <h6> 
                     Pre Enrolment Information <br>
-                    <a href="../../assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol_FAQ_(CPC30220).pdf" target="_blank" class="  btn-link">click here</a></h6>
+                    <a href="../../assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol_FAQ_(CPC50220).pdf" target="_blank" class="  btn-link">click here</a></h6>
             </div>
             <div class="highlight ">
                 <a href="student-application-form.php" class=" btn btn-danger" ><i class="fa fa-paper-plane-o" style="color: white; font-size: 1.2rem;" aria-hidden="true"></i> Apply now</a>
@@ -104,7 +104,7 @@
                 <div class="coursebox">
                     <h4>Course Description                    </h4>
                     <p>
-                        This qualification provides a trade outcome in carpentry, covering work in the construction industry, using carpentry tools and equipment to set out, construct, and install timber and non-timber frames, roof and wall frames, and perform carpentry maintenance and repairs. It prepares individuals for roles such as carpenter in residential, commercial, and industrial construction sectors. This course supports pathways to formal builder licensing accreditation and higher-level qualifications in building and construction.
+                        This qualification reflects the role of builders and senior managers who apply knowledge of structural principles, risk and financial management, and legal requirements to construction projects. It is intended for learners already holding the Certificate IV in Building and Construction or equivalent, structured to apply synergies between the Diploma and Certificate IV courses. This course provides a pathway to work as a builder in residential, commercial, and industrial sectors, supporting formal builder licensing accreditation and higher-level qualifications.
                     </p>
                 </div>
                 <div class="coursebox">
@@ -153,7 +153,7 @@
                     <h4>
                         Entry Requirements</h4>
                     <p>
-                        Australian International Institute of Technology has the following minimum entry requirements for CPC30220 Certificate III in Carpentry. All applicants must:
+                        Australian International Institute of Technology has the following minimum entry requirements for CPC50220 Diploma of Building and Construction (Building). All applicants must:
                     </p>
                     <ul>
                         <li>
@@ -189,28 +189,28 @@
                             </ul>
                         </li>
                     </ul>
-                    <small class="text-justify">*Note - If an International student is not required to provide evidence of their English Language Proficiencies (in Speaking, Reading, Writing and Listening) at the time of applying for their Student visa (Sub‐class 500) reference https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements, they will be required to complete Australian International Institute of Technology’s English Language Proficiency Assessment to ensure that they have the required English proficiency level for this course. Language, literacy, and numeracy (LL&N) requirements for learners undertaking this qualification are at a Level 2 on the “Australian Core Skills Framework (ACSF)” Performance Grid.</small>
+                    <small class="text-justify">*Note - If an International student is not required to provide evidence of their English Language Proficiencies (in Speaking, Reading, Writing and Listening) at the time of applying for their Student visa (Sub‐class 500) reference https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements, they will be required to complete Australian International Institute of Technology’s English Language Proficiency Assessment to ensure that they have the required English proficiency level for this course. Language, literacy, and numeracy (LL&N) requirements for learners undertaking this qualification are at a Level 5 on the “Australian Core Skills Framework (ACSF)” Performance Grid.</small>
                 </div>
                 <div class="coursebox">
                     <h4>Course Requirements</h4>
                     <p>
-                        Applicants are further required to complete a Pre-Training Review (PTR), a Language, Literacy and Numeracy (LL&N) Diagnostic and Digital Currency assessment before admission to ensure the applicant’s suitability which further aims to ensure they have the best chance of success, and the training will meet the learning and employment outcomes the student expects. The training is structured and paced to support VET students to progress, providing sufficient time for instruction, practice, feedback and assessment. Reasonable adjustments are made to support students with disabilities, including additional time, oral presentations, large print materials, and flexible scheduling.
+                        Applicants are further required to complete a Pre-Training Review (PTR), a Language, Literacy and Numeracy (LL&N) Diagnostic and Digital Currency assessment before admission to ensure the applicant’s suitability which further aims to ensure they have the best chance of success, and the training will meet the learning and employment outcomes the student expects. The training is structured and paced to support VET students to progress, providing sufficient time for instruction, practice, feedback and assessment. Reasonable adjustments are made to support students with disabilities, including additional time, oral presentations, large print materials, and flexible scheduling. This qualification is intended for learners holding Certificate IV in Building and Construction or equivalent.
                     </p>
                 </div>
                 <div class="coursebox">
                     <h4>Pathways</h4>
                     <p>
-                        Upon successful completion of this qualification, graduates may seek employment as a carpenter in the building and construction sector, pursue formal builder licensing accreditation, or pathway to higher-level qualifications such as Certificate IV in Building and Construction.
+                        Key target groups include internal pathway students from CPC30220 Certificate III in Carpentry. Graduates may seek employment as builders or senior managers in the building and construction sector, pursue formal builder licensing accreditation, or pathway to higher-level qualifications such as Advanced Diploma in Building and Construction.
                     </p>
                 </div>
                 <div class="coursebox">
                     <h4>Units of Competency</h4>
                     <p>
-                        Total number of units of competency – 34 (This qualification has 27 Core units and 6 Elective units). Units of competency have been selected in accordance with the packaging rules and are relevant to the work outcome, local industry requirements and the AQF qualification level. An asterisk (*) against a unit code indicates that there is a prerequisite requirement that must be met.
+                        Total number of units of competency – 27 (This qualification has 24 Core units and 3 Elective units). Units of competency have been selected in accordance with the packaging rules and are relevant to the work outcome, local industry requirements and the AQF qualification level.
                             <br><br>
                     </p>
                     <br>
-                <small><strong><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Refer to: <a href="https://training.gov.au/Training/Details/CPC30220" class="text-lowercase btn-link" target="_blank">https://training.gov.au/Training/Details/CPC30220</a></strong></small>
+                <small><strong><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Refer to: <a href="https://training.gov.au/Training/Details/CPC50220" class="text-lowercase btn-link" target="_blank">https://training.gov.au/Training/Details/CPC50220</a></strong></small>
                     <hr>
                     <table class="table  table-hover  table-bordered  " id="units">
                         <thead class="badge-primary text-uppercase">
@@ -235,20 +235,19 @@
                 getData();
         async function getData() {
             const tableBody = document.querySelector('#units tbody');
-            const result=await fetch('<?php echo BASE_PATH; ?>data/cpc30220.json');
+            const result=await fetch('<?php echo BASE_PATH; ?>data/cpc50220.json');
             const data =await result.json();
-            
-            data.forEach(unit => {
+            data.units.forEach(unit => {
                 let prerequisites="";
             const row = document.createElement('tr');
             const cellCode = document.createElement('td');
             const cellTitle = document.createElement('td');
             const cellCoreElective = document.createElement('td');
-            unit.prerequisite_units?.map(x=>{
+            unit.prerequisite?.map(x=>{
                 prerequisites+=x +"<br/>";
             });
             cellCode.innerHTML =`<strong>${ unit.unitCode}<small>${ (unit.notes)?'*':' '}</small></strong>`;
-            cellTitle.innerHTML = `<p class="text-dark">${unit.unitTitle}<br/></p> <small style='font-size:12px;'>${unit.prerequisite}</small>`;
+            cellTitle.innerHTML = `<p class="text-dark">${unit.unitTitle}<br/></p> <small style='font-size:12px;'>${prerequisites}</small>`;
             cellCoreElective.innerHTML = `<p>${unit.type}</p>`;
 
             row.appendChild(cellCode);

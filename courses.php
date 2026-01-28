@@ -33,15 +33,47 @@
         <div class="container">
             <div class="text-center btnGrid">
                 <button type="button" onclick="showAllCourses()" class="btnCstm " id="allcourses">All Courses</button>
+                  <button type="button" onclick="filterCourse('construction')" class="btnCstm conbtn" id="construction">
+                    Construction & Carpentry</button>
                 <button type="button" onclick="filterCourse('cooking')" class="btnCstm bluetransparetbtn" id="cooking">
                     Hospitality</button>
                 <button type="button" onclick="filterCourse('leadership')" class="btnCstm transparentbtn   "
                     id="leadership">Leadership</button>
-                <button type="button" onclick="filterCourse('shortCourse')" class="btnCstm darktransparentbtn ">Short
+                <button type="button" onclick="filterCourse('shortCourse')" class="btnCstm  short">Short
                     Courses</button>
             </div>
             <hr>
-            <div class="row">
+            <div class="row align-items-center">
+                <!-- construction and carpentry -->
+        <div class="col-md-3 col-6 construction">
+                    <a href="courses/commercialCookery/certificate-III-in-Commercial-Cookery.php">
+                        <div class="courseCard ">
+                            <div class="cardBody">
+                                <img src="https://img.freepik.com/free-photo/professional-male-carpenter-taking-measurement-workbench-workshop_23-2147944916.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="cardText">
+                                <small class="badge badge-danger">CPC30220 </small>
+                                <h4> Certificate III in Carpentry</h4>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+  <div class="col-md-3 col-6 construction">
+                    <a href="courses/commercialCookery/certificate-III-in-Commercial-Cookery.php">
+                        <div class="courseCard ">
+                            <div class="cardBody">
+                                <img src="https://img.freepik.com/premium-photo/male-architect-helmet-with-level-site_380164-292867.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="cardText">
+                                <small class="badge badge-danger">CPC50220 </small>
+                                <h4> Diploma of Building and Construction (Building)</h4>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
                 <div class="col-md-3 col-6 cooking">
                     <a href="courses/commercialCookery/certificate-III-in-Commercial-Cookery.php">
                         <div class="courseCard ">

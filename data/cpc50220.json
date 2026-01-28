@@ -1,0 +1,199 @@
+{
+  "units": [
+    {
+      "unitCode": "BSBOPS504",
+      "unitTitle": "Manage business risk",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "BSBWHS513",
+      "unitTitle": "Lead WHS risk management",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4001",
+      "unitTitle": "Apply building codes and standards to the construction process for Class 1 and 10 buildings",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4003",
+      "unitTitle": "Select, prepare and administer a construction contract",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4004",
+      "unitTitle": "Identify and produce estimated costs for building and construction projects",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4005",
+      "unitTitle": "Produce labour and material schedules for ordering",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4008",
+      "unitTitle": "Supervise site communication and administration processes for building and construction projects",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4009",
+      "unitTitle": "Apply legal requirements to building and construction projects",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4010",
+      "unitTitle": "Apply structural principles to residential and commercial constructions",
+      "prerequisite": [
+        "Prerequisite unit - CPCCBC4053 Apply building codes and standards to the construction process for Class 2 to 9 Type C buildings",
+        "Prerequisite unit - CPCCBC4001 Apply building codes and standards to the construction process for Class 1 and 10 buildings"
+      ],
+      "notes": true,
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4012",
+      "unitTitle": "Read and interpret plans and specifications",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4013",
+      "unitTitle": "Prepare and evaluate tender documentation",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4014",
+      "unitTitle": "Prepare simple building sketches and drawings",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4018",
+      "unitTitle": "Apply site surveys and set-out procedures to building and construction projects",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4053",
+      "unitTitle": "Apply building codes and standards to the construction process for Class 2 to 9, Type C buildings",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC5001",
+      "unitTitle": "Apply building codes and standards to the construction process for Type B construction",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC5002",
+      "unitTitle": "Monitor costing systems on complex building and construction projects",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC5003",
+      "unitTitle": "Supervise the planning of onsite building and construction work",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC5005",
+      "unitTitle": "Select and manage building and construction contractors",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC5007",
+      "unitTitle": "Administer the legal obligations of a building and construction contractor",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC5010",
+      "unitTitle": "Manage construction work",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC5011",
+      "unitTitle": "Manage environmental management practices and processes in building and construction",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC5013",
+      "unitTitle": "Manage professional technical and legal reports on building and construction projects",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC5018",
+      "unitTitle": "Apply structural principles to the construction of buildings up to 3 storeys",
+      "prerequisite": [
+        "Prerequisite unit - CPCCBC5001 Apply building codes and standards to the construction process for Type B construction",
+        "Prerequisite unit - CPCCBC4053 Apply building codes and standards to the construction process for Class 2 to 9, Type C buildings"
+      ],
+      "notes": true,
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC5019",
+      "unitTitle": "Manage building and construction business finances",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Core"
+    },
+    {
+      "unitCode": "CPCCBC4052",
+      "unitTitle": "Lead and manage teams in the building and construction industry",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Elective"
+    },
+    {
+      "unitCode": "CPCCBC5004",
+      "unitTitle": "Supervise and apply quality standards to the selection of building and construction materials",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Elective"
+    },
+    {
+      "unitCode": "CPCCBC5006",
+      "unitTitle": "Apply site surveys and set-out procedures to building projects up to three storeys",
+      "prerequisite": [],
+      "notes": "",
+      "type": "Elective"
+    }
+  ]
+}
