@@ -46,21 +46,21 @@
             <div class="row align-items-center">
                 <!-- construction and carpentry -->
         <div class="col-md-3 col-6 construction">
-                    <a href="courses/commercialCookery/certificate-III-in-Commercial-Cookery.php">
+                    <a href="courses/constructionandCarpentry/certificate-iii-in-carpentry.php">
                         <div class="courseCard ">
                             <div class="cardBody">
                                 <img src="https://img.freepik.com/free-photo/professional-male-carpenter-taking-measurement-workbench-workshop_23-2147944916.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="cardText">
-                                <small class="badge badge-danger">CPC30220 </small>
-                                <h4> Certificate III in Carpentry</h4>
+                                <small class="badge badge-danger">CPC30220 </small><br>
+                                <h4> Certificate III in Carpentry <br></h4>
                             </div>
                         </div>
                     </a>
 
                 </div>
   <div class="col-md-3 col-6 construction">
-                    <a href="courses/commercialCookery/certificate-III-in-Commercial-Cookery.php">
+                    <a href="courses/constructionandCarpentry/diploma-of-building-and-construction.php">
                         <div class="courseCard ">
                             <div class="cardBody">
                                 <img src="https://img.freepik.com/premium-photo/male-architect-helmet-with-level-site_380164-292867.jpg" class="img-fluid" alt="">

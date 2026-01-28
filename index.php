@@ -182,6 +182,11 @@
         <div class="container">
             <!-- <h1 class="heading">our course</h1> -->
             <div class="owl-carousel owl-theme" id="courses">
+                  <div class="item">
+                    <div class="courseCardBox">
+                        <a href="courses.php"> <img src="img/courses/construction.png" alt="" class="img-fluid"> </a>
+                    </div>
+                </div>
                 <div class="item">
                     <div class="courseCardBox">
                         <a href="courses.php"> <img src="img/courses/cookery.png" alt="" class="img-fluid"> </a>
