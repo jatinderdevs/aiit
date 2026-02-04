@@ -76,7 +76,7 @@
 
                 <h6> 
                     CRICOS course Code <br>
-                    N/A</h6>
+                    119819B</h6>
             </div>
             <div class="highlight ">
                 <i class="fa fa-calendar" aria-hidden="true"></i>

@@ -130,7 +130,7 @@
                         <div class="address">
                             <h3>Corporate Head Office</h3>
                             <address>
-                                Level 13, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008
+                                Level 13, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008
                             </address>
                         </div>
                         <div class="address">
@@ -150,11 +150,11 @@
                         <h4>email</h4>
                         <div class="address">
                             <h3>General Enquiry</h3>
-                            <a href="">info@aiit.vic.edu.au</a>
+                            <a href="" class="text-lowercase">info@aiit.vic.edu.au</a>
                         </div>
                         <div class="address">
                             <h3>Admission & Enrollment Enquiry</h3>
-                            <a href="">admissions@aiit.vic.edu.au</a>
+                            <a href="" class="text-lowercase">admissions@aiit.vic.edu.au</a>
 
                         </div>
                         <div class="address">

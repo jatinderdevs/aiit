@@ -36,11 +36,11 @@
                   <button type="button" onclick="filterCourse('construction')" class="btnCstm conbtn" id="construction">
                     Construction & Carpentry</button>
                 <button type="button" onclick="filterCourse('cooking')" class="btnCstm bluetransparetbtn" id="cooking">
-                    Hospitality</button>
+                    Cookery & Hospitality</button>
                 <button type="button" onclick="filterCourse('leadership')" class="btnCstm transparentbtn   "
-                    id="leadership">Leadership</button>
+                    id="leadership">Leadership & Management</button>
                 <button type="button" onclick="filterCourse('shortCourse')" class="btnCstm  short">Short
-                    Courses</button>
+                    Courses & Skill sets</button>
             </div>
             <hr>
             <div class="row align-items-center">

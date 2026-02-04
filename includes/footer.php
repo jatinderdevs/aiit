@@ -3,6 +3,7 @@
 </div> -->
 
 <footer>
+    
     <div class="container">
         <div class="row">
             <div class="col-md-3">
@@ -89,9 +90,91 @@
 
     </div>
 </footer>
+<!-- Welcome / New Courses Popup -->
+<div id="welcomePopup" class="welcome-popup" style="display:none;">
+   <div class="popup-content">
+        <button class="popup-close" aria-label="Close">×</button>
+        
+        <div class="popup-header">
+            <h2>Welcome to Our Website</h2>
+            <p class="tagline">We are Excited to introduce new trades programs </p>
+        </div>
+
+        <div class="popup-body">
+            <a href="courses/constructionandCarpentry/certificate-iii-in-carpentry.php">
+            <div class="course-highlight modern-card">
+                <div class="icon-circle">
+                    <img src="img/courses/carpentry.gif" class="img-fluid" alt="">
+                </div>
+                <h3>CPC30220 Certificate III in Carpentry</h3>
+                <p class="status">Now available • CRICOS 119819B</p>
+                <ul class="feature-list">
+                    <li>Hands-on training in formwork, framing, roofing & finishing</li>
+                    <li>Work-ready skills for residential & commercial construction</li>
+                    <li>Pathway to Diploma of Building & Construction</li>
+                </ul>
+            </div>
+</a>
+
+<a href="courses/constructionandCarpentry/diploma-of-building-and-construction.php">
+            <div class="course-highlight modern-card">
+                <div class="icon-circle">
+                    <img src="img/courses/cons.gif" class="img-fluid" alt="">
+
+                </div>
+                <h3>CPC50220 Diploma of Building and Construction (Building)</h3>
+                <p class="status">Now available • CRICOS 119820J</p>
+                <ul class="feature-list">
+                    <li>Project management, building codes & site supervision skills</li>
+                    <li>Ideal for leading teams & managing medium-large projects</li>
+                    <li>Strong employment outcomes in Australia's construction boom</li>
+                </ul>
+            </div>
+        </div>
+<a href="">
+        <div class="popup-footer">
+            <a href="<?php echo BASE_PATH; ?>courses.php" class="btnCstm">want more details?</a>
+            <button class="btnCstm  short close-popup">Got it, thanks!</button>
+        </div>
+    </div>
+</div>
+
+
+
+<script>
+// Show popup only on first visit
+document.addEventListener('DOMContentLoaded', function () {
+    const popup = document.getElementById('welcomePopup');
+    const closeButtons = document.querySelectorAll('.close-popup, .popup-close');
+
+    // Check if user has seen popup before
+    if (!localStorage.getItem('aiitWelcomeSeen')) {
+      setTimeout(() => {
+            popup.classList.add('show');
+        }, 1200); // slight delay after page load
+    }
+  
+    // Close popup & remember
+    function closePopup() {
+        popup.classList.remove('show');
+        localStorage.setItem('aiitWelcomeSeen', 'true');
+    }
+
+    closeButtons.forEach(btn => {
+        btn.addEventListener('click', closePopup);
+    });
+
+    // Close when clicking outside content
+    popup.addEventListener('click', function(e) {
+        if (e.target === popup) {
+            closePopup();
+        }
+    });
+});
+</script>
 <div class="footbar">
     <div class="container">
-        <p class="text-light"> &copy; <span id="year"></span> Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust
+        <p class="text-light text-center"> &copy; <span id="year"></span> Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust
             T/A
             Australian
             International Institute of Technology.

@@ -75,7 +75,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="maintext">
-                        <h1>1k+ students successfully completed their studies</h1>
+                        <h1>Many students successfully completed their studies</h1>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -141,30 +141,33 @@
                 <div class="col-md-6">
                     <div class="abouttxt">
                         <h1 class="heading">about us</h1>
-                        <p>Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust trading as
-                            Australian International Institute of Technology is a CRICOS Registered Training
-                            Organisation
-                            based in Melbourne, Australia.
+                        <p>Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust trading as Australian International Institute of Technology is a licensed CRICOS Registered Training Organisation based in Melbourne, Australia.
+
                             <br>
                             <br>
-                            Australian International Institute of Technology is accredited and endorsed by the
-                            Department of Education and the National Regulator, Australian Skills Quality Authority
-                            (ASQA), and provides nationally recognised training, qualifications, and accredited courses
-                            in the following disciplines:
+                           Australian International Institute of Technology is accredited and endorsed by the Department of Education and the National Regulator, Australian Skills Quality Authority (ASQA), and provides nationally recognised training products, qualifications, and accredited courses in the following disciplines:
                         </p>
 
-                        <ul class="row ">
-                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt="">
-                                <a href=""> General English <small> (Beginner to Advanced Level)</small> </a>
-                            </li>
-                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="">
-                                    Leadership and Management </a></li>
-                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="">
-                                    Commercial Cookery </a></li>
-                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="">
+                     <ul class="row">
+                               <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                  Carpentry and Joinery</a></li>
+                                   <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                 Building and Construction </a></li>
+                                 <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                    Commercial Cookery and Catering</a></li>
+                                <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
                                     Hospitality Management</a></li>
-
+                                <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                        Leadership and Management </a></li>
+                                <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                    Strategic Leadership </a></li>
+                                    <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt="">
+                                <a href="<?php echo BASE_PATH; ?>courses.php"> ELICOS General English<small> (Beginner to Advanced Level)</small> </a>
+                            </li>
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                  Micro-Credentials, Skill Sets and Short Courses</a></li>
                         </ul>
+
                         <hr>
                         <br>
                         <a href="aboutus.php" class="btnCstm">Read More <i class="fa fa-arrow-circle-o-right"
@@ -389,12 +392,7 @@
                     </div>
 
                 </div>
-                <div class="item">
-                    <div class="partner">
-                        <img src="img/partners/mamacanteen.webp" alt="">
-                    </div>
-
-                </div>
+               
                 <div class="item">
                     <div class="partner">
                         <a href="https://www.cuffmelbourne.com/" target="_blank"> <img src="img/partners/cuff.webp"

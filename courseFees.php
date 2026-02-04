@@ -41,6 +41,19 @@
                         <th >Tuition Fee</th>
                         
                       </tr>
+                       <tr>
+                        <td><p> CPC30220  - Certificate III in Carpentry (119819B)</p></td>
+                        <td>52                      </td>
+                        <td><a href="contact-price.html">Click Here</a></td>
+                        
+                      </tr>
+                        </tr>
+                       <tr>
+                        <td><p> CPC50220   - Diploma of Building and Construction (Building) (119820J)</p></td>
+                        <td>52                      </td>
+                        <td><a href="contact-price.html">Click Here</a></td>
+                        
+                      </tr>
                       <tr>
                         <td><p> BSB40520 - Certificate IV in Leadership and Management (104007F)</p></td>
                         <td>52                      </td>
@@ -62,28 +75,28 @@
                      
                       </tr>
                         <tr>
-                        <td><p>SIT30816 - Certificate III in Commercial Cookery (101694)</p> </td>
+                        <td><p>SIT30821 - Certificate III in Commercial Cookery (101694)</p> </td>
                         <td>52
                           </td>
                         <td><a href="contact-price.html">Click Here</a></td>
                         
                       </tr>
                         <tr>
-                        <td><p>SIT40516 - Certificate IV in Commercial Cookery (101695)</p></td>
+                        <td><p>SIT40521 - Certificate IV in Kitchen Management (101695)</p></td>
                         <td>78
                           </td>
                        <td><a href="contact-price.html">Click Here</a></td>
                        
                       </tr>
                         <tr>
-                        <td><p>SIT50416 - Diploma of Hospitality Management (101696) </p></td>
+                        <td><p>SIT50422 - Diploma of Hospitality Management (101696) </p></td>
                         <td>68
                           </td>
                         <td><a href="contact-price.html">Click Here</a></td>
                      
                       </tr>
                         <tr>
-                        <td><p>SIT60316 - Advanced Diploma of Hospitality Management (106129B) </p></td>
+                        <td><p>SIT60322 - Advanced Diploma of Hospitality Management (106129B) </p></td>
                         <td>104
                           </td>
                         <td><a href="contact-price.html">Click Here</a></td>

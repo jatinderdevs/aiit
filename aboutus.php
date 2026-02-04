@@ -37,38 +37,40 @@
                 <div class="col-md-8">
                     <div class="abouttxt">
                         <h1 class="heading">about us</h1>
-                        <p>Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust trading as
-                            Australian International Institute of Technology is a CRICOS Registered Training
-                            Organisation
-                            based in Melbourne, Australia.
+                        <p>Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust trading as Australian International Institute of Technology is a licensed CRICOS Registered Training Organisation based in Melbourne, Australia.
                             <br>
                             <br>
-                            Australian International Institute of Technology is accredited and endorsed by the
-                            Department of Education and the National Regulator, Australian Skills Quality Authority
-                            (ASQA), and provides nationally recognised training, qualifications, and accredited courses
-                            in the following disciplines:
+                        Australian International Institute of Technology is accredited and endorsed by the Department of Education and the National Regulator, Australian Skills Quality Authority (ASQA), and provides nationally recognised training products, qualifications, and accredited courses in the following disciplines:
                         </p>
 
                         <ul class="row">
-                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt="">
-                                <a href=""> General English <small> (Beginner to Advanced Level)</small> </a>
-                            </li>
-                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="">
+                               <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                  Carpentry and Joinery</a></li>
+                                   <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                 Building and Construction </a></li>
+                           <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                Commercial Cookery and Catering</a></li>
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                   Hospitality Management</a></li>
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
                                     Leadership and Management </a></li>
-                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="">
-                                    Commercial Cookery </a></li>
-                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="">
-                                    Hospitality Management</a></li>
-
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                  Strategic Leadership </a></li>
+                                   
+                                     
+                                      
+                                    <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt="">
+                                <a href="<?php echo BASE_PATH; ?>courses.php"> ELICOS General English<small> (Beginner to Advanced Level)</small> </a>
+                            </li>
+<li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                                  Micro-Credentials, Skill Sets and Short Courses</a></li>
                         </ul>
 
                         <br>
                         <p>
-                            We aim to provide our students a supportive and caring learning environment. Our qualified
-                            and accredited academic staff and our administrative support team aim is your success and we
-                            will do everything we can to support and help you to achieve your study goals.
+                           We aim to provide our students a structured, supportive and student centred learning environment. Our qualified and accredited academic staff and our administrative support team aim is our student’s success and we will do everything we can to support and help each student achieve their study goals.
                             <br><br>
-                            Our mission and agenda is simple; to empower individuals for the world of tomorrow.
+                         Finally, our mission and agenda is simple; to empower individuals for the world of tomorrow.
                         </p>
 
                     </div>
@@ -87,7 +89,7 @@
     <section>
         <div class="container">
             <h1 class="heading">we provide</h1>
-            <div class="row">
+            <div class="row justify-content-around align-items-center">
                 <div class="col-md-3 col-6">
                     <div class="sbox greenbox ">
                         <div class="sicon greenicon text-center">
@@ -124,6 +126,7 @@
                         </div>
                     </div>
                 </div>
+                        
                 <div class="col-md-3 col-6">
                     <div class="sbox black">
                         <div class="sicon blackicon text-center">
@@ -134,6 +137,18 @@
                             <h6>Global Perspective</h6>
                             <p>Diverse students from different countries foster intercultural exchange and partnerships.
                             </p>
+                        </div>
+                    </div>
+                </div>
+          <div class="col-md-4 col-6">
+                    <div class="sbox greenbox">
+                        <div class="sicon greenicon text-center">
+                            <img src="img/icons/wellness.png" width="64px" class="img-fluid" alt="">
+                        </div>
+                        <br>
+                        <div class="stxt">
+                            <h6>Student Wellbeing Support</h6>
+                            <p>Comprehensive care for your success — access counselling services, mental health resources, emergency welfare support, Language Literacy & Numeracy (LLN) assistance, and personalized guidance to help you thrive academically, personally, and culturally in Australia.</p>
                         </div>
                     </div>
                 </div>

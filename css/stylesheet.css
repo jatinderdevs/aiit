@@ -28,7 +28,7 @@ a {
 }
 
 .logo img {
-  /* width: 20%; */
+  transform: scale(1.3);
 }
 
 .headerContent {
@@ -70,6 +70,7 @@ a:hover {
 p {
   font-weight: 600;
   margin: 0;
+  font-size: 14px;
   color: white;
 }
 
@@ -171,7 +172,7 @@ section:hover .heading::after {
 }
 
 p {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.5;
   color: #555;
   font-weight: 500;
@@ -551,12 +552,13 @@ footer {
 
 .foottab a {
   color: white;
+  font-size: 14px;
   text-transform: none;
 }
 
 .foottab ul li a {
   color: rgba(255, 255, 255, 0.763);
-  font-size: 12px;
+  font-size: 14px;
   text-transform: capitalize;
 }
 
@@ -1590,7 +1592,7 @@ address {
 
 .btnGrid {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   align-items: center;
   gap: 10px;
   justify-content: center;
@@ -1702,7 +1704,7 @@ address {
   }
 
   .abouttxt ul > li {
-    padding: 20px 0;
+    padding: 10px 0;
   }
 
   .whyimg {
@@ -1751,4 +1753,180 @@ address {
   .abouticon {
     display: block;
   }
+}
+
+/* ──────────────────────────────────────── */
+/*        First-time Welcome Popup          */
+/* ──────────────────────────────────────── */
+
+.welcome-popup {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(4px);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease;
+}
+
+.welcome-popup.show {
+  opacity: 1;
+  pointer-events: all;
+}
+
+.popup-content {
+  background: white;
+  border-radius: 16px;
+  max-width: 720px;
+  width: 100%;
+  max-height: 92vh;
+  overflow-y: auto;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+  position: relative;
+  transform: scale(0.92);
+  transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.welcome-popup.show .popup-content {
+  transform: scale(1);
+}
+
+.popup-close {
+  position: absolute;
+  top: 16px;
+  right: 20px;
+  font-size: 32px;
+  line-height: 1;
+  background: none;
+  border: none;
+  color: #777;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.popup-close:hover {
+  color: #222;
+}
+
+.popup-header {
+  text-align: center;
+  padding: 32px 32px 16px;
+  border-bottom: 1px solid #eee;
+}
+
+.popup-header h2 {
+  margin: 0;
+  font-size: 2.1rem;
+  color: #1a1a1a;
+}
+
+.tagline {
+  margin: 8px 0 0;
+  color: #e74c3c;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.popup-body {
+  padding: 28px 32px;
+  display: grid;
+  gap: 24px;
+}
+
+@media (min-width: 768px) {
+  .popup-body {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.modern-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 24px;
+  background: linear-gradient(145deg, #ffffff, #f8fafc);
+  position: relative;
+  overflow: hidden;
+}
+
+.modern-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #e74c3c, #f39c12);
+}
+.modern-card:hover {
+  box-shadow: 0 0 10px #999;
+}
+.icon-circle {
+  width: 64px;
+  height: 64px;
+  background: #fff;
+
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  margin-bottom: 16px;
+}
+
+.modern-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.35rem;
+  color: #1f2937;
+}
+
+.status {
+  color: #e74c3c;
+  font-weight: 600;
+  margin: 0 0 16px;
+  font-size: 0.95rem;
+}
+
+.feature-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.97rem;
+  color: #4b5563;
+  line-height: 1.6;
+}
+
+.feature-list li {
+  margin-bottom: 8px;
+  position: relative;
+  padding-left: 22px;
+  font-size: 15px;
+}
+
+.feature-list li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  color: #10b981;
+  font-weight: bold;
+}
+
+.popup-footer {
+  padding: 20px 32px 32px;
+  text-align: center;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.welcome-popup {
+  display: flex !important;
+}
+.welcome-popup:not(.show) {
+  display: none !important;
 }

@@ -30,6 +30,17 @@
             cursor: pointer;
             background-color: #f8f9fa;
         }
+        .underprocess{
+        
+      text-align:center;
+        }
+        .underprocess h2{
+          
+            font-weight:bold;
+        }
+        .application_form{
+            display:none;
+        }
 </style>
 </head>
 
@@ -45,7 +56,11 @@
         </div>
     </section>
 <section>
-    
+    <div class="underprocess">
+        <h2>Under processiong! </h2>
+        Please contact us via <a href="mailto:admissions@aiit.vic.edu.au" class="text-primary text-lowercase">admissions@aiit.vic.edu.au</a> for enrollments queries
+    </div>
+
     <div class="container">
         <h1 class="text-center"></h1>
         <form action="studentApplications/createApplications.php" method="POST"  class=" application_form needs-validation" novalidate>

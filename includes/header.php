@@ -2,12 +2,12 @@
     <div class="container-fluid">
         <div class="headerGrid">
             <div>
-                <p class="text-light"> <i class="fa fa-map-marker" aria-hidden="true"></i> Level 13, Suite 17, 401
+                <p class="text-light"> <i class="fa fa-map-marker" aria-hidden="true"></i> Level 13, 401
                     Docklands Drive, Docklands, Melbourne, VIC 3008</p>
 
             </div>
             <div>
-                <a href="mailto:info@aiit.vic.edu.au"><i class="fa fa-envelope-o" aria-hidden="true"></i>
+                <a href="mailto:info@aiit.vic.edu.au" class="text-lowercase"><i class="fa fa-envelope-o" aria-hidden="true"></i>
                     info@aiit.vic.edu.au </a>
             </div>
             <div>
@@ -60,7 +60,7 @@
 
                     </ul>
                 </li>
-                <li class="menu-item"><a href="<?php echo BASE_PATH; ?>agents.php" class="menu-link">agents </a></li>
+                <li class="menu-item"><a href="<?php echo BASE_PATH; ?>agents.php" class="menu-link">education agents </a></li>
                 <li class="menu-item"><a href="<?php echo BASE_PATH; ?>contactus.php" class="menu-link">contact us</a>
                 </li>
             </ul>
