@@ -52,14 +52,14 @@
                 <div class="col-md-6">
                     <div class="owl-carousel owl-theme" id="banner">
                         <div class="item">
-                            <img src="img/banners/students.jpg" alt="">
+                            <img src="img/banners/carp.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/banners/leadership.jpg" alt="">
+                            <img src="img/banners/cons.webp" alt="">
 
                         </div>
                         <div class="item">
-                            <img src="img/banners/cook.jpg" alt="">
+                            <img src="img/banners/chef.webp" alt="">
 
                         </div>
 
@@ -141,31 +141,44 @@
                 <div class="col-md-6">
                     <div class="abouttxt">
                         <h1 class="heading">about us</h1>
-                        <p>Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust trading as Australian International Institute of Technology is a licensed CRICOS Registered Training Organisation based in Melbourne, Australia.
+                        <p>Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust trading as
+                            Australian International Institute of Technology is a licensed CRICOS Registered Training
+                            Organisation based in Melbourne, Australia.
 
                             <br>
                             <br>
-                           Australian International Institute of Technology is accredited and endorsed by the Department of Education and the National Regulator, Australian Skills Quality Authority (ASQA), and provides nationally recognised training products, qualifications, and accredited courses in the following disciplines:
+                            Australian International Institute of Technology is accredited and endorsed by the
+                            Department of Education and the National Regulator, Australian Skills Quality Authority
+                            (ASQA), and provides nationally recognised training products, qualifications, and accredited
+                            courses in the following disciplines:
                         </p>
 
-                     <ul class="row">
-                               <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
-                                  Carpentry and Joinery</a></li>
-                                   <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
-                                 Building and Construction </a></li>
-                                 <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                        <ul class="row">
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a
+                                    href="<?php echo BASE_PATH; ?>courses.php">
+                                    Carpentry and Joinery</a></li>
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a
+                                    href="<?php echo BASE_PATH; ?>courses.php">
+                                    Building and Construction </a></li>
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a
+                                    href="<?php echo BASE_PATH; ?>courses.php">
                                     Commercial Cookery and Catering</a></li>
-                                <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a
+                                    href="<?php echo BASE_PATH; ?>courses.php">
                                     Hospitality Management</a></li>
-                                <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
-                                        Leadership and Management </a></li>
-                                <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a
+                                    href="<?php echo BASE_PATH; ?>courses.php">
+                                    Leadership and Management </a></li>
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a
+                                    href="<?php echo BASE_PATH; ?>courses.php">
                                     Strategic Leadership </a></li>
-                                    <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt="">
-                                <a href="<?php echo BASE_PATH; ?>courses.php"> ELICOS General English<small> (Beginner to Advanced Level)</small> </a>
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt="">
+                                <a href="<?php echo BASE_PATH; ?>courses.php"> ELICOS General English<small> (Beginner
+                                        to Advanced Level)</small> </a>
                             </li>
-                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
-                                  Micro-Credentials, Skill Sets and Short Courses</a></li>
+                            <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a
+                                    href="<?php echo BASE_PATH; ?>courses.php">
+                                    Micro-Credentials, Skill Sets and Short Courses</a></li>
                         </ul>
 
                         <hr>
@@ -185,7 +198,7 @@
         <div class="container">
             <!-- <h1 class="heading">our course</h1> -->
             <div class="owl-carousel owl-theme" id="courses">
-                  <div class="item">
+                <div class="item">
                     <div class="courseCardBox">
                         <a href="courses.php"> <img src="img/courses/construction.png" alt="" class="img-fluid"> </a>
                     </div>
@@ -223,12 +236,18 @@
                         </div>
 
                         <div class="testitxt">
-                            <p>Studying at AIIT  (Australian International Institute of Technology) is an indispensable experience. The instructors were knowledgeable and passionate, creating a vibrant learning environment. The hands-on approach helped me grasp culinary techniques with ease. The facilities were well-equipped, and the small class size ensured personalized attention. I appreciated the diverse range of recipes we explored, catering to various tastes and skill levels. Overall, a fantastic way to enhance your cooking skills!. Highly recommended!</p>
+                            <p>Studying at AIIT (Australian International Institute of Technology) is an indispensable
+                                experience. The instructors were knowledgeable and passionate, creating a vibrant
+                                learning environment. The hands-on approach helped me grasp culinary techniques with
+                                ease. The facilities were well-equipped, and the small class size ensured personalized
+                                attention. I appreciated the diverse range of recipes we explored, catering to various
+                                tastes and skill levels. Overall, a fantastic way to enhance your cooking skills!.
+                                Highly recommended!</p>
                             <br>
                             <img src="img/icons/starRating.png" style="width:100px !important" alt="">
 
                             <strong>- Eden Grace Monte <small>(Commercial Cookery )</small></strong>
-                          
+
                             <p><img src="img/testimonial/philipine.png"
                                     style="width:24px !important; display:inline-block" alt=""> Philippines<br></p>
                         </div>
@@ -241,45 +260,52 @@
                         </div>
 
                         <div class="testitxt">
-                            <p>I am currently studying Cert 3 in this college. The quality of teaching is amazing as the faculty members are highly trained and expert. They are actually very helpful and give us enough knowledge . The quality of teaching provided by the college make the students job ready and smart and also the teachers and equipments are advanced so their is no problem in studying .</p>
+                            <p>I am currently studying Cert 3 in this college. The quality of teaching is amazing as the
+                                faculty members are highly trained and expert. They are actually very helpful and give
+                                us enough knowledge . The quality of teaching provided by the college make the students
+                                job ready and smart and also the teachers and equipments are advanced so their is no
+                                problem in studying .</p>
                             <br>
                             <img src="img/icons/starRating.png" style="width:100px !important" alt="">
 
                             <strong>- Sukhvir Kaur<small>(Commercial Cookery )</small></strong>
-                          
-                            <p><img src="img/testimonial/india.png"
-                                    style="width:24px !important; display:inline-block" alt=""> India<br></p>
+
+                            <p><img src="img/testimonial/india.png" style="width:24px !important; display:inline-block"
+                                    alt=""> India<br></p>
 
 
                         </div>
                     </div>
                 </div>
-                   <div class="item">
+                <div class="item">
                     <div class="testibox ">
                         <div class="testi ">
                             <img src="img/testimonial/testi.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="testitxt">
-                            <p>Currently I'm pursuing cert 3 form here. Teacher in our college are helpful, qualified and knowledgeable. So the academics wise it is really a good teaching quality .The course curriculum is relevant, and it helps students to become industry ready. Our college does not do spoon feeding and asks students to perform the task on their own.
-                                    I definitely recommended others</p>
+                            <p>Currently I'm pursuing cert 3 form here. Teacher in our college are helpful, qualified
+                                and knowledgeable. So the academics wise it is really a good teaching quality .The
+                                course curriculum is relevant, and it helps students to become industry ready. Our
+                                college does not do spoon feeding and asks students to perform the task on their own.
+                                I definitely recommended others</p>
                             <br>
                             <img src="img/icons/starRating.png" style="width:100px !important" alt="">
 
                             <strong>- Ritu Solanki<small>(Commercial Cookery )</small></strong>
-                          
-                            <p><img src="img/testimonial/india.png"
-                                    style="width:24px !important; display:inline-block" alt=""> India<br></p>
+
+                            <p><img src="img/testimonial/india.png" style="width:24px !important; display:inline-block"
+                                    alt=""> India<br></p>
 
 
                         </div>
                     </div>
                 </div>
-                
+
             </div>
-    <div class="text-center source">
-        <i>Source : <a target="_blank" href="https://g.page/r/CVJylFwagVp3EAI/review">Google reviews</a></i>
-    </div>
+            <div class="text-center source">
+                <i>Source : <a target="_blank" href="https://g.page/r/CVJylFwagVp3EAI/review">Google reviews</a></i>
+            </div>
 
 
 
@@ -392,7 +418,7 @@
                     </div>
 
                 </div>
-               
+
                 <div class="item">
                     <div class="partner">
                         <a href="https://www.cuffmelbourne.com/" target="_blank"> <img src="img/partners/cuff.webp"
