@@ -33,7 +33,7 @@
         <div class="container">
             <div class="text-center btnGrid">
                 <button type="button" onclick="showAllCourses()" class="btnCstm " id="allcourses">All Courses</button>
-                  <button type="button" onclick="filterCourse('construction')" class="btnCstm conbtn" id="construction">
+                <button type="button" onclick="filterCourse('construction')" class="btnCstm conbtn" id="construction">
                     Construction & Carpentry</button>
                 <button type="button" onclick="filterCourse('cooking')" class="btnCstm bluetransparetbtn" id="cooking">
                     Cookery & Hospitality</button>
@@ -45,11 +45,11 @@
             <hr>
             <div class="row align-items-center">
                 <!-- construction and carpentry -->
-        <div class="col-md-3 col-6 construction">
+                <div class="col-md-3 col-6 construction">
                     <a href="courses/constructionandCarpentry/certificate-iii-in-carpentry.php">
                         <div class="courseCard ">
                             <div class="cardBody">
-                                <img src="https://img.freepik.com/free-photo/professional-male-carpenter-taking-measurement-workbench-workshop_23-2147944916.jpg" class="img-fluid" alt="">
+                                <img src="img/courses/car.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="cardText">
                                 <small class="badge badge-danger">CPC30220 </small><br>
@@ -59,11 +59,11 @@
                     </a>
 
                 </div>
-  <div class="col-md-3 col-6 construction">
+                <div class="col-md-3 col-6 construction">
                     <a href="courses/constructionandCarpentry/diploma-of-building-and-construction.php">
                         <div class="courseCard ">
                             <div class="cardBody">
-                                <img src="https://img.freepik.com/premium-photo/male-architect-helmet-with-level-site_380164-292867.jpg" class="img-fluid" alt="">
+                                <img src="img/courses/cons.png" class="img-fluid" alt="">
                             </div>
                             <div class="cardText">
                                 <small class="badge badge-danger">CPC50220 </small>
@@ -229,44 +229,44 @@
                 <div class="col-md-3 col-6 shortCourse">
                     <a href="assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol FAQ (SITSS00071).pdf">
                         <div class="courseCard">
-                        <div class="cardBody">
-                            <img src="img/courses/rsa.webp" class="img-fluid" alt="">
-                        </div>
-                        <div class="cardText">
-                            <small class="badge badge-dark">SITSS00071</small>
+                            <div class="cardBody">
+                                <img src="img/courses/rsa.webp" class="img-fluid" alt="">
+                            </div>
+                            <div class="cardText">
+                                <small class="badge badge-dark">SITSS00071</small>
 
-                            <h4> Responsible Service of Alcohol</h4>
+                                <h4> Responsible Service of Alcohol</h4>
+                            </div>
                         </div>
-                    </div>
                     </a>
-                  
+
                 </div>
                 <div class="col-md-3 col-6 shortCourse">
-                     <a href="assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol FAQ (SITSS00069).pdf">
-                    <div class="courseCard">
-                        <div class="cardBody">
-                            <img src="img/about/students.webp" class="img-fluid" alt="">
-                        </div>
-                        <div class="cardText">
-                            <small class="badge badge-dark">SITSS00069</small>
+                    <a href="assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol FAQ (SITSS00069).pdf">
+                        <div class="courseCard">
+                            <div class="cardBody">
+                                <img src="img/about/students.webp" class="img-fluid" alt="">
+                            </div>
+                            <div class="cardText">
+                                <small class="badge badge-dark">SITSS00069</small>
 
-                            <h4> Food Safety Supervision Skill Set</h4>
+                                <h4> Food Safety Supervision Skill Set</h4>
+                            </div>
                         </div>
-                    </div>
                     </a>
                 </div>
                 <div class="col-md-3 col-6 shortCourse">
-                     <a href="assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol FAQ (SITSS00068).pdf">
-                    <div class="courseCard">
-                        <div class="cardBody">
-                            <img src="img/about/students.webp" class="img-fluid" alt="">
-                        </div>
-                        <div class="cardText">
-                            <small class="badge badge-dark">SITSS00068</small>
+                    <a href="assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol FAQ (SITSS00068).pdf">
+                        <div class="courseCard">
+                            <div class="cardBody">
+                                <img src="img/about/students.webp" class="img-fluid" alt="">
+                            </div>
+                            <div class="cardText">
+                                <small class="badge badge-dark">SITSS00068</small>
 
-                            <h4>Food Handling Skill Set</h4>
+                                <h4>Food Handling Skill Set</h4>
+                            </div>
                         </div>
-                    </div>
                     </a>
                 </div>
 
