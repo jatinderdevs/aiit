@@ -37,9 +37,9 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="bannerTxt">
-                        <h1 class="">welcome to the <br>AUSTRALIAN INTERNATIONAL INSTITUTE OF TECHNOLOGY</h1>
+                        <h1 class="">welcome to  <br>AUSTRALIAN INTERNATIONAL INSTITUTE OF TECHNOLOGY</h1>
                         <hr>
-                        <a href="courses.php" class="btnCstm mr-4">Explore Course</a>
+                        <a href="courses.php" class="btnCstm mr-4">Explore Courses</a>
 
                         <a href="contactus.php" class="btnCstm transparentbtn">Contact us</a>
 
@@ -75,7 +75,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="maintext">
-                        <h1>Many students successfully completed their studies</h1>
+                        <h1>Empowering futures through education</h1>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -153,7 +153,7 @@
                             courses in the following disciplines:
                         </p>
 
-                        <ul class="row">
+                        <ul class="row aboutUl">
                             <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a
                                     href="<?php echo BASE_PATH; ?>courses.php">
                                     Carpentry and Joinery</a></li>
@@ -320,9 +320,7 @@
                         <b>why choose us</b>
                         <br>
                         <h1 class="heading">we offer</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, perspiciatis sequi eos modi
-                            quasi provident voluptates quis, nisi incidunt ad culpa quae minima enim minus impedit
-                            dolores ipsum voluptas facilis!</p>
+                        <p>Australian International Institute of Technology is accredited and endorsed by the Department of Education and the National Regulator, Australian Skills Quality Authority (ASQA), and provides nationally recognised training products, qualifications, and accredited courses</p>
                         <div class="flex">
                             <div class="">
                                 <div class="sicon yellowicon">

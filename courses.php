@@ -40,7 +40,7 @@
                 <button type="button" onclick="filterCourse('leadership')" class="btnCstm transparentbtn   "
                     id="leadership">Leadership & Management</button>
                 <button type="button" onclick="filterCourse('shortCourse')" class="btnCstm  short">Short
-                    Courses & Skill sets</button>
+                    Courses & Skill Sets</button>
             </div>
             <hr>
             <div class="row align-items-center">

@@ -113,7 +113,8 @@ section:hover .heading {
     0 20px 20px rgba(0, 0, 0, 0.15);
 }
 
-.heading:hover {}
+.heading:hover {
+}
 
 .heading::after {
   content: "";
@@ -149,7 +150,8 @@ section:hover .heading::after {
   font-weight: 400;
 }
 
-.studentData {}
+.studentData {
+}
 
 .gridStudents {
   display: grid;
@@ -157,7 +159,7 @@ section:hover .heading::after {
   grid-template-rows: auto;
 }
 
-.gridStudents>div {
+.gridStudents > div {
   background: #f2f2f2;
   text-align: center;
   border-radius: 10px;
@@ -624,13 +626,13 @@ footer {
   position: absolute;
 }
 
-.abouttxt>ul {
+.abouttxt > ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-.abouttxt ul>li:hover a {
+.abouttxt ul > li:hover a {
   color: var(--green);
 }
 
@@ -802,16 +804,16 @@ address {
   justify-content: space-evenly;
 }
 
-.mediaBox>div {
+.mediaBox > div {
   margin: 10px 0;
   text-transform: capitalize;
 }
 
-.mediaBox>div:hover p {
+.mediaBox > div:hover p {
   color: rgb(255, 255, 255);
 }
 
-.mediaBox>div:hover a>img {
+.mediaBox > div:hover a > img {
   transform: rotateY(360deg);
 }
 
@@ -876,7 +878,8 @@ address {
   left: -20px;
 }
 
-.contactform {}
+.contactform {
+}
 
 .card-text {
   color: white;
@@ -1078,20 +1081,20 @@ address {
   list-style-type: none;
 }
 
-.agenttxt ul>li {
+.agenttxt ul > li {
   position: relative;
   font-size: 14px;
   margin: 10px 0;
 }
 
-.agenttxt ul>li::before {
+.agenttxt ul > li::before {
   content: "";
   inset: 0;
   left: -10px;
   position: absolute;
 }
 
-.agenttxt ul>li>p {
+.agenttxt ul > li > p {
   color: black;
 
   font-size: 14px;
@@ -1148,11 +1151,11 @@ address {
   font-size: 26px;
 }
 
-.addon_info>ul {
+.addon_info > ul {
   list-style: none;
 }
 
-.addon_info>ul>li {
+.addon_info > ul > li {
   padding: 15px 5px;
   border-bottom: 1px solid #dfdfdf;
   background: #8eb6ff7a;
@@ -1224,7 +1227,7 @@ address {
   padding: 10px 0;
 }
 
-.coursebox ul li>ul li:nth-child(odd) {
+.coursebox ul li > ul li:nth-child(odd) {
   /* can be add style for the UI on course page */
 }
 
@@ -1233,7 +1236,7 @@ address {
   color: var(--red);
 }
 
-.coursebox>table>tbody>tr>td {
+.coursebox > table > tbody > tr > td {
   vertical-align: middle;
 }
 
@@ -1357,14 +1360,16 @@ address {
 
 *::-webkit-scrollbar-thumb {
   background-color: var(--black);
-  background-image: -webkit-linear-gradient(45deg,
-      rgba(255, 255, 255, 0.2) 25%,
-      transparent 25%,
-      transparent 50%,
-      rgba(255, 255, 255, 0.2) 50%,
-      rgba(255, 255, 255, 0.2) 75%,
-      transparent 75%,
-      transparent);
+  background-image: -webkit-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.2) 25%,
+    transparent 25%,
+    transparent 50%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 255, 255, 0.2) 75%,
+    transparent 75%,
+    transparent
+  );
 }
 
 .linkBox {
@@ -1389,12 +1394,12 @@ address {
   background: #ffffff;
 }
 
-.linkBox:hover .linkBody>a>img {
+.linkBox:hover .linkBody > a > img {
   filter: unset;
   transform: scale(1.4);
 }
 
-.linkBody>a>img {
+.linkBody > a > img {
   /* height:100px; */
 
   filter: grayscale();
@@ -1493,7 +1498,7 @@ address {
   color: #333;
 }
 
-.answer>ol>li {
+.answer > ol > li {
   margin: 10px 0;
 }
 
@@ -1562,13 +1567,13 @@ address {
   font-weight: 600;
 }
 
-.form-check>label {
+.form-check > label {
   font-size: 14px;
 
   margin: 5px 0;
 }
 
-.form-check>label:hover {
+.form-check > label:hover {
   color: black;
   font-weight: 600;
   cursor: pointer;
@@ -1600,7 +1605,9 @@ address {
   gap: 10px;
   justify-content: center;
 }
-
+.aboutUl li a {
+  text-transform: unset !important;
+}
 @media (min-width: 320px) {
   .cardAgent {
     grid-template-columns: auto;
@@ -1620,7 +1627,7 @@ address {
     /* text-transform: capitalize; */
   }
 
-  .abouttxt ul>li {
+  .abouttxt ul > li {
     padding: 10px 0;
   }
 
@@ -1636,7 +1643,7 @@ address {
     grid-template-columns: 30% 30% 30%;
   }
 
-  .gridStudents>div {
+  .gridStudents > div {
     padding: 5px;
   }
 
@@ -1679,10 +1686,11 @@ address {
   }
 }
 
-@media (min-width: 420px) {}
+@media (min-width: 420px) {
+}
 
 @media (min-width: 768px) {
-  .gridStudents>div {
+  .gridStudents > div {
     padding: 20px;
   }
 
@@ -1705,7 +1713,7 @@ address {
     /* text-transform: capitalize; */
   }
 
-  .abouttxt ul>li {
+  .abouttxt ul > li {
     padding: 10px 0;
   }
 

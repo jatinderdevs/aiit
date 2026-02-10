@@ -241,7 +241,7 @@
     </section>
     <section class="maps">
         <div class="container">
-            <h1 class="heading">our campus</h1>
+            <h1 class="heading">our campuses</h1>
             <hr>
             <div class="row">
                 <div class="col-md-6">

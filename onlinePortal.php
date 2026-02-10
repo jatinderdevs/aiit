@@ -27,7 +27,7 @@
     </section>
     <section>
         <div class="container">
-            <h1 class="heading">online portals</h1>
+          
             <hr>
             <br>
             <div class="row">

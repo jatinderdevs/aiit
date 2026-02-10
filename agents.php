@@ -19,7 +19,7 @@
     
     <section class="headersection">
         <div class="container">
-            <h1 class="pageHeading">Education agent zone</h1>
+            <h1 class="pageHeading">Education agents </h1>
         </div>
     </section>
 <section>

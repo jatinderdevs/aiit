@@ -36,7 +36,6 @@
             <div class="row align-items-center">
                 <div class="col-md-8">
                     <div class="abouttxt">
-                        <h1 class="heading">about us</h1>
                         <p>Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust trading as Australian International Institute of Technology is a licensed CRICOS Registered Training Organisation based in Melbourne, Australia.
                             <br>
                             <br>

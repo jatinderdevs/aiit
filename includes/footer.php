@@ -179,7 +179,7 @@ document.addEventListener('DOMContentLoaded', function () {
             Australian
             International Institute of Technology.
             (Established 2017)</p>
-        <p class="m-0  text-center">Made with <span class="text-danger"> ♥ </span> in melbourne by <a class="text-secondary"
+        <p class="m-0  text-center">Made with <span class="text-danger"> ♥ </span> in Melbourne by <a class="text-secondary"
                 traget="_blank" href="https://www.jatinderdev.com/">jatinderdev</a></p>
     </div>
 
