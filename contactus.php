@@ -124,7 +124,7 @@
                 <div class="col-md-4">
                     <div class="contactbox">
                         <div class="cIcon">
-                            <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" width="60px" alt="">
+                            <img src="img/icons/location.png" width="60px" alt="">
                         </div>
                         <h4>location</h4>
                         <div class="address">
@@ -145,7 +145,7 @@
                 <div class="col-md-4">
                     <div class="contactbox">
                         <div class="cIcon">
-                            <img src="https://cdn-icons-png.flaticon.com/512/13651/13651677.png" width="60px" alt="">
+                            <img src="img/icons/email.png" width="60px" alt="">
                         </div>
                         <h4>email</h4>
                         <div class="address">
@@ -166,14 +166,14 @@
                 <div class="col-md-4">
                     <div class="contactbox">
                         <div class="cIcon">
-                            <img src="https://cdn-icons-png.flaticon.com/512/2065/2065064.png" width="60px" alt="">
+                            <img src="img/icons/social.png" width="60px" alt="">
 
                         </div>
                         <h4>Social Media </h4>
                         <div class="mediaBox">
                             <div>
                                 <a href="">
-                                    <img src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" width="30px"
+                                    <img src="img/icons/insta.png" width="30px"
                                         alt="">
 
                                 </a>
@@ -181,7 +181,7 @@
                             </div>
                             <div>
                                 <a href="">
-                                    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="30px"
+                                    <img src="img/icons/fb.png" width="30px"
                                         alt="">
 
                                 </a>
@@ -190,7 +190,7 @@
                             </div>
                             <div>
                                 <a href="">
-                                    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30px"
+                                    <img src="img/icons/wp.png" width="30px"
                                         alt="">
 
                                 </a>
@@ -199,7 +199,7 @@
                             </div>
                             <div>
                                 <a href="">
-                                    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" width="30px"
+                                    <img src="img/icons/linkdin.png" width="30px"
                                         alt="">
 
                                 </a>
@@ -207,7 +207,7 @@
                             </div>
                             <div>
                                 <a href="">
-                                    <img src="https://cdn-icons-png.flaticon.com/512/13051/13051762.png" width="30px"
+                                    <img src="img/icons/pint.png" width="30px"
                                         alt="">
 
                                 </a>
@@ -216,7 +216,7 @@
                             </div>
                             <div>
                                 <a href="">
-                                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png"
+                                    <img src="img/icons/xiao.png"
                                         width="30px" alt="">
 
                                 </a>
@@ -224,13 +224,13 @@
 
                             </div>
                             <div>
-                                <img src="https://www.aiit.vic.edu.au/extra-images/WhatsAppQR.jpg" width="100px" alt="">
+                                <img src="img/social/whatsAppQR.jpg" width="100px" alt="">
                             </div>
                             <div>
-                                <img src="https://www.aiit.vic.edu.au/extra-images/LineQR.jpg" width="100px" alt="">
+                                <img src="img/social/wechatQR.jpg" width="100px" alt="">
                             </div>
                             <div>
-                                <img src="https://www.aiit.vic.edu.au/extra-images/WechatQR.jpg" width="100px" alt="">
+                                <img src="img/social/lineQR.jpg" width="100px" alt="">
                             </div>
                         </div>
 

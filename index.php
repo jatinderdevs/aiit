@@ -362,7 +362,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="whyimg">
-                            <img src="https://www.aiit.vic.edu.au/extra-images/about-us.jpg" width="250px"
+                            <img src="img/about/about-us.jpg" width="250px"
                                 class="img-fluid" alt="">
                         </div>
                     </div>

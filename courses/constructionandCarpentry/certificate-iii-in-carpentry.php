@@ -88,7 +88,7 @@
                 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
                 <h6> 
                     Pre Enrolment Information <br>
-                    <a href="../../assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol_FAQ_(CPC30220).pdf" target="_blank" class="  btn-link">click here</a></h6>
+                    <a href="../../assets/forms-and-policies/pre_enrolment/AIIT_45485_Pre-Enrol FAQ (CPC30220).pdf" target="_blank" class="  btn-link">click here</a></h6>
             </div>
             <div class="highlight ">
                 <a href="student-application-form.php" class=" btn btn-danger" ><i class="fa fa-paper-plane-o" style="color: white; font-size: 1.2rem;" aria-hidden="true"></i> Apply now</a>

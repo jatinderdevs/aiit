@@ -95,7 +95,7 @@
 
                                     <li class="col-sm-6">
                                         <a
-                                            href="<?php echo BASE_PATH; ?>assets/forms-and-policies/AIIT_45485_Student_Handbook_RT.pdf"><i
+                                            href="<?php echo BASE_PATH; ?>assets/forms-and-policies/AIIT_45485_Student_Handbook_RT.pdf" target="_blank"><i
                                                 class="fa fa-book" aria-hidden="true"></i> Student Hand Book</a>
                                     </li>
 
@@ -106,7 +106,7 @@
                                     <li class="col-sm-6">
                                         <a
                                             href="assets/forms-and-policies/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf">
-                                            <b class="text-white"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                                            <b class="text-dark" style="filter: brightness(0.5);"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
                                                 Student PDF Application Form</b> </a>
                                     </li>
                                 </ul>
