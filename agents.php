@@ -28,22 +28,7 @@
         <br>
         <hr>
         <div class="agents">
-            <div class="agentbox">
-                <div class="cardAgent">
-                    <div class="agentlogo">
-                        <img src="https://www.aiit.vic.edu.au/extra-images/agents/4u.webp" class="img-fluid" alt="">
-                    </div>
-                    <div class="agenttxt">
-                        <h6>4U EDUCATION AGENCY</h6>
-                        <p> 1602/150 Epping Road Lane Cove West, New South Wales 2066</p>
-                    </div>
-                    <div>
-                        contact@4uaustralia.com
-
-                        www.4ueducationagency
-                    </div>
-                </div>
-            </div>
+      
     
     </div>
     
@@ -88,7 +73,7 @@ agentData.forEach(agent => {
       <div class="agentbox">
                 <div class="cardAgent">
                     <div class="agentlogo">
-                        <img src="${agent['logo']}" class="img-fluid" alt="">
+                        <img src="${agent['logo']}" class="img-fluid" width="80px" height="80px" alt="">
                     </div>
                     <div class="agenttxt">
                         <h5>${agent['Agent Name']}</h5>
