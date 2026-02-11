@@ -81,7 +81,7 @@
                                     </li>
                                     <li class="col-sm-6">
                                         <a href="<?php echo BASE_PATH; ?>student-services-and-support.php"> <i
-                                                class="fa fa-info-circle" aria-hidden="true"></i> Student support and wellbeing services</a>
+                                                class="fa fa-info-circle" aria-hidden="true"></i> Student Support and Wellbeing Services</a>
                                     </li>
                                     <li class="col-sm-6">
                                         <a href="<?php echo BASE_PATH; ?>policies.php"><i class="fa fa-file-o"

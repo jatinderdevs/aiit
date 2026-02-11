@@ -6,7 +6,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SIT30821 - Certificate III in Commercial Cookery | AIIT Melbourne</title>
+  <title>SIT30821 Certificate III in Commercial Cookery | AIIT Melbourne</title>
   <meta name="description" content="Study Certificate III in Commercial Cookery at AIIT Melbourne. Hands-on chef training for your career. Enroll now!">
   <meta name="keywords" content="Certificate III Commercial Cookery, cookery course Melbourne, AIIT, chef training">
   <meta name="robots" content="index, follow">
@@ -59,12 +59,10 @@
 <?php include_once('../../includes/header.php') ?>
     
 
-
-
     <section class="headersection">
         <div class="headerlayer">
             <div class="container">
-                <h1 class="pageHeading">SIT30821 - Certificate III in Commercial Cookery</h1>
+                <h1 class="pageHeading">SIT30821 Certificate III in Commercial Cookery</h1>
 
             </div>
         </div>
@@ -144,7 +142,7 @@ This qualification provides a pathway to work as a cook in organisations such as
                         <div class="campusCard ">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>390A Lygon Street, Brunswick East, Melbourne, Victoria, 3057</strong>
+                            <strong>390A Lygon Street, Brunswick East, Melbourne, Victoria, Australia 3057</strong>
                             <br>&nbsp; 
                         </div>
                     </div>
@@ -166,38 +164,14 @@ This qualification provides a pathway to work as a cook in organisations such as
                     <h4>
                         Entry Requirements</h4>
                     <p>
-                        Australian International Institute of Technology has the following entry requirements for the SIT30816 - Certificate III in Commercial Cookery.
+                        Australian International Institute of Technology has the following entry requirements for the SIT30821 Certificate III in Commercial Cookery.
                         All International students must:
                     </p>
-                    <ul>
-                        <li>
-                            
-                            <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Be at least 18 years of age and must have completed at least the equivalent of Year 12.</p>
-                        </li>
-                        <li>
-                            
-                           <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Meet minimum English Language Proficiency Requirements* including</p>
-                            <ul class="mx-4">
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have obtained an IELTS band score of at least 5.5 ‐ or equivalent; or 5.0 where the test score is combined with at least 10 weeks ELICOS or 4.5 where the test score is combined with at least 20 weeks ELICOS <a class="text-lowercase btn-link" target="_blank" href="https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements">https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements</a>
-                                    Note - IELTS results are valid for two years only; reference: <a class="text-lowercase btn-link" target="_blank" href=" https://support.cambridgeenglish.org/hc/en-gb/articles/202838296-How-long-are-my-results-and-certificate-valid-for-">https://support.cambridgeenglish.org/hc/en-gb/articles/202838296-How-long-are-my-results-and-certificate-valid-for-</a>
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed a Certificate IV, Diploma or Advanced Diploma level Training Package course in Australia; or,
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed any Certificate III or Certificate IV in ESL or EAL from the ESL/EAL Framework (VIC); or
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed the ELICOS Course: General English – Intermediate Level
-                                </p></li>
-                            </ul>
-                        </li>
-                    </ul>
+             <?php include_once('../../includes/entryRequirements.php') ?>
                     <small class="text-justify">Note – If an International student is not required to provide evidence of their English Language Proficiencies (in Speaking, Reading, Writing and Listening) at the time of applying for their Student visa (Sub‐class 500) – reference: <a class="text-lowercase btn-link" target="_blank" href="https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements">https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements</a>,they will be required to complete Australian International Institute of Technology’s English Language Proficiency Assessment to ensure that they have the required English proficiency level for this course.</small>
                 </div>
                 <div class="coursebox">
-                    <h4>Course Requirements</h4>
+                    <h4>Additional Course Requirements</h4>
                <p>The handling of raw meat including beef, lamb, pork poultry, seafood and shellfish are part of the course requirements.
                 <br>
                 <br>
@@ -216,7 +190,7 @@ This qualification provides a pathway to work as a cook in organisations such as
                         Potential employment options could be as a commercial cook in organisations such as restaurants, hotels, clubs, pubs, cafés, and coffee shops.
                         <br>
                         <br>
-                        Students who complete this course may wish to continue their education into the SIT40516 – Certificate IV in Commercial Cookery or pursue a career as a commercial cook in the Tourism, Travel and Hospitality industry.
+                        Students who complete this course may wish to continue their education into the SIT40521 Certificate IV in Kitchen Management or pursue a career as a commercial cook in the Tourism, Travel and Hospitality industry.
                     </p>
                 </div>
                 <div class="coursebox">

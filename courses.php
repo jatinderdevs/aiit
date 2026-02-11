@@ -49,7 +49,7 @@
                     <a href="courses/constructionandCarpentry/certificate-iii-in-carpentry.php">
                         <div class="courseCard ">
                             <div class="cardBody">
-                                <img src="img/courses/car.jpg" class="img-fluid" alt="">
+                                <img src="img/courses/car.webp" class="img-fluid" alt="">
                             </div>
                             <div class="cardText">
                                 <small class="badge badge-danger">CPC30220 </small><br>
@@ -63,7 +63,7 @@
                     <a href="courses/constructionandCarpentry/diploma-of-building-and-construction.php">
                         <div class="courseCard ">
                             <div class="cardBody">
-                                <img src="img/courses/cons.png" class="img-fluid" alt="">
+                                <img src="img/courses/cons.webp" class="img-fluid" alt="">
                             </div>
                             <div class="cardText">
                                 <small class="badge badge-danger">CPC50220 </small>
@@ -92,7 +92,7 @@
                     <a href="courses/commercialCookery/certificate-IV-in-Kitchen-Management.php">
                         <div class="courseCard ">
                             <div class="cardBody">
-                                <img src="img/about/students.webp" class="img-fluid" alt="">
+                                <img src="img/about/students3.webp" class="img-fluid" alt="">
                             </div>
                             <div class="cardText">
                                 <small class="badge badge-primary">SIT40521</small>
@@ -110,7 +110,7 @@
                     <a href="courses/commercialCookery/diploma-of-hospitality-management.php">
                         <div class="courseCard ">
                             <div class="cardBody">
-                                <img src="img/about/students.webp" class="img-fluid" alt="">
+                                <img src="img/about/students2.webp" class="img-fluid" alt="">
                             </div>
                             <div class="cardText">
                                 <small class="badge badge-primary">SIT50422</small>
@@ -126,7 +126,7 @@
                 <div class="col-md-3 col-6 cooking">
                     <div class="courseCard ">
                         <div class="cardBody">
-                            <img src="img/about/students.webp" class="img-fluid" alt="">
+                            <img src="img/about/students1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="cardText">
                             <small class="badge badge-primary">SIT50422</small>
@@ -177,7 +177,7 @@
                             <div class="cardText">
                                 <small class="badge badge-success">BSB50420</small>
 
-                                <h4>Diploma of LEADERSHIP AND MANAGEMENT</h4>
+                                <h4>Diploma of Leadership and Management</h4>
                             </div>
                         </div>
                     </a>
@@ -190,7 +190,7 @@
                             </div>
                             <div class="cardText">
                                 <small class="badge badge-success">BSB60420</small>
-                                <h4> Advanced Diploma of LEADERSHIP AND MANAGEMENT</h4>
+                                <h4> Advanced Diploma of Leadership and Management</h4>
                             </div>
                         </div>
                     </a>

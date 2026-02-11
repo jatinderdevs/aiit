@@ -59,7 +59,7 @@
     <section class="headersection">
         <div class="headerlayer">
             <div class="container">
-                <h1 class="pageHeading">CPC30220 - Certificate III in Carpentry</h1>
+                <h1 class="pageHeading">CPC30220 Certificate III in Carpentry</h1>
             </div>
         </div>
     </section>
@@ -133,7 +133,7 @@
                         <div class="campusCard ">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>390A Lygon Street, Brunswick East, Melbourne, Victoria, 3057</strong>
+                            <strong>390A Lygon Street, Brunswick East, Melbourne, Victoria, Australia 3057</strong>
                             <br>&nbsp; 
                         </div>
                     </div>
@@ -155,48 +155,11 @@
                     <p>
                         Australian International Institute of Technology has the following minimum entry requirements for CPC30220 Certificate III in Carpentry. All applicants must:
                     </p>
-                    <ul>
-                        <li>
-                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Be at least 18 years of age (at the time of enrolment);</p>
-                        </li>
-                        <li>
-                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Must have completed at least the equivalent of Year 12 (Australia);</p>
-                        </li>
-                        <li>
-                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Complete the Pre-Training Review (PTR) and Language, Literacy, and Numeracy (LL&N) process;</p>
-                        </li>
-                        <li>
-                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Complete a Digital Currency Diagnostic;</p>
-                        </li>
-                        <li>
-                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Meet minimum English Language Proficiency Requirements* including:</p>
-                            <ul class="mx-4">
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have obtained an IELTS band score of at least 6.0‐ or equivalent; or 5.5 where the test score is combined with at least 10 weeks ELICOS or 5.0 where the test score is combined with at least 20 weeks ELICOS. (Note - IELTS results are valid for two years only; reference: https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements); or,
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have obtained a PTE combined score of at least 51.6; or,
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed a Certificate IV, Diploma or Advanced Diploma Level Training Package course in Australia; or,
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed any Certificate III or Certificate IV in ESL or EAL from the ESL/EAL Framework (VIC); or
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed the ELICOS Course: General English - Intermediate Level.
-                                </p></li>
-                            </ul>
-                        </li>
-                    </ul>
-                    <small class="text-justify">*Note - If an International student is not required to provide evidence of their English Language Proficiencies (in Speaking, Reading, Writing and Listening) at the time of applying for their Student visa (Sub‐class 500) reference https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements, they will be required to complete Australian International Institute of Technology’s English Language Proficiency Assessment to ensure that they have the required English proficiency level for this course. Language, literacy, and numeracy (LL&N) requirements for learners undertaking this qualification are at a Level 2 on the “Australian Core Skills Framework (ACSF)” Performance Grid.</small>
+                    <?php include_once('../../includes/entryRequirements.php') ?>
+                    
+                    <small class="text-justify">*Note - If an International student is not required to provide evidence of their English Language Proficiencies (in Speaking, Reading, Writing and Listening) at the time of applying for their Student visa (Sub‐class 500) reference <a class="text-lowercase btn-link" href="https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements">  https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements</a>, they will be required to complete Australian International Institute of Technology’s English Language Proficiency Assessment to ensure that they have the required English proficiency level for this course. Language, literacy, and numeracy (LL&N) requirements for learners undertaking this qualification are at a Level 2 on the “Australian Core Skills Framework (ACSF)” Performance Grid.</small>
                 </div>
-                <div class="coursebox">
-                    <h4>Course Requirements</h4>
-                    <p>
-                        Applicants are further required to complete a Pre-Training Review (PTR), a Language, Literacy and Numeracy (LL&N) Diagnostic and Digital Currency assessment before admission to ensure the applicant’s suitability which further aims to ensure they have the best chance of success, and the training will meet the learning and employment outcomes the student expects. The training is structured and paced to support VET students to progress, providing sufficient time for instruction, practice, feedback and assessment. Reasonable adjustments are made to support students with disabilities, including additional time, oral presentations, large print materials, and flexible scheduling.
-                    </p>
-                </div>
+          
                 <div class="coursebox">
                     <h4>Pathways</h4>
                     <p>

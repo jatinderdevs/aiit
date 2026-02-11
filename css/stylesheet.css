@@ -839,10 +839,10 @@ address {
 }
 
 .citymap::before {
-  content: " Corporate Head Office";
+  content: " Corporate Head Office & Student Resource Hub";
   position: absolute;
-  text-transform: uppercase;
-  left: -75%;
+  text-transform: capitalize;
+  left: -80%;
   transition: ease-in-out all 0.7s;
   border: 5px solid white;
   box-shadow: 0 0 10px #999;
@@ -852,7 +852,7 @@ address {
   z-index: 999;
   font-weight: bolder;
   background: linear-gradient(to right, var(--red), var(--yellow));
-  padding: 10px 40px;
+  padding: 10px 20px;
 }
 
 .citymap:hover::before {
@@ -864,10 +864,10 @@ address {
 }
 
 .lygonmap::before {
-  content: "Lygon Street Campus";
+  content: "Lygon Street Campus & Training Kitchen";
   position: absolute;
-  text-transform: uppercase;
-  left: -60%;
+  text-transform: capitalize;
+  left: -80%;
   transition: ease-in-out all 0.7s;
   border: 5px solid white;
   box-shadow: 0 0 10px #999;

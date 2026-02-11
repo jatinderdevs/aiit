@@ -136,8 +136,8 @@
                         <div class="address">
                             <h3>Lygon Street Campus</h3>
                             <address>
-                                390A Lygon Street
-                                Brunswick East Victoria 3057
+                                390A Lygon Street,
+                                Brunswick East, Victoria, Australia 3057
                             </address>
                         </div>
                     </div>
@@ -172,7 +172,7 @@
                         <h4>Social Media </h4>
                         <div class="mediaBox">
                             <div>
-                                <a href="">
+                                <a href="https://www.instagram.com/studyataiit/">
                                     <img src="img/icons/insta.png" width="30px"
                                         alt="">
 
@@ -180,7 +180,7 @@
                                 <p> instagram</p>
                             </div>
                             <div>
-                                <a href="">
+                                <a href="https://www.facebook.com/AIITMelbourne">
                                     <img src="img/icons/fb.png" width="30px"
                                         alt="">
 
@@ -189,7 +189,7 @@
 
                             </div>
                             <div>
-                                <a href="">
+                                <a href="https://api.whatsapp.com/send?phone=+61435115629">
                                     <img src="img/icons/wp.png" width="30px"
                                         alt="">
 
@@ -198,7 +198,7 @@
 
                             </div>
                             <div>
-                                <a href="">
+                                <a href="linkedin.com/company/54334713">
                                     <img src="img/icons/linkdin.png" width="30px"
                                         alt="">
 
@@ -206,7 +206,7 @@
                                 <p> linkdin</p>
                             </div>
                             <div>
-                                <a href="">
+                                <a href="https://au.pinterest.com/olgaf3370/?invite_code=a17c7c5eaeeb4c25838d601af13a4fb6&sender=971370350786995949">
                                     <img src="img/icons/pint.png" width="30px"
                                         alt="">
 
@@ -215,12 +215,12 @@
 
                             </div>
                             <div>
-                                <a href="">
+                                <a href="https://www.xiaohongshu.com/user/profile/643f8aa4000000000f006677?xhsshare=CopyLink&appuid=643f8aa4000000000f006677&apptime=1682291071">
                                     <img src="img/icons/xiao.png"
                                         width="30px" alt="">
 
                                 </a>
-                                <p> xiaohongshu </p>
+                                <p> xiaohongshu <small>(little red book)</small> </p>
 
                             </div>
                             <div>

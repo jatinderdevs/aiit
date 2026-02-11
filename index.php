@@ -75,7 +75,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="maintext">
-                        <h1>Empowering futures through education</h1>
+                        <h1>Empowering futures through education, many students success stories.</h1>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -94,12 +94,12 @@
                             <h1>7+</h1>
                             <img src="img/icons/quality.png" width="30" alt="">
 
-                            <p class="">Year Experience</p>
+                            <p class="">Years Experience</p>
                         </div>
                         <div class="text-center">
                             <h1>10+</h1>
                             <img src="img/icons/book.png" width="30" alt="">
-                            <p class="">Course Offered</p>
+                            <p class="">Courses Offered</p>
                         </div>
                     </div>
                 </div>
@@ -320,7 +320,7 @@
                         <b>why choose us</b>
                         <br>
                         <h1 class="heading">we offer</h1>
-                        <p>Australian International Institute of Technology is accredited and endorsed by the Department of Education and the National Regulator, Australian Skills Quality Authority (ASQA), and provides nationally recognised training products, qualifications, and accredited courses</p>
+                        <p>Australian International Institute of Technology is accredited and endorsed by the Department of Education and the National Regulator, Australian Skills Quality Authority (ASQA), and provides nationally recognised training products, qualifications, and accredited courses.</p>
                         <div class="flex">
                             <div class="">
                                 <div class="sicon yellowicon">
@@ -343,7 +343,7 @@
                                     <img src="img/icons/leadership.png" class="img-fluid" alt="AIIT College">
                                 </div>
                                 <div class="whytxt">
-                                    <h6>Career <br> Support</h6>
+                                    <h6>Career and wellbeing<br> Support</h6>
                                 </div>
 
                             </div>

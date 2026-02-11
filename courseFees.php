@@ -44,69 +44,69 @@
                        <tr>
                         <td><p> CPC30220  - Certificate III in Carpentry (119819B)</p></td>
                         <td>52                      </td>
-                        <td><a href="contact-price.html">Click Here</a></td>
+                        <td><a href="">Click Here</a></td>
                         
                       </tr>
                         </tr>
                        <tr>
                         <td><p> CPC50220   - Diploma of Building and Construction (Building) (119820J)</p></td>
                         <td>52                      </td>
-                        <td><a href="contact-price.html">Click Here</a></td>
+                        <td><a href="">Click Here</a></td>
                         
                       </tr>
                       <tr>
                         <td><p> BSB40520 - Certificate IV in Leadership and Management (104007F)</p></td>
                         <td>52                      </td>
-                        <td><a href="contact-price.html">Click Here</a></td>
+                        <td><a href="">Click Here</a></td>
                         
                       </tr>
                       <tr>
                         <td><p>BSB50420 - Diploma of Leadership and Management (104387M)</p></td>
                         <td>52
                           </td>
-                        <td><a href="contact-price.html">Click Here</a></td>
+                        <td><a href="">Click Here</a></td>
                      
                       </tr>
                         <tr>
                         <td><p>BSB60420 - Advanced Diploma of Leadership and Management (106128C)</p></td>
                         <td>52
                           </td>
-                        <td><a href="contact-price.html">Click Here</a></td>
+                        <td><a href="">Click Here</a></td>
                      
                       </tr>
                         <tr>
                         <td><p>SIT30821 - Certificate III in Commercial Cookery (101694)</p> </td>
                         <td>52
                           </td>
-                        <td><a href="contact-price.html">Click Here</a></td>
+                        <td><a href="">Click Here</a></td>
                         
                       </tr>
                         <tr>
                         <td><p>SIT40521 - Certificate IV in Kitchen Management (101695)</p></td>
                         <td>78
                           </td>
-                       <td><a href="contact-price.html">Click Here</a></td>
+                       <td><a href="">Click Here</a></td>
                        
                       </tr>
                         <tr>
                         <td><p>SIT50422 - Diploma of Hospitality Management (101696) </p></td>
                         <td>68
                           </td>
-                        <td><a href="contact-price.html">Click Here</a></td>
+                        <td><a href="">Click Here</a></td>
                      
                       </tr>
                         <tr>
                         <td><p>SIT60322 - Advanced Diploma of Hospitality Management (106129B) </p></td>
                         <td>104
                           </td>
-                        <td><a href="contact-price.html">Click Here</a></td>
+                        <td><a href="">Click Here</a></td>
                      
                       </tr>
                         <tr>
                         <td><p>General English (Beginner - Advanced)</p></td>
                         <td>78
                           </td>
-                        <td><a href="contact-price.html">Click Here</a></td>
+                        <td><a href="">Click Here</a></td>
                       
                       </tr>
                                                       
@@ -130,43 +130,43 @@
                       
                       <tr>
                         <td><p>Recognition of Prior Learning (RPL) Assessment Process (Per each Unit of Competency)</td>
-                        <td> $350  </td>
+                        <td> <a href="">Click Here</a> </td>
                       </tr>
                         <tr>
                         <td><p>Individual Unit of Competency Re-enrolment Fee (Faculty Approval to Reinstate)</p></td>
-                        <td>  $500   </td>
+                        <td> <a href="">Click Here</a> </td>
                       </tr>
                         <tr>
                         <td><p>Extra Reassessment Fee (Free for the first three attempts during the Term)</p></td>
-                        <td>  $350   </td>
+                        <td>  <a href="">Click Here</a>  </td>
                       </tr>
                         <tr>
                         <td><p>Deferment, Suspension, and Withdrawal of Studies Processing Fee</p></td>
-                        <td>  $250   </td>
+                        <td> <a href="">Click Here</a>   </td>
                       </tr>
                         <tr>
                         <td><p>CoE Amendment or Reissuance Administration Processing Fee</p></td>
-                        <td>  $150   </td>
+                        <td>  <a href="">Click Here</a> </td>
                       </tr>
                         <tr>
                         <td><p>Airport Pick-up (upon request)</td>
-                        <td>  $150   </td>
+                        <td> <a href="">Click Here</a>   </td>
                       </tr>
                         <tr>
                         <td><p>Replacement AQF Certification Document (Replacement Certificate)</p></td>
-                        <td>  $150   </td>
+                        <td>  <a href="">Click Here</a>   </td>
                       </tr>
                         <tr>
                         <td><p>Additional Statement of Attainment (SOA)</p></td>
-                        <td>  $100   </td>
+                        <td> <a href="">Click Here</a>   </td>
                       </tr>
                         <tr>
                         <td><p>Reissue - Replacement Student ID Card</p></td>
-                        <td>  $25   </td>
+                        <td>  <a href="">Click Here</a>   </td>
                       </tr>
                         <tr>
                         <td><p>Late payment of Tuition Fees (Per day)</p></td>
-                        <td>  $20   </td>
+                        <td> <a href="">Click Here</a>  </td>
                       </tr>
                            
                       </tbody>
@@ -190,15 +190,15 @@
                       
                       <tr>
                         <td>Industry Standard Chef 's Knife Kit and Equipment (Including Replacement Knife Kit)</td>
-                        <td> $300  </td>
+                        <td><a href="">Click Here</a>  </td>
                       </tr>
                         <tr>
                         <td>Industry Standard Chef's Uniform, Boots, and Protective Protection Equipment (PPE)</td>
-                        <td>  $250   </td>
+                        <td>  <a href="">Click Here</a> </td>
                       </tr>
                         <tr>
                         <td>Materials (including Textbooks) and Culinary Ingredients</td>
-                        <td>  $750   </td>
+                        <td> <a href="">Click Here</a>  </td>
                       </tr>
                         
                            
@@ -207,5 +207,12 @@
             </div>
         </div>
     </section>
-
+<script>
+  const anchors=document.querySelectorAll('table a');
+  console.log(anchors);
+  anchors.forEach(a => {
+      a.setAttribute("href","mailto:admissions@aiit.vic.edu.au")   
+  });
+ 
+</script>
     <?php include_once('./includes/footer.php') ?>

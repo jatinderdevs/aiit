@@ -61,7 +61,7 @@
    <section class="headersection">
         <div class="headerlayer">
             <div class="container">
-                <h1 class="pageHeading">BSB60420 - Advanced Diploma of leadership and management</h1>
+                <h1 class="pageHeading">BSB60420 Advanced Diploma of leadership and management</h1>
             </div>
         </div>
     </section>
@@ -157,45 +157,13 @@ They use cognitive and communication skills to identify, analyse and synthesise 
                     <h4>
                         Entry Requirements</h4>
                     <p>
-                    Australian International Institute of Technology has the following entry requirements for the BS60420 - Advanced Diploma of Leadership and Management:
+                    Australian International Institute of Technology has the following entry requirements for the BS60420 Advanced Diploma of Leadership and Management:
                         All International students must:
                     </p>
-                    <ul>
-                        <li>
-                            
-                            <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Be at least 18 years of age and must have completed at least the equivalent of Year 12.</p>
-                        </li>
-                        <li>
-                            
-                           <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Meet minimum English Language Proficiency Requirements* including</p>
-                            <ul class="mx-4">
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have obtained an IELTS band score of at least 5.5 ‐ or equivalent; or 5.0 where the test score is combined with at least 10 weeks ELICOS or 4.5 where the test score is combined with at least 20 weeks ELICOS <a class="text-lowercase btn-link" target="_blank" href="https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements">https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements</a>
-                                    Note - IELTS results are valid for two years only; reference: <a class="text-lowercase btn-link" target="_blank" href=" https://support.cambridgeenglish.org/hc/en-gb/articles/202838296-How-long-are-my-results-and-certificate-valid-for-">https://support.cambridgeenglish.org/hc/en-gb/articles/202838296-How-long-are-my-results-and-certificate-valid-for-</a>
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed a Certificate IV, Diploma or Advanced Diploma level Training Package course in Australia; or,
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed any Certificate III or Certificate IV in ESL or EAL from the ESL/EAL Framework (VIC); or
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed the ELICOS Course: General English – Intermediate Level
-                                </p></li>
-                            </ul>
-                        </li>
-                    </ul>
+                 <?php include_once('../../includes/entryRequirements.php') ?>
                     <small class="text-justify">Note – If an International student is not required to provide evidence of their English Language Proficiencies (in Speaking, Reading, Writing and Listening) at the time of applying for their Student visa (Sub‐class 500) – reference: <a class="text-lowercase btn-link" target="_blank" href="https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements">https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements</a>,they will be required to complete Australian International Institute of Technology’s English Language Proficiency Assessment to ensure that they have the required English proficiency level for this course.</small>
                 </div>
-                <div class="coursebox">
-                    <h4>Course Requirements</h4>
-               <p>The handling of raw meat including beef, lamb, pork poultry, seafood and shellfish are part of the course requirements.
-                Timetabled Classes and Work Placement can include Morning’s and Evening’s; Work Placement can also include sessions on Weekends and Public Holidays which align to industry operational requirements.
-                Work placement is scheduled only after all prerequisites have been completed in an approved Industry or Simulated Work Environment for 12 Complete Food Service periods*.
-            </p>
-                <br>
-                <small><strong><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>  * A complete food service period can cover a Breakfast service, Lunch service, Dinner service or a Special function for a minimum of four (4) hours in an industry workplace with industry-realistic ratios of kitchen staff to customers</strong></small>
-                </div>
+              
                 <div class="coursebox">
                     <h4>Pathways</h4>
                     <p>

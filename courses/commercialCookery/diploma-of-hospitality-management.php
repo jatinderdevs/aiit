@@ -6,7 +6,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SIT50422 - Diploma of Hospitality Management | AIIT Docklands, Melbourne</title>
+  <title>SIT50422 Diploma of Hospitality Management | AIIT Docklands, Melbourne</title>
   <meta name="description" content="Study SIT50422 Diploma of Hospitality Management at AIIT Docklands, Melbourne. Lead in hospitality. Enroll now!">
   <meta name="keywords" content="Diploma Hospitality Management, hospitality course Melbourne, AIIT, hospitality training">
   <meta name="robots" content="index, follow">
@@ -61,7 +61,7 @@
     <section class="headersection">
         <div class="headerlayer">
             <div class="container">
-                <h1 class="pageHeading">SIT50422 - Diploma of Hospitality Management Packaged Pathway</h1>
+                <h1 class="pageHeading">SIT50422 Diploma of Hospitality Management Packaged Pathway</h1>
             </div>
         </div>
     </section>
@@ -122,7 +122,7 @@
 104 weeks* Pathway Program (including public holidays, re-assessment and catch-up classes – full-time study 20 contact hours per week timetabled over 2.5 days per week)
 <br>
 <br>
-<small> *Successful completion of the SIT30821 - Certificate III in Commercial Cookery (52 weeks including term breaks and holidays) and SIT40521 – Certificate IV in Kitchen Management (26 weeks including term breaks and holidays) is mandatory to undertake this training plan.</small>
+<small> *Successful completion of the SIT30821 Certificate III in Commercial Cookery (52 weeks including term breaks and holidays) and SIT40521 Certificate IV in Kitchen Management (26 weeks including term breaks and holidays) is mandatory to undertake this training plan.</small>
                     </p>
                 </div>
                 <div class="coursebox">
@@ -145,7 +145,7 @@
                         <div class="campusCard ">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>390A Lygon Street, Brunswick East, Melbourne, Victoria, 3057</strong>
+                            <strong>390A Lygon Street, Brunswick East, Melbourne, Victoria, Australia 3057</strong>
                             <br>&nbsp; 
                         </div>
                     </div>
@@ -167,38 +167,36 @@
                     <h4>
                         Entry Requirements</h4>
                     <p>
-                        Australian International Institute of Technology has the following entry requirements for the SIT30816 - Certificate III in Commercial Cookery.
+                        Australian International Institute of Technology has the following entry requirements for the SIT50422 Diploma of Hospitality Management.
                         All International students must:
                     </p>
-                    <ul>
+                 <ul>
                         <li>
-                            
-                            <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Be at least 18 years of age and must have completed at least the equivalent of Year 12.</p>
+                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Be at least 18 years of age (at the time of enrolment);</p>
                         </li>
                         <li>
-                            
-                           <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Meet minimum English Language Proficiency Requirements* including</p>
-                            <ul class="mx-4">
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have obtained an IELTS band score of at least 5.5 ‐ or equivalent; or 5.0 where the test score is combined with at least 10 weeks ELICOS or 4.5 where the test score is combined with at least 20 weeks ELICOS <a class="text-lowercase btn-link" target="_blank" href="https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements">https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements</a>
-                                    Note - IELTS results are valid for two years only; reference: <a class="text-lowercase btn-link" target="_blank" href=" https://support.cambridgeenglish.org/hc/en-gb/articles/202838296-How-long-are-my-results-and-certificate-valid-for-">https://support.cambridgeenglish.org/hc/en-gb/articles/202838296-How-long-are-my-results-and-certificate-valid-for-</a>
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed a Certificate IV, Diploma or Advanced Diploma level Training Package course in Australia; or,
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed any Certificate III or Certificate IV in ESL or EAL from the ESL/EAL Framework (VIC); or
-                                </p></li>
-                                <li><p> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-                                    Have completed the ELICOS Course: General English – Intermediate Level
-                                </p></li>
-                            </ul>
+                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Must have completed at least the equivalent of Year 12 (Australia);</p>
+                             <ul class="mx-4 mb-0">
+                                <li><p><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Must have completed SIT30821 Certificate III in Commercial Cookery.</p></li>
+                                <li><p><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Must have completed SIT40521 Certificate IV in kitchen management.</p></li>
+                              
+                             </ul>
+                        </li>
+                        <li>
+                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Complete the Pre-Training Review (PTR) and Language, Literacy, and Numeracy (LL&N) process;</p>
+                        </li>
+                        <li>
+                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Complete a Digital Literacy Diagnostic;</p>
+                        </li>
+                        <li>
+                             <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Meet minimum English Language Proficiency Requirements.</p>
+                          
                         </li>
                     </ul>
                     <small class="text-justify">Note – If an International student is not required to provide evidence of their English Language Proficiencies (in Speaking, Reading, Writing and Listening) at the time of applying for their Student visa (Sub‐class 500) – reference: <a class="text-lowercase btn-link" target="_blank" href="https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements">https://www.homeaffairs.gov.au/trav/stud/more/student-visa-english-language-requirements</a>,they will be required to complete Australian International Institute of Technology’s English Language Proficiency Assessment to ensure that they have the required English proficiency level for this course.</small>
                 </div>
                 <div class="coursebox">
-                    <h4>Course Requirements</h4>
+                    <h4>Additional Course Requirements</h4>
                <p>The handling of raw meat including beef, lamb, pork poultry, seafood and shellfish are part of the course requirements.
                 Timetabled Classes and Work Placement can include Morning’s and Evening’s; Work Placement can also include sessions on Weekends and Public Holidays which align to industry operational requirements.
                 Work placement is scheduled only after all prerequisites have been completed in an approved Industry or Simulated Work Environment for 12 Complete Food Service periods*.
@@ -212,7 +210,7 @@
                         Potential employment options could be as a Chef or Chef de Partie in organisations such as restaurants, hotels, clubs, pubs, cafés, and coffee shops.
                         <br>
                         <br>
-                        Students who complete this course may wish to continue their education into the SIT50422 – Diploma of Hospitality Management or pursue a career as a Chef or Chef de Partie in the Tourism, Travel and Hospitality industry.
+                        Students who complete this course may wish to continue their education into the SIT50422 Diploma of Hospitality Management or pursue a career as a Chef or Chef de Partie in the Tourism, Travel and Hospitality industry.
                     </p>
                 </div>
                 <div class="coursebox">
