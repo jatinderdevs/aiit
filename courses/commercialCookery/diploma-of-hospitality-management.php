@@ -176,12 +176,10 @@
                         </li>
                         <li>
                              <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Must have completed at least the equivalent of Year 12 (Australia);</p>
-                             <ul class="mx-4 mb-0">
-                                <li><p><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Must have completed SIT30821 Certificate III in Commercial Cookery.</p></li>
-                                <li><p><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Must have completed SIT40521 Certificate IV in kitchen management.</p></li>
-                              
-                             </ul>
+                           
                         </li>
+                         <li><p><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Must have completed SIT30821 Certificate III in Commercial Cookery.</p></li>
+                                <li><p><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Must have completed SIT40521 Certificate IV in kitchen management.</p></li>
                         <li>
                              <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Complete the Pre-Training Review (PTR) and Language, Literacy, and Numeracy (LL&N) process;</p>
                         </li>
@@ -199,7 +197,7 @@
                     <h4>Additional Course Requirements</h4>
                <p>The handling of raw meat including beef, lamb, pork poultry, seafood and shellfish are part of the course requirements.
                 Timetabled Classes and Work Placement can include Morning’s and Evening’s; Work Placement can also include sessions on Weekends and Public Holidays which align to industry operational requirements.
-                Work placement is scheduled only after all prerequisites have been completed in an approved Industry or Simulated Work Environment for 12 Complete Food Service periods*.
+                Work placement is scheduled only after all prerequisites have been completed in an approved Industry or Simulated Work Environment for 48 Complete Food Service periods*.
             </p>
                 <br>
                 <small><strong><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>  * A complete food service period can cover a Breakfast service, Lunch service, Dinner service or a Special function for a minimum of four (4) hours in an industry workplace with industry-realistic ratios of kitchen staff to customers</strong></small>

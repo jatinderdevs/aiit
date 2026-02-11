@@ -170,7 +170,7 @@
                     <h4>
                         Entry Requirements</h4>
                     <p>
-                        Australian International Institute of Technology has the following entry requirements for the SIT60322  advanced Diploma of Hospitality Management.
+                        Australian International Institute of Technology has the following entry requirements for the SIT60322  Advanced Diploma of Hospitality Management.
                         All International students must:
                     </p>
                         <ul>
@@ -179,13 +179,14 @@
                         </li>
                         <li>
                              <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Must have completed at least the equivalent of Year 12 (Australia);</p>
-                             <ul class="mx-4 mb-0">
-                                <li><p><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Must have completed SIT30821 Certificate III in Commercial Cookery.</p></li>
-                                <li><p><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Must have completed SIT40521 Certificate IV in kitchen management.</p></li>
-                                <li><p><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Must have completed SIT50422 Diploma of Hospitality Management.</p></li>
+                          
+                             
                               
-                             </ul>
+                        
                         </li>
+                           <li><p><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Must have completed SIT30821 Certificate III in Commercial Cookery.</p></li>
+                                <li><p><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Must have completed SIT40521 Certificate IV in kitchen management.</p></li>
+                                <li><p><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Must have completed SIT50422 Diploma of Hospitality Management.</p></li>
                         <li>
                              <p> <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Complete the Pre-Training Review (PTR) and Language, Literacy, and Numeracy (LL&N) process;</p>
                         </li>
@@ -211,7 +212,7 @@
                                                            The handling of raw meat including beef, lamb, pork, poultry, seafood and shellfish are part of the course requirements requirement during the SIT30821 Certificate III in Commercial Cookery and the SIT40521 Certificate IV in Kitchen Management.
                                 <br>
                                                                <br>
-                                                           Students are required to undertake Work Placement and complete a minimum of 12 Complete Food Service Periods* which is completed as a core requirement during the SIT40521 Certificate IV in Kitchen Management.
+                                                           Students are required to undertake Work Placement and complete a minimum of 48 Complete Food Service Periods* which is completed as a core requirement during the SIT30821 Certificate III in Commercial Cookery.
                                 <br>
                                 <br>
                             Timetabled classes and Work Placement can include Morning’s and Evening’s, Work Placement can also include sessions on Weekends and Public Holidays which align to industry operational requirements.

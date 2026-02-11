@@ -75,7 +75,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="maintext">
-                        <h1>Empowering futures through education, many students success stories.</h1>
+                        <h1>Empowering futures through education, many student success stories.</h1>
                     </div>
                 </div>
                 <div class="col-md-6">
