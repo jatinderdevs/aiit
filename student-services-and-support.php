@@ -18,7 +18,7 @@
 <?php include_once('./includes/header.php') ?>
         <section class="headersection">
         <div class="container">
-            <h1 class="pageHeading">Student Services and support</h1>
+            <h1 class="pageHeading"> Student Support and Wellbeing Services</h1>
             <p><a href="">Home</a> / <a href="">Course Fees </a></p>
         </div>
     </section>  

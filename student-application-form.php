@@ -57,7 +57,7 @@
     </section>
 <section>
     <div class="underprocess">
-        <h2>Under processiong! </h2>
+        <h2>Under Processing! </h2>
         Please contact us via <a href="mailto:admissions@aiit.vic.edu.au" class="text-primary text-lowercase">admissions@aiit.vic.edu.au</a> for enrollments queries
     </div>
 

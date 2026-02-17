@@ -22,15 +22,15 @@
 
     <section class="headersection">
         <div class="container">
-            <h1 class="pageHeading">POLICY AND PROCEDURE </h1>
+            <h1 class="pageHeading">POLICY AND PROCEDURES </h1>
             <p><a href="">Home</a> / <a href="">about us</a></p>
         </div>
     </section>
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
-                <h1 class="heading">Policies</h1>
+            <div class="col-md-12">
+                
                 <div class="policiesList">
                     
                     <div class="policy">
@@ -190,22 +190,7 @@
                     </div>
                 </div>
         </div>
-        <div class="col-md-4">
-            <div class="policyinform">
-                    <p>If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at:</p>
-                    <br>
-                    <table class="table table-light">
-                        <tr>
-                            <th>Email</th>
-                            <td><p> info@aiit.vic.edu.au</p></td>
-                        </tr>
-                        <tr>
-                            <th>Address</th>
-                            <td><p> Level 13, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</p></td>
-                        </tr>
-                    </table>
-            </div>
-        </div>
+    
     </div>
 </section>
 
