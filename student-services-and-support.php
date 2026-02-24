@@ -11,6 +11,11 @@
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.aiit.edu.au/student-services-and-support.php">
     <?php include_once('./includes/links.php') ?>
+    <style>
+      #faq a{
+        text-transform: unset !important;
+      }
+    </style>
 </head>
 
 <body>
@@ -25,7 +30,7 @@
  
     <section id="faq">
             <div class="container">
-                <h2 class="heading">Student Services  </h2>
+                
                 <br>
               <div class="row">
                 <div class="col-md-12">
@@ -76,7 +81,7 @@
                       <div class="faq-quest">
                         <div class="questionBar">
                             <a data-toggle="collapse" href="#faq04" role="button" aria-expanded="false" aria-controls="collapseExample">
-                            Emergency Contact and welfare Services
+                            Emergency Contacts and Wellbeing Services
                             </a>
                             <i class="fa fa-plus" aria-hidden="true"></i>
                         </div>
@@ -326,23 +331,11 @@
                           </div>
                         </div>
                       </div>
-                      <div class="faq-quest">
-                        <div class="questionBar">
-                            <a data-toggle="collapse" href="#faq14" role="button" aria-expanded="false" aria-controls="collapseExample">
-                            Immigration Counselling
-                            </a>
-                            <i class="fa fa-plus" aria-hidden="true"></i>
-                        </div>
-                        <div class="collapse" id="faq14" data-parent="#accordion">
-                          <div class="answer">
-                          <p>It is very important for you to be aware of the Australian immigration regulations, which apply to you, and to follow the regulations. Please contact our international student coordinator or student service officer at the institute and they shall inform you about these regulations.</p>
-                          </div>
-                        </div>
-                      </div>
+               
                       <div class="faq-quest">
                         <div class="questionBar">
                             <a data-toggle="collapse" href="#faq15" role="button" aria-expanded="false" aria-controls="collapseExample">
-                            Airport pickup
+                            Airport Pickup
                             </a>
                             <i class="fa fa-plus" aria-hidden="true"></i>
                         </div>
@@ -409,11 +402,11 @@
                         <div class="collapse" id="faq18" data-parent="#accordion">
                           <div class="answer">
                           <ol class="px-3">
-                                <li><p>Students have the right to be provided with the Educational and Support Services as outlined in Australian International Institute of Technology’s Written Enrolment Agreement.</p></li>
+                                <li><p>Students have the right to be provided with the Educational and Support Services as outlined in Australian International Institute of Technology’s Student Written Enrolment Agreement.</p></li>
                                 <li><p>Students have the right to access all Australian International Institute of Technology’s services and facilities related to this course of study during the period of their enrolment.</p></li>
                                 <li><p>Students have the right to Complain and Appeal about any behaviour or decisions made by Australian International Institute of Technology that may affect the educational outcomes they are seeking.</p></li>
                                 <li><p>Students have the right to obtain a Refund for services not provided by Australian International Institute of Technology’s in case of Provider Default.</p></li>
-                                <li><p>Nothing in the Written Agreement removes the student’s rights to take action under Australian Consumer Law.</p></li>
+                                <li><p>Nothing in the Student Written Agreement removes the student’s rights to take action under Australian Consumer Law.</p></li>
                               </ol>
                           </div>
                         </div>
@@ -467,7 +460,7 @@
                       <div class="faq-quest">
                         <div class="questionBar">
                             <a data-toggle="collapse" href="#faq21" role="button" aria-expanded="false" aria-controls="collapseExample">
-                            Student Support Services
+                            Student Support, Wellbeing Services and Administration
                             </a>
                             <i class="fa fa-plus" aria-hidden="true"></i>
                         </div>

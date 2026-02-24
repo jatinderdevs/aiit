@@ -46,10 +46,7 @@
                             <a href="<?php echo BASE_PATH; ?>assets/forms-and-policies/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf"
                                 target="_blank">Student Application Form</a>
                         </li>
-                        <li>
-                            <a href="PDF/forms/AIIT_45485_FORM_Short_Course_Admissions_Application.pdf"
-                                target="_blank">Application Form - Short Courses</a>
-                        </li>
+                       
                         <li>
                             <a href="<?php echo BASE_PATH; ?>assets/forms-and-policies/forms/AIIT_45485_FORM_Agent_Application_RT.pdf"
                                 target="_blank">Agent

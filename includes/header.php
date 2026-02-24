@@ -2,8 +2,10 @@
     <div class="container-fluid">
         <div class="headerGrid">
             <div>
-                <p class="text-light"> <i class="fa fa-map-marker" aria-hidden="true"></i> Level 13, 401
-                    Docklands Drive, Docklands, Melbourne, VIC 3008</p>
+                <p class="text-light"> <i class="fa fa-map-marker" aria-hidden="true"></i>
+                <a href="https://maps.app.goo.gl/MnnjFhviK2tuoU8YA" target=_blank>
+                Level 13, 401
+                    Docklands Drive, Docklands, Melbourne, VIC 3008</a></p>
 
             </div>
             <div>

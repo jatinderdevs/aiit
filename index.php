@@ -227,7 +227,7 @@
     </section>
     <section class="testimonial">
         <div class="container">
-            <h1 class=" testiheading">What our student says</h1>
+            <h1 class="  heading">Testimonials </h1> 
             <div class="owl-carousel owl-theme " id="testimonials">
                 <div class="item">
                     <div class="testibox ">

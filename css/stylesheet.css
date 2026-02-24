@@ -1605,7 +1605,7 @@ address {
 }
 
 .btnGrid {
-  display: flex;
+  display: none;
   /* flex-wrap: wrap; */
   align-items: center;
   gap: 10px;
@@ -1620,6 +1620,9 @@ address {
     text-align: center;
   }
 
+  .bannerTxt {
+    margin-bottom: 20px;
+  }
   .headerGrid {
     grid-template-columns: auto;
   }
@@ -1699,7 +1702,9 @@ address {
   .gridStudents > div {
     padding: 20px;
   }
-
+  .btnGrid {
+    display: flex;
+  }
   .portalCard h4 {
     font-size: 1rem;
   }
