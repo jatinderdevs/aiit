@@ -1321,6 +1321,7 @@ address {
 .policy a {
   font-size: 14px;
   font-weight: bold;
+  text-transform: unset;
 }
 
 .policy::before {
