@@ -150,11 +150,11 @@
                         <h4>email</h4>
                         <div class="address">
                             <h3>General Enquiry</h3>
-                            <a href="" class="text-lowercase">info@aiit.vic.edu.au</a>
+                            <a href="mailto:info@aiit.edu.au" class="text-lowercase">info@aiit.edu.au</a>
                         </div>
                         <div class="address">
                             <h3>Admission & Enrollment Enquiry</h3>
-                            <a href="" class="text-lowercase">admissions@aiit.vic.edu.au</a>
+                            <a href="mailto:admissions@aiit.edu.au" class="text-lowercase">admissions@aiit.edu.au</a>
 
                         </div>
                         <div class="address">

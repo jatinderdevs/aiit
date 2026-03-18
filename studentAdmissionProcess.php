@@ -39,7 +39,7 @@
             <div class="stepInfo" >
                 <h3 style="background-color: var(--red); " >commence your Application</h3>
                 <p>
-                    Before you commence your Application, please ensure you have read the Pre-Enrolment Fact Sheet listing each of the course entry requirements and/or perquisites for admission to source your eligibility for your chosen course and field of study. To view each courses entry requirements please refer to our Courses Page of our corporate website https://www.aiit.vic.edu.au/courses.
+                    Before you commence your Application, please ensure you have read the Pre-Enrolment Fact Sheet listing each of the course entry requirements and/or perquisites for admission to source your eligibility for your chosen course and field of study. To view each courses entry requirements please refer to our Courses Page of our corporate website https://www.aiit.edu.au/courses.
                 </p>
             </div>
         </div>
@@ -85,7 +85,7 @@
             <div class="stepInfo">
                 <h3 style="background-color: var(--black);">supporting evidence</h3>
                 <p>
-                    The completed Application and certified supporting evidence, listed above, are to be sent to admissions@aiit.vic.edu.au for review and processing. Incomplete applications or documents which cannot be verified or authenticated will be rejected.
+                    The completed Application and certified supporting evidence, listed above, are to be sent to admissions@aiit.edu.au for review and processing. Incomplete applications or documents which cannot be verified or authenticated will be rejected.
                 </p>
          
             </div>

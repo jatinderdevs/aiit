@@ -9,8 +9,8 @@
 
             </div>
             <div>
-                <a href="mailto:info@aiit.vic.edu.au" class="text-lowercase"><i class="fa fa-envelope-o" aria-hidden="true"></i>
-                    info@aiit.vic.edu.au </a>
+                <a href="mailto:info@aiit.edu.au" class="text-lowercase"><i class="fa fa-envelope-o" aria-hidden="true"></i>
+                    info@aiit.edu.au </a>
             </div>
             <div>
                 <a href="callto:+61 3 96497691"><i class="fa fa-phone" aria-hidden="true"></i> +61 3 96497690</a>

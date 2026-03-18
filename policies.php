@@ -71,7 +71,7 @@
                      
                     <div class="policy">
                         <div>    
-                           <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Recognition_of_Prior_Learning_RT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Recognition of Prior Learning</a>
+                           <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Recognition_of_Prior_Learning_RT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Recognition of Prior Learning (RPL)</a>
                         </div>
                         <div>
                             <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Recognition_of_Prior_Learning_RT.pdf" target="_blank" class="btn btn-outline-danger btn-sm"> <i  class="fa fa-download" aria-hidden="true"></i>  Download</a>
@@ -98,7 +98,7 @@
                      
                     <div class="policy">
                         <div>    
-                           <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Deferment,_Suspension_or_Cancellation_of_Enrolment_RT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Deferment, Suspension,Withdrawal and Cancellation</a>
+                           <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Deferment,_Suspension_or_Cancellation_of_Enrolment_RT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Deferment, Suspension, Withdrawal and Cancellation</a>
                         </div>
                         <div>
                             <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Deferment,_Suspension_or_Cancellation_of_Enrolment_RT.pdf" target="_blank" class="btn btn-outline-danger btn-sm"> <i  class="fa fa-download" aria-hidden="true"></i>  Download</a>
@@ -107,7 +107,7 @@
                      
                     <div class="policy">
                         <div>    
-                           <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Student_Support_Services_RT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Student Support Services                           </a>
+                           <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Student_Support_Services_RT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Student Support and Wellbeing Services                         </a>
                         </div>
                         <div>
                             <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Student_Support_Services_RT.pdf" target="_blank" class="btn btn-outline-danger btn-sm"> <i  class="fa fa-download" aria-hidden="true"></i> Download</a>
@@ -182,7 +182,7 @@
                     </div>
                     <div class="policy">
                         <div>    
-                           <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Language,_Literacy,_and_Numeracy_RT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Language, Literacy, and Numeracy</a>
+                           <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Language,_Literacy,_and_Numeracy_RT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Language, Literacy, and Numeracy (LL&N)</a>
                         </div>
                         <div>
                             <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Language,_Literacy,_and_Numeracy_RT.pdf" target="_blank" class="btn btn-outline-danger btn-sm"> <i  class="fa fa-download" aria-hidden="true"></i> Download</a>
