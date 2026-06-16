@@ -82,7 +82,7 @@ agentData.forEach(agent => {
                     <div>
                    <p> <i class="fa fa-phone" aria-hidden="true"></i> ${agent['Agent Business Phone']}</p>
                         <p> <i class="fa fa-envelope-o" aria-hidden="true"></i> ${agent['Agent Email']}</p>
-                        <p> <a class="text-lowercase" href="http://${agent['website']}" target="_blank"> <i class="fa fa-globe" aria-hidden="true"></i> ${agent['website']}</a></p>
+                        <p> <a class="text-lowercase" href="${agent['website']}" target="_blank"> <i class="fa fa-globe" aria-hidden="true"></i> ${agent['website']}</a></p>
                        
                       
                     </div>

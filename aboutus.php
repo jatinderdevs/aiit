@@ -19,6 +19,7 @@
     <meta property="og:url" content="https://www.aiit.edu.au/courses/aboutus.php">
     <meta property="og:type" content="website">
     <?php include_once('./includes/links.php') ?>
+    
 </head>
 
 <body>
@@ -42,8 +43,8 @@
                         Australian International Institute of Technology is accredited and endorsed by the Department of Education and the National Regulator, Australian Skills Quality Authority (ASQA), and provides nationally recognised training products, qualifications, and accredited courses in the following disciplines:
                         </p>
 
-                        <ul class="row">
-                               <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
+                        <ul class="row ">
+                               <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a   href="<?php echo BASE_PATH; ?>courses.php">
                                   Carpentry and Joinery</a></li>
                                    <li class="col-sm-6"><img src="img/icons/check1.png" width="20px" alt=""><a href="<?php echo BASE_PATH; ?>courses.php">
                                  Building and Construction </a></li>

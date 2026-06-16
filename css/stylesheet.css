@@ -609,7 +609,7 @@ footer {
 
 .abouttxt a {
   color: var(--black);
-
+  text-transform: unset;
   font-weight: 500;
 }
 
@@ -1078,7 +1078,7 @@ address {
 
 .agenttxt h5 {
   font-weight: bolder;
-  text-transform: capitalize;
+  text-transform: unset;
 }
 
 .agenttxt ul {
@@ -1764,7 +1764,7 @@ address {
   }
 
   .cardAgent {
-    grid-template-columns: 20% 50% 30%;
+    grid-template-columns: 20% 45% 35%;
     text-align: unset;
   }
 
