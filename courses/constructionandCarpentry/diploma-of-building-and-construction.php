@@ -8,16 +8,16 @@
   <meta name="description" content="Study CPC50220 Diploma of Building and Construction (Building) at AIIT Melbourne. Advance your career in building management. Enroll now!">
   <meta name="keywords" content="Diploma Building Construction, building management course Melbourne, AIIT, construction training">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/building-construction/diploma-of-building-and-construction-building.php">
+  <link rel="canonical" href="https://www.aiit.edu.au/courses/building-construction/diploma-of-building-and-construction-building.php">
   <meta property="og:title" content="Diploma of Building and Construction (Building) | AIIT Melbourne">
   <meta property="og:description" content="Elevate your expertise with AIIT’s Diploma of Building and Construction (Building) in Melbourne. Pathway for aspiring builders. Apply today!">
-  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/building-construction-class.jpg">
-  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/building-construction/diploma-of-building-and-construction-building.php">
+  <meta property="og:image" content="https://www.aiit.edu.au/images/building-construction-class.jpg">
+  <meta property="og:url" content="https://www.aiit.edu.au/courses/building-construction/diploma-of-building-and-construction-building.php">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Diploma of Building and Construction (Building) | AIIT Melbourne">
   <meta name="twitter:description" content="Join AIIT Melbourne’s Diploma in Building and Construction to manage projects effectively. Hands-on leadership training!">
-  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/building-construction-class.jpg">
+  <meta name="twitter:image" content="https://www.aiit.edu.au/images/building-construction-class.jpg">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -27,7 +27,7 @@
     "provider": {
       "@type": "Organization",
       "name": "Australian International Institute of Technology",
-      "sameAs": "https://www.aiit.vic.edu.au/"
+      "sameAs": "https://www.aiit.edu.au/"
     },
     "offers": {
       "@type": "Offer",
@@ -40,7 +40,7 @@
       "name": "AIIT Melbourne",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive, Docklands",
+        "streetAddress": "Level 9, Suite 17, 401 Docklands Drive, Docklands",
         "addressLocality": "Melbourne",
         "addressRegion": "VIC",
         "postalCode": "3008",
@@ -126,7 +126,7 @@
                         <div class="campusCard">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>Level 13, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
+                            <strong>Level 9, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
                         </div>
                     </div>
                     <div class="col-md-6">

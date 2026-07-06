@@ -58,7 +58,7 @@
 <section>
     <div class="underprocess">
         <h2>Under Processing! </h2>
-        Please contact us via <a href="mailto:admissions@aiit.vic.edu.au" class="text-primary text-lowercase">admissions@aiit.vic.edu.au</a> for enrollments queries
+        Please contact us via <a href="mailto:admissions@aiit.edu.au" class="text-primary text-lowercase">admissions@aiit.edu.au</a> for enrollments queries
     </div>
 
     <div class="container">
@@ -258,7 +258,7 @@
                             <label class="form-check-label" for="accommodation_no">No</label>
                         </div>
                     </div>
-                    <p>Note: Please provide your flight details and any accommodation requirements to admin@aiit.vic.edu.au within a minimum of ten (10) working days’ notice.</p>
+                    <p>Note: Please provide your flight details and any accommodation requirements to admin@aiit.edu.au within a minimum of ten (10) working days’ notice.</p>
                 </div>
             </div>
 
@@ -322,7 +322,7 @@
                         <label for="usi_number">USI Number</label>
                         <input type="text" class="form-control" id="usi_number" name="usi_number">
                     </div>
-                    <p>If No, please apply for a USI via https://www.usi.gov.au/ and provide to admin@aiit.vic.edu.au.</p>
+                    <p>If No, please apply for a USI via https://www.usi.gov.au/ and provide to admin@aiit.edu.au.</p>
                 </div>
             </div>
 
@@ -620,7 +620,7 @@
                     <p>Why we collect your personal information - As a registered training organisation (RTO), we collect your personal information so we can process and manage your enrolment in a vocational education and training (VET) course with us.</p>
                     <p>How we use your personal information - We use your personal information to enable us to deliver VET courses to you, and otherwise, as needed, to comply with our obligations as a registered training organisation.</p>
                     <p>How we disclose your personal information - We are required by law (under “the National Vocational Education and Training Regulator Act 2011 (Cth) (NVETR Act)”) to disclose the personal information we collect about you to the National VET Data Collection kept by the “National Centre for Vocational Education Research Ltd (NCVER)”.</p>
-                    <p>For more information, refer to our Privacy policy at https://www.aiit.vic.edu.au/pol-pro and NCVER’s Privacy Policy at https://www.ncver.edu.au/privacy.</p>
+                    <p>For more information, refer to our Privacy policy at https://www.aiit.edu.au/pol-pro and NCVER’s Privacy Policy at https://www.ncver.edu.au/privacy.</p>
                 </div>
             </div>
 

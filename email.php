@@ -58,9 +58,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         try {
             // Server settings
             $mail->isSMTP();
-            $mail->Host = 'mail.aiit.vic.edu.au';
+            $mail->Host = 'mail.aiit.edu.au';
             $mail->SMTPAuth = true;
-            $mail->Username = 'website@aiit.vic.edu.au';
+            $mail->Username = 'website@aiit.edu.au';
             $mail->Password = 'AIIT@2025';
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
             $mail->Port = 587;
@@ -79,9 +79,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             );
 
             // Recipients
-            $mail->setFrom('website@aiit.vic.edu.au', 'AIIT Website');
+            $mail->setFrom('website@aiit.edu.au', 'AIIT Website');
             $mail->addAddress('jssingh134@gmail.com');
-            $mail->setFrom('website@aiit.vic.edu.au', 'AIIT Website');
+            $mail->setFrom('website@aiit.edu.au', 'AIIT Website');
 
             // Content
             $mail->isHTML(false);

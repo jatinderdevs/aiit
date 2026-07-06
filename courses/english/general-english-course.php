@@ -10,16 +10,16 @@
   <meta name="description" content="Study General English (Beginner to Advanced) at AIIT Docklands, Melbourne. Perfect for international students. Enroll now!">
   <meta name="keywords" content="General English course, English course Melbourne, AIIT, English language training">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/general-english">
+  <link rel="canonical" href="https://www.aiit.edu.au/courses/general-english">
   <meta property="og:title" content="General English (Beginner to Advanced) | AIIT Melbourne">
   <meta property="og:description" content="Learn English from beginner to advanced at AIIT in Docklands, Melbourne. Ideal for international students. Apply today!">
-  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/english-class.jpg">
-  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/general-english">
+  <meta property="og:image" content="https://www.aiit.edu.au/images/english-class.jpg">
+  <meta property="og:url" content="https://www.aiit.edu.au/courses/general-english">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="General English Course | AIIT Melbourne">
   <meta name="twitter:description" content="Join AIIT’s General English course in Docklands, Melbourne to improve your English skills. Enroll now!">
-  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/english-class.jpg">
+  <meta name="twitter:image" content="https://www.aiit.edu.au/images/english-class.jpg">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -29,7 +29,7 @@
     "provider": {
       "@type": "Organization",
       "name": "Australian International Institute of Technology",
-      "sameAs": "https://www.aiit.vic.edu.au/"
+      "sameAs": "https://www.aiit.edu.au/"
     },
     "offers": {
       "@type": "Offer",
@@ -42,7 +42,7 @@
       "name": "AIIT Docklands, Melbourne",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive",
+        "streetAddress": "Level 9, Suite 17, 401 Docklands Drive",
         "addressLocality": "Docklands, Melbourne",
         "addressRegion": "VIC",
         "postalCode": "3008",

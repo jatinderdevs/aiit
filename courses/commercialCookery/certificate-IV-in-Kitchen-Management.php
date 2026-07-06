@@ -42,7 +42,7 @@
       "name": "AIIT Docklands, Melbourne",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive",
+        "streetAddress": "Level 9, Suite 17, 401 Docklands Drive",
         "addressLocality": "Docklands, Melbourne",
         "addressRegion": "VIC",
         "postalCode": "3008",

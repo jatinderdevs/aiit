@@ -8,16 +8,16 @@
   <meta name="description" content="Study CPC30220 Certificate III in Carpentry at AIIT Melbourne. Gain trade skills in building and construction. Enroll now!">
   <meta name="keywords" content="Certificate III Carpentry, carpentry course Melbourne, AIIT, building construction training">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/carpentry/certificate-III-in-carpentry.php">
+  <link rel="canonical" href="https://www.aiit.edu.au/courses/carpentry/certificate-III-in-carpentry.php">
   <meta property="og:title" content="Certificate III in Carpentry | AIIT Melbourne">
   <meta property="og:description" content="Launch your career in carpentry with AIIT’s Certificate III in Carpentry in Melbourne. Hands-on training for builders. Apply today!">
-  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/carpentry-class.jpg">
-  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/carpentry/certificate-III-in-carpentry.php">
+  <meta property="og:image" content="https://www.aiit.edu.au/images/carpentry-class.jpg">
+  <meta property="og:url" content="https://www.aiit.edu.au/courses/carpentry/certificate-III-in-carpentry.php">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Certificate III in Carpentry | AIIT Melbourne">
   <meta name="twitter:description" content="Join AIIT Melbourne’s carpentry course to become a qualified carpenter. Practical skills in construction await!">
-  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/carpentry-class.jpg">
+  <meta name="twitter:image" content="https://www.aiit.edu.au/images/carpentry-class.jpg">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -27,7 +27,7 @@
     "provider": {
       "@type": "Organization",
       "name": "Australian International Institute of Technology",
-      "sameAs": "https://www.aiit.vic.edu.au/"
+      "sameAs": "https://www.aiit.edu.au/"
     },
     "offers": {
       "@type": "Offer",
@@ -40,7 +40,7 @@
       "name": "AIIT Melbourne",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive, Docklands",
+        "streetAddress": "Level 9, Suite 17, 401 Docklands Drive, Docklands",
         "addressLocality": "Melbourne",
         "addressRegion": "VIC",
         "postalCode": "3008",
@@ -126,7 +126,7 @@
                         <div class="campusCard">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>Level 13, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
+                            <strong>Level 9, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
                         </div>
                     </div>
                     <div class="col-md-6">

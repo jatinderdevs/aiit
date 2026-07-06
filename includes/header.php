@@ -4,8 +4,8 @@
             <div>
                 <p class="text-light"> <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <a href="https://maps.app.goo.gl/MnnjFhviK2tuoU8YA" target=_blank>
-                Level 13, 401
-                    Docklands Drive, Docklands, Melbourne, VIC 3008</a></p>
+                Level 09, 401
+                    Docklands Drive, Docklands, Melbourne, Victoria 3008</a></p>
 
             </div>
             <div>

@@ -10,16 +10,16 @@
   <meta name="description" content="Study Diploma of Leadership & Management at AIIT Melbourne. Build skills for success. Enroll today!">
   <meta name="keywords" content="Diploma Leadership Management, leadership course Melbourne, AIIT, management training">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/diploma-leadership-management">
+  <link rel="canonical" href="https://www.aiit.edu.au/courses/diploma-leadership-management">
   <meta property="og:title" content="Diploma of Leadership & Management | AIIT Melbourne">
   <meta property="og:description" content="Advance your career with AIIT’s Diploma of Leadership & Management in Melbourne. Apply now!">
-  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/leadership-class.jpg">
-  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/diploma-leadership-management">
+  <meta property="og:image" content="https://www.aiit.edu.au/images/leadership-class.jpg">
+  <meta property="og:url" content="https://www.aiit.edu.au/courses/diploma-leadership-management">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Diploma of Leadership & Management | AIIT Melbourne">
   <meta name="twitter:description" content="Join AIIT Melbourne’s leadership course to boost your management skills. Enroll now!">
-  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/leadership-class.jpg">
+  <meta name="twitter:image" content="https://www.aiit.edu.au/images/leadership-class.jpg">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -29,7 +29,7 @@
     "provider": {
       "@type": "Organization",
       "name": "Australian International Institute of Technology",
-      "sameAs": "https://www.aiit.vic.edu.au/"
+      "sameAs": "https://www.aiit.edu.au/"
     },
     "offers": {
       "@type": "Offer",
@@ -42,7 +42,7 @@
       "name": "AIIT Melbourne",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive, Docklands",
+        "streetAddress": "Level 9, Suite 17, 401 Docklands Drive, Docklands",
         "addressLocality": "Melbourne",
         "addressRegion": "VIC",
         "postalCode": "3000",
@@ -137,7 +137,7 @@
                         <div class="campusCard">
                             <i class="fa fa-location-arrow" aria-hidden="true"></i>
                             <br>
-                            <strong>Level 13, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
+                            <strong>Level 9, Suite 17, 401 Docklands Drive, Docklands, Melbourne, Victoria, Australia 3008</strong>
                         </div>
                     </div>
                     <div class="col-md-2"></div>                 

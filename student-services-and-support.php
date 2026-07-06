@@ -143,7 +143,7 @@
                                 Observations will be conducted in the student’s workplace and/or within Australian International Institute of Technology to assess practical skills and/or generic skills such as communication skills.
                                 The application is to be assessed by the qualified Trainer and Assessor and a decision made as to whether Recognition of Prior Learning (RPL) can be granted.
                                 <br>
-                                For further information, please refer to the Recognition of Prior Learning policy and procedure at: <a href="https://aiit.vic.edu.au/pol-pro/">https://aiit.vic.edu.au/pol-pro/</a> </p>
+                                For further information, please refer to the Recognition of Prior Learning policy and procedure at: <a href="https://aiit.edu.au/pol-pro/">https://aiit.edu.au/pol-pro/</a> </p>
                           </div>
                         </div>
                       </div>
@@ -179,7 +179,7 @@
                                     Approved student credit exemptions may modify the duration of the students’ course; all students will be advised of the expected duration that specifically applies to them.
                                     Students may use Australian International Institute of Technology’s appeal procedures if dissatisfied with the outcome of their application of Credit for prior studies within 10 days of receiving their outcome
                                     Finally, the granting of a course credit transfer exemptions may affect course tuition fees as well as the duration of the course and the student’s CoE.
-                                    For further information, please refer to the Credit Transfer policy and procedure at: <a href=" https://aiit.vic.edu.au/pol-pro/"> https://aiit.vic.edu.au/pol-pro/</a>
+                                    For further information, please refer to the Credit Transfer policy and procedure at: <a href=" https://aiit.edu.au/pol-pro/"> https://aiit.edu.au/pol-pro/</a>
                                   </p>
                           </div>
                         </div>
@@ -195,8 +195,8 @@
                         <div class="collapse" id="faq7" data-parent="#accordion">
                           <div class="answer">
                           <p>Students may be able to temporarily defer the commencement of their studies or suspend their enrolment after commencement on the grounds of compassionate or compelling circumstances.
-                                Australian International Institute of Technology will assess each case on its individual merits and will consider documentary evidence provided to support the claim. This application must be made in writing to Australian International Institute of Technology’s Administration; admin@aiit.vic.edu.au.
-                                For more information, please visit <a href="https://www.aiit.vic.edu.au/pol-pro">https://www.aiit.vic.edu.au/pol-pro</a></p>
+                                Australian International Institute of Technology will assess each case on its individual merits and will consider documentary evidence provided to support the claim. This application must be made in writing to Australian International Institute of Technology’s Administration; admin@aiit.edu.au.
+                                For more information, please visit <a href="https://www.aiit.edu.au/pol-pro">https://www.aiit.edu.au/pol-pro</a></p>
                           </div>
                         </div>
                       </div>
@@ -211,7 +211,7 @@
                         <div class="collapse" id="faq8" data-parent="#accordion">
                           <div class="answer">
                            <p>Students can choose to appeal any decision made by Australian International Institute of Technology in relation to refunds or any other issue in accordance with the Complaints and Appeals Policy and Procedures. <br>
-                           The Complaints and Appeals Policy and related procedure is available at <a href="https://www.aiit.vic.edu.au/pol-pro"> https://www.aiit.vic.edu.au/pol-pro</a></p>
+                           The Complaints and Appeals Policy and related procedure is available at <a href="https://www.aiit.edu.au/pol-pro"> https://www.aiit.edu.au/pol-pro</a></p>
                           </div>
                         </div>
                       </div>
@@ -442,7 +442,7 @@
                           <div class="answer">
                           <p>
                           Refund of the fees will only be granted in accordance with Australian International Institute of Technology’s Refund Policy.
-                          Any student applying for a refund must submit the request in writing to Australian International Institute of Technology via refund@aiit.vic.edu.au
+                          Any student applying for a refund must submit the request in writing to Australian International Institute of Technology via refund@aiit.edu.au
                           <br>
                           Australian International Institute of Technology considers the Enrolment Agreement to be an unsolicited contract in terms of Australian Consumer Law (ACL). Refer to <a href="https://consumerlaw.gov.au/australian-consumer-law/legislation"> https://consumerlaw.gov.au/australian-consumer-law/legislation</a>
                           <br>
@@ -452,7 +452,7 @@
                           Australian International Institute of Technology has a responsibility to protect the fees paid by students in advance of their training and assessment services being delivered.
                           <br>
                           For more information on how to access the Tuition Protection Service (TPS) please visit <a href="https://tps.gov.au/Home"> https://tps.gov.au/Home</a>
-                          For more information, please visit Australian International Institute of Technology’s website  <a href="https://www.aiit.vic.edu.au/pol-pro">  https://www.aiit.vic.edu.au/pol-pro </a>
+                          For more information, please visit Australian International Institute of Technology’s website  <a href="https://www.aiit.edu.au/pol-pro">  https://www.aiit.edu.au/pol-pro </a>
                           </p>
                           </div>
                         </div>

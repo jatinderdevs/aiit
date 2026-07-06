@@ -211,7 +211,7 @@
   const anchors=document.querySelectorAll('table a');
   console.log(anchors);
   anchors.forEach(a => {
-      a.setAttribute("href","mailto:admissions@aiit.vic.edu.au")   
+      a.setAttribute("href","mailto:admissions@aiit.edu.au")   
   });
  
 </script>

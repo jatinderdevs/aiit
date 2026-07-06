@@ -10,16 +10,16 @@
   <meta name="description" content="Study BSB60420 Advanced Diploma of Leadership & Management at AIIT Docklands, Melbourne. Lead with expertise. Enroll now!">
   <meta name="keywords" content="Advanced Diploma Leadership Management, leadership course Melbourne, AIIT, advanced management training">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.aiit.vic.edu.au/courses/advanced-diploma-leadership-management">
+  <link rel="canonical" href="https://www.aiit.edu.au/courses/advanced-diploma-leadership-management">
   <meta property="og:title" content="BSB60420 Advanced Diploma of Leadership & Management | AIIT Melbourne">
   <meta property="og:description" content="Elevate your career with AIIT’s Advanced Diploma of Leadership & Management in Docklands, Melbourne. Apply today!">
-  <meta property="og:image" content="https://www.aiit.vic.edu.au/images/advanced-leadership-class.jpg">
-  <meta property="og:url" content="https://www.aiit.vic.edu.au/courses/advanced-diploma-leadership-management">
+  <meta property="og:image" content="https://www.aiit.edu.au/images/advanced-leadership-class.jpg">
+  <meta property="og:url" content="https://www.aiit.edu.au/courses/advanced-diploma-leadership-management">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Advanced Diploma of Leadership & Management | AIIT Melbourne">
   <meta name="twitter:description" content="Join AIIT’s Advanced Diploma of Leadership & Management in Docklands, Melbourne to excel in leadership. Enroll now!">
-  <meta name="twitter:image" content="https://www.aiit.vic.edu.au/images/advanced-leadership-class.jpg">
+  <meta name="twitter:image" content="https://www.aiit.edu.au/images/advanced-leadership-class.jpg">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -29,7 +29,7 @@
     "provider": {
       "@type": "Organization",
       "name": "Australian International Institute of Technology",
-      "sameAs": "https://www.aiit.vic.edu.au/"
+      "sameAs": "https://www.aiit.edu.au/"
     },
     "offers": {
       "@type": "Offer",
@@ -42,7 +42,7 @@
       "name": "AIIT Docklands, Melbourne",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Level 13, Suite 17, 401 Docklands Drive",
+        "streetAddress": "Level 9, Suite 17, 401 Docklands Drive",
         "addressLocality": "Docklands, Melbourne",
         "addressRegion": "VIC",
         "postalCode": "3008",
