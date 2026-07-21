@@ -32,7 +32,15 @@
             <div class="col-md-12">
                 
                 <div class="policiesList">
-                    
+                 <div class="policy">
+                        <div>    
+                           <a href="assets/forms-and-policies/policy/AIIT_45485_Privacy_Notice.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Privcy Notice</a>
+                        </div>
+                        <div>
+                            <a href="assets/forms-and-policies/policy/AIIT_45485_Privacy_Notice.pdf" target="_blank" class="btn btn-outline-danger btn-sm"> <i  class="fa fa-download" aria-hidden="true"></i>  Download</a>
+                        </div>
+                    </div>    
+
                     <div class="policy">
                         <div>    
                            <a href="assets/forms-and-policies/policy/AIIT_45485_POL_Assessment_RT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Assessment</a>
