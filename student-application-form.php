@@ -56,10 +56,20 @@
         </div>
     </section>
 <section>
-    <div class="underprocess">
-        <h2>Under Processing! </h2>
-        Please contact us via <a href="mailto:admissions@aiit.edu.au" class="text-primary text-lowercase">admissions@aiit.edu.au</a> for enrollments queries
-    </div>
+<?php include_once('./includes/header.php') ?>
+<iframe style="border:none;width:100%;" id="student-admission-form-jpdcek" src="https://opnform.com/forms/student-admission-form-jpdcek"></iframe><script src="https://opnform.com/widgets/opnform-sdk.min.js"></script>
+<script>
+  // Optional: example for demonstration — remove or replace with your own handlers
+  // SDK auto-resizes iframe by default.
+  
+  opnform.on('submit', function(data) {
+    console.log('Form submitted:', data);
+  });
+  
+  // More SDK methods: opnform.get('student-admission-form-jpdcek').setField(id, value)
+  // Docs: https://docs.opnform.com/embedding/javascript-sdk
+</script>
+
 
     <div class="container">
         <h1 class="text-center"></h1>

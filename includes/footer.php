@@ -3,7 +3,7 @@
 </div> -->
 
 <footer>
-    
+
     <div class="container">
         <div class="row">
             <div class="col-md-3">
@@ -46,7 +46,7 @@
                             <a href="<?php echo BASE_PATH; ?>assets/forms-and-policies/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf"
                                 target="_blank">Student Application Form</a>
                         </li>
-                       
+
                         <li>
                             <a href="<?php echo BASE_PATH; ?>assets/forms-and-policies/forms/AIIT_45485_FORM_Agent_Application_RT.pdf"
                                 target="_blank">Agent
@@ -88,10 +88,10 @@
     </div>
 </footer>
 <!-- Welcome / New Courses Popup -->
-<div id="welcomePopup" class="welcome-popup" style="display:none;">
-   <div class="popup-content">
+<!-- <div id="welcomePopup" class="welcome-popup" style="display:none;">
+    <div class="popup-content">
         <button class="popup-close" aria-label="Close">×</button>
-        
+
         <div class="popup-header">
             <h2>Welcome to Our Website</h2>
             <p class="tagline">We are Excited to introduce new trades programs </p>
@@ -99,76 +99,76 @@
 
         <div class="popup-body">
             <a href="courses/constructionandCarpentry/certificate-iii-in-carpentry.php">
-            <div class="course-highlight modern-card">
-                <div class="icon-circle">
-                    <img src="img/courses/carpentry.gif" class="img-fluid" alt="">
+                <div class="course-highlight modern-card">
+                    <div class="icon-circle">
+                        <img src="img/courses/carpentry.gif" class="img-fluid" alt="">
+                    </div>
+                    <h3>CPC30326 Certificate III in Carpentry</h3>
+                    <p class="status">Now available • CRICOS 119819B</p>
+                    <ul class="feature-list">
+                        <li>Hands-on training in formwork, framing, roofing & finishing</li>
+                        <li>Work-ready skills for residential & commercial construction</li>
+                        <li>Pathway to Diploma of Building & Construction</li>
+                    </ul>
                 </div>
-                <h3>CPC30220 Certificate III in Carpentry</h3>
-                <p class="status">Now available • CRICOS 119819B</p>
-                <ul class="feature-list">
-                    <li>Hands-on training in formwork, framing, roofing & finishing</li>
-                    <li>Work-ready skills for residential & commercial construction</li>
-                    <li>Pathway to Diploma of Building & Construction</li>
-                </ul>
-            </div>
-</a>
+            </a>
 
-<a href="courses/constructionandCarpentry/diploma-of-building-and-construction.php">
-            <div class="course-highlight modern-card">
-                <div class="icon-circle">
-                    <img src="img/courses/cons.gif" class="img-fluid" alt="">
+            <a href="courses/constructionandCarpentry/diploma-of-building-and-construction.php">
+                <div class="course-highlight modern-card">
+                    <div class="icon-circle">
+                        <img src="img/courses/cons.gif" class="img-fluid" alt="">
 
+                    </div>
+                    <h3>CPC50220 Diploma of Building and Construction (Building)</h3>
+                    <p class="status">Now available • CRICOS 119820J</p>
+                    <ul class="feature-list">
+                        <li>Project management, building codes & site supervision skills</li>
+                        <li>Ideal for leading teams & managing medium-large projects</li>
+                        <li>Strong employment outcomes in Australia's construction boom</li>
+                    </ul>
                 </div>
-                <h3>CPC50220 Diploma of Building and Construction (Building)</h3>
-                <p class="status">Now available • CRICOS 119820J</p>
-                <ul class="feature-list">
-                    <li>Project management, building codes & site supervision skills</li>
-                    <li>Ideal for leading teams & managing medium-large projects</li>
-                    <li>Strong employment outcomes in Australia's construction boom</li>
-                </ul>
+        </div>
+        <a href="">
+            <div class="popup-footer">
+                <a href="<?php echo BASE_PATH; ?>courses.php" class="btnCstm">want more details?</a>
+                <button class="btnCstm  short close-popup">Got it, thanks!</button>
             </div>
-        </div>
-<a href="">
-        <div class="popup-footer">
-            <a href="<?php echo BASE_PATH; ?>courses.php" class="btnCstm">want more details?</a>
-            <button class="btnCstm  short close-popup">Got it, thanks!</button>
-        </div>
     </div>
-</div>
+</div> -->
 
 
 
-<script>
-// Show popup only on first visit
-document.addEventListener('DOMContentLoaded', function () {
-    const popup = document.getElementById('welcomePopup');
-    const closeButtons = document.querySelectorAll('.close-popup, .popup-close');
+<!-- <script>
+    // Show popup only on first visit
+    document.addEventListener('DOMContentLoaded', function() {
+        const popup = document.getElementById('welcomePopup');
+        const closeButtons = document.querySelectorAll('.close-popup, .popup-close');
 
-    // Check if user has seen popup before
-    if (!localStorage.getItem('aiitWelcomeSeen')) {
-      setTimeout(() => {
-            popup.classList.add('show');
-        }, 1200); // slight delay after page load
-    }
-  
-    // Close popup & remember
-    function closePopup() {
-        popup.classList.remove('show');
-        localStorage.setItem('aiitWelcomeSeen', 'true');
-    }
-
-    closeButtons.forEach(btn => {
-        btn.addEventListener('click', closePopup);
-    });
-
-    // Close when clicking outside content
-    popup.addEventListener('click', function(e) {
-        if (e.target === popup) {
-            closePopup();
+        // Check if user has seen popup before
+        if (!localStorage.getItem('aiitWelcomeSeen')) {
+            setTimeout(() => {
+                popup.classList.add('show');
+            }, 1200); // slight delay after page load
         }
+
+        // Close popup & remember
+        function closePopup() {
+            popup.classList.remove('show');
+            localStorage.setItem('aiitWelcomeSeen', 'true');
+        }
+
+        closeButtons.forEach(btn => {
+            btn.addEventListener('click', closePopup);
+        });
+
+        // Close when clicking outside content
+        popup.addEventListener('click', function(e) {
+            if (e.target === popup) {
+                closePopup();
+            }
+        });
     });
-});
-</script>
+</script> -->
 <div class="footbar">
     <div class="container">
         <p class="text-light text-center"> &copy; <span id="year"></span> Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust
@@ -190,123 +190,123 @@ document.addEventListener('DOMContentLoaded', function () {
 <script src="<?php echo BASE_PATH; ?>js/owl.carousel.js"></script>
 <script src="<?php echo BASE_PATH; ?>js/navigation.js"></script>
 <script>
-const year = document.querySelector('#year');
-const date = new Date();
+    const year = document.querySelector('#year');
+    const date = new Date();
 
 
-year.innerHTML = date.getFullYear();
+    year.innerHTML = date.getFullYear();
 </script>
 <script>
-//nav droop down
-//nav droop down
-const studentinformation = document.querySelector('.studentinformation');
+    //nav droop down
+    //nav droop down
+    const studentinformation = document.querySelector('.studentinformation');
 
-studentinformation.style.display = "none";
+    studentinformation.style.display = "none";
 
 
-function showdrop(btn) {
-    btn.childNodes[1].style.color = "#f7a30a";
+    function showdrop(btn) {
+        btn.childNodes[1].style.color = "#f7a30a";
 
-    if (studentinformation.style.height == "auto") {
-        studentinformation.style.height = "0px";
-        studentinformation.style.padding = "0px";
-        studentinformation.style.overflow = "hidden";
-        studentinformation.style.display = "none";
+        if (studentinformation.style.height == "auto") {
+            studentinformation.style.height = "0px";
+            studentinformation.style.padding = "0px";
+            studentinformation.style.overflow = "hidden";
+            studentinformation.style.display = "none";
 
-        //studentinformation.style.opacity="0";
-        btn.childNodes[1].style.color = "#333"
-    } else {
-        studentinformation.style.opacity = "1";
-        studentinformation.style.padding = "30px 0";
-        studentinformation.style.display = "block";
+            //studentinformation.style.opacity="0";
+            btn.childNodes[1].style.color = "#333"
+        } else {
+            studentinformation.style.opacity = "1";
+            studentinformation.style.padding = "30px 0";
+            studentinformation.style.display = "block";
 
-        studentinformation.style.height = "auto";
+            studentinformation.style.height = "auto";
 
-    }
-
-}
-$('#banner').owlCarousel({
-    loop: true,
-    margin: 0,
-    autoplay: true,
-    autoplayTimeout: 2500,
-
-    animateOut: 'fadeOut',
-    responsive: {
-        0: {
-            items: 1
-        },
-        600: {
-            items: 1
-        },
-        1000: {
-            items: 1
         }
+
     }
-})
-$('#testimonials').owlCarousel({
-    loop: true,
-    margin: 0,
-    autoplay: false,
-    autoplayTimeout: 3500,
-    autoplayHoverPause: true,
-    dots: true,
-    animateOut: "animate__animated animate__slideOutDown",
-    // animateIn: "animate__animated animate__flipInX",
-    items: 1,
+    $('#banner').owlCarousel({
+        loop: true,
+        margin: 0,
+        autoplay: true,
+        autoplayTimeout: 2500,
 
-})
-
-var courseOwl = $('#courses').owlCarousel({
-    loop: true,
-    margin: 20,
-    stagePadding: 50,
-    autoplay: true,
-    autoplayTimeout: 1500,
-    autoplayHoverPause: true,
-    responsive: {
-        0: {
-            items: 1
-        },
-        600: {
-            items: 2
-        },
-        1000: {
-            items: 3
+        animateOut: 'fadeOut',
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 1
+            },
+            1000: {
+                items: 1
+            }
         }
-    }
-});
+    })
+    $('#testimonials').owlCarousel({
+        loop: true,
+        margin: 0,
+        autoplay: false,
+        autoplayTimeout: 3500,
+        autoplayHoverPause: true,
+        dots: true,
+        animateOut: "animate__animated animate__slideOutDown",
+        // animateIn: "animate__animated animate__flipInX",
+        items: 1,
 
+    })
 
-var owl = $('.ourpartners').owlCarousel({
-    loop: true,
-    margin: 20,
-    stagePadding: 50,
-    autoplay: true,
-    autoplayTimeout: 1500,
-    dots: false,
-
-
-    responsive: {
-        0: {
-            items: 2
-        },
-        600: {
-            items: 3
-        },
-        1000: {
-            items: 5
+    var courseOwl = $('#courses').owlCarousel({
+        loop: true,
+        margin: 20,
+        stagePadding: 50,
+        autoplay: true,
+        autoplayTimeout: 1500,
+        autoplayHoverPause: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 2
+            },
+            1000: {
+                items: 3
+            }
         }
-    }
-});
-owl.on('mousewheel', '.owl-stage', function(e) {
-    if (e.deltaY > 0) {
-        owl.trigger('next.owl');
-    } else {
-        owl.trigger('prev.owl');
-    }
-    e.preventDefault();
-});
+    });
+
+
+    var owl = $('.ourpartners').owlCarousel({
+        loop: true,
+        margin: 20,
+        stagePadding: 50,
+        autoplay: true,
+        autoplayTimeout: 1500,
+        dots: false,
+
+
+        responsive: {
+            0: {
+                items: 2
+            },
+            600: {
+                items: 3
+            },
+            1000: {
+                items: 5
+            }
+        }
+    });
+    owl.on('mousewheel', '.owl-stage', function(e) {
+        if (e.deltaY > 0) {
+            owl.trigger('next.owl');
+        } else {
+            owl.trigger('prev.owl');
+        }
+        e.preventDefault();
+    });
 </script>
 <!-- carousal settings -->
 <!-- Swiper JS -->
@@ -314,56 +314,56 @@ owl.on('mousewheel', '.owl-stage', function(e) {
 
 <!-- Initialize Swiper -->
 <script>
-var swiper = new Swiper("#vertCarousal", {
-    direction: "vertical",
-    autoplay: {
-        delay: 2500,
-        disableOnInteraction: false,
-    },
-    pagination: {
-        el: ".swiper-pagination",
-        clickable: true,
-    },
-});
+    var swiper = new Swiper("#vertCarousal", {
+        direction: "vertical",
+        autoplay: {
+            delay: 2500,
+            disableOnInteraction: false,
+        },
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+    });
 </script>
 
 <script>
-var swiper = new Swiper("#courseCard", {
-    effect: "coverflow",
-    grabCursor: true,
-    centeredSlides: true,
-    slidesPerView: "auto",
-    coverflowEffect: {
-        rotate: 50,
-        stretch: 0,
-        depth: 100,
-        modifier: 1,
-        slideShadows: true,
-    },
-    pagination: {
-        el: ".swiper-pagination",
-    },
-});
+    var swiper = new Swiper("#courseCard", {
+        effect: "coverflow",
+        grabCursor: true,
+        centeredSlides: true,
+        slidesPerView: "auto",
+        coverflowEffect: {
+            rotate: 50,
+            stretch: 0,
+            depth: 100,
+            modifier: 1,
+            slideShadows: true,
+        },
+        pagination: {
+            el: ".swiper-pagination",
+        },
+    });
 </script>
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
-var Tawk_API = Tawk_API || {},
-    Tawk_LoadStart = new Date();
-(function() {
-    var s1 = document.createElement("script"),
-        s0 = document.getElementsByTagName("script")[0];
-    s1.async = true;
-    s1.src = 'https://embed.tawk.to/6799afd53a84273260769046/1iio5dmmu';
-    s1.charset = 'UTF-8';
-    s1.setAttribute('crossorigin', '*');
-    s0.parentNode.insertBefore(s1, s0);
-})();
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/6799afd53a84273260769046/1iio5dmmu';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
 </script>
 
 <script>
-    const applyNowBtn= document.querySelector(".highlight>a");
+    const applyNowBtn = document.querySelector(".highlight>a");
 
-    applyNowBtn.setAttribute("href","<?php echo BASE_PATH; ?>assets/forms-and-policies/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf")
+    applyNowBtn.setAttribute("href", "<?php echo BASE_PATH; ?>assets/forms-and-policies/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf")
 </script>
 <!--End of Tawk.to Script-->
 </body>

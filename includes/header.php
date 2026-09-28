@@ -3,9 +3,10 @@
         <div class="headerGrid">
             <div>
                 <p class="text-light"> <i class="fa fa-map-marker" aria-hidden="true"></i>
-                <a href="https://maps.app.goo.gl/MnnjFhviK2tuoU8YA" target=_blank>
-                Level 09, 401
-                    Docklands Drive, Docklands, Melbourne, Victoria 3008</a></p>
+                    <a href="https://maps.app.goo.gl/MnnjFhviK2tuoU8YA" target=_blank>
+                        Level 09, 401
+                        Docklands Drive, Docklands, Melbourne, Victoria 3008</a>
+                </p>
 
             </div>
             <div>
@@ -18,7 +19,7 @@
             <div class="headerGridBtn">
                 <a class="btn btn-sm btn-light text-dark" href="https://aiit-vic-lms.moodlecloud.com/login/index.php">
                     <img src="<?php echo BASE_PATH; ?>img/icons/Moodle_Icon.png" width="70px" alt=""></a>
-                <a href="callto:+61 3 96497691" class="btn text-dark btn-sm btn-light"><img src="img/icons/submit.png"
+                <a href="<?php echo BASE_PATH; ?>student-application-form.php" class="btn text-dark btn-sm btn-light"><img src="img/icons/submit.png"
                         alt=""> apply
                     online</a>
             </div>
@@ -101,12 +102,12 @@
                                     </li>
 
                                     <li class="col-sm-6">
-                                        <a href="student-application-form.php"><i class="fa fa-globe"
+                                        <a href="<?php echo BASE_PATH; ?>student-application-form.php"><i class="fa fa-globe"
                                                 aria-hidden="true"></i> Student Online Application Form</a>
                                     </li>
                                     <li class="col-sm-6">
                                         <a
-                                            href="assets/forms-and-policies/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf">
+                                            href="<?php echo BASE_PATH; ?>assets/forms-and-policies/forms/AIIT_45485_FORM_Admissions_Application_RT.pdf">
                                             <b class="text-dark" style="filter: brightness(0.5);"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
                                                 Student PDF Application Form</b> </a>
                                     </li>

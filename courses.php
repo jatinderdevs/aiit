@@ -52,7 +52,7 @@
                                 <img src="img/courses/car.webp" class="img-fluid" alt="">
                             </div>
                             <div class="cardText">
-                                <small class="badge badge-danger">CPC30220 </small><br>
+                                <small class="badge badge-danger">CPC30326 </small><br>
                                 <h4> Certificate III in Carpentry <br></h4>
                             </div>
                         </div>
@@ -277,29 +277,29 @@
     </section>
     <?php include_once('./includes/footer.php') ?>
     <script>
-    const courseCards = document.querySelectorAll('.col-6');
+        const courseCards = document.querySelectorAll('.col-6');
 
-    //show all courses default
-    function showAllCourses() {
-        courseCards.forEach(card => {
-            card.style.display = "block";
-        });
-    }
-    //course classname represent  coursename to filter and it should be same class name and coursename to filter
-    function filterCourse(courseName) {
-        const filterCourses = document.querySelectorAll(`.${courseName}`);
-        courseCards.forEach(card => {
-            card.style.display = "none";
-        });
+        //show all courses default
+        function showAllCourses() {
+            courseCards.forEach(card => {
+                card.style.display = "block";
+            });
+        }
+        //course classname represent  coursename to filter and it should be same class name and coursename to filter
+        function filterCourse(courseName) {
+            const filterCourses = document.querySelectorAll(`.${courseName}`);
+            courseCards.forEach(card => {
+                card.style.display = "none";
+            });
 
-        filterCourses.forEach(element => {
-            const isCourseExist = element.classList.value.includes(courseName);
-            if (isCourseExist) {
-                element.style.display = "block";
-            }
-        });
+            filterCourses.forEach(element => {
+                const isCourseExist = element.classList.value.includes(courseName);
+                if (isCourseExist) {
+                    element.style.display = "block";
+                }
+            });
 
-    }
+        }
     </script>
     <!-- cooking course filter -->
     <!-- <script>
