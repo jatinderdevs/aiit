@@ -1,136 +1,287 @@
 [
-    {
-      "unitCode": "SITHCCC023",
-      "unitTitle": "Use food preparation equipment",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Core"
-    },
-    {
-      "unitCode": "SITHCCC027",
-      "unitTitle": "Prepare dishes using basic methods of cookery",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Core"
-    },
-    {
-      "unitCode": "SITHCCC028",
-      "unitTitle": "Prepare appetisers and salads",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Core"
-    },
-    {
-      "unitCode": "SITHCCC029",
-      "unitTitle": "Prepare stocks, sauces and soups",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Core"
-    },
-    {
-      "unitCode": "SITHCCC030",
-      "unitTitle": "Prepare vegetable, fruits, eggs and farinaceous dishes",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety",
-        "SITHCCC027 - Prepare dishes using basic methods of cookery"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Core"
-    },
-    {
-      "unitCode": "SITHCCC031",
-      "unitTitle": "Prepare vegetarian and vegan dishes",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety",
-        "SITHCCC027 - Prepare dishes using basic methods of cookery"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Core"
-    },
-    {
-      "unitCode": "SITHCCC035",
-      "unitTitle": "Prepare poultry dishes",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety",
-        "SITHCCC027 - Prepare dishes using basic methods of cookery"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Core"
-    },
-    {
-      "unitCode": "SITHCCC036",
-      "unitTitle": "Prepare meat dishes",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety",
-        "SITHCCC027 - Prepare dishes using basic methods of cookery"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Core"
-    },
-    {
-      "unitCode": "SITHCCC037",
-      "unitTitle": "Prepare seafood dishes",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety",
-        "SITHCCC027 - Prepare dishes using basic methods of cookery"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Core"
-    },
-    {
-      "unitCode": "SITHCCC038",
-      "unitTitle": "Produce and serve food for buffets",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety",
-        "SITHCCC027 - Prepare dishes using basic methods of cookery"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Elective (Group A)"
-    },
-    {
-      "unitCode": "SITHCCC040",
-      "unitTitle": "Prepare and serve cheese",
-      "prerequisite": [
-        "SITXFSA005 - Use hygienic practices for food safety"
-      ],
-      "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
-      "type": "Elective (Group A)"
-    },
-    {
-      "unitCode": "SITHKOP014",
-      "unitTitle": "Plan catering for events or functions",
-      "prerequisite": [],
-      "notes": "",
-      "type": "Elective (Group A)"
-    },
-    {
-        "unitCode": "BSBTWK501",
-        "unitTitle": "Lead diversity and incursion",
-        "prerequisite": [],
-        "notes": "",
-        "type": "Elective"
-      },
-      {
-        "unitCode": "SITXCCS015",
-        "unitTitle": "Enhance customer service experiences",
-        "prerequisite": [],
-        "notes": "",
-        "type": "Elective"
-      },
-      {
-        "unitCode": "SITXWHS006",
-        "unitTitle": "Identify hazards, assess and control safety risks",
-        "prerequisite": [],
-        "notes": "",
-        "type": "Elective"
-      }
-  ]
-  
+  {
+    "unitCode": "SITHCCC023",
+    "unitTitle": "Use food preparation equipment",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC027",
+    "unitTitle": "Prepare dishes using basic methods of cookery",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC028",
+    "unitTitle": "Prepare appetisers and salads",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC029",
+    "unitTitle": "Prepare stocks, sauces and soups",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC030",
+    "unitTitle": "Prepare vegetable, fruits, eggs and farinaceous dishes",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety",
+      "SITHCCC027 - Prepare dishes using basic methods of cookery"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC031",
+    "unitTitle": "Prepare vegetarian and vegan dishes",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety",
+      "SITHCCC027 - Prepare dishes using basic methods of cookery"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC035",
+    "unitTitle": "Prepare poultry dishes",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety",
+      "SITHCCC027 - Prepare dishes using basic methods of cookery"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC036",
+    "unitTitle": "Prepare meat dishes",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety",
+      "SITHCCC027 - Prepare dishes using basic methods of cookery"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC037",
+    "unitTitle": "Prepare seafood dishes",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety",
+      "SITHCCC027 - Prepare dishes using basic methods of cookery"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC041",
+    "unitTitle": "Produce cakes, pastries and breads",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC042",
+    "unitTitle": "Prepare food to meet special dietary requirements",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety",
+      "SITHCCC027 - Prepare dishes using basic methods of cookery"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC043",
+    "unitTitle": "Work effectively as a cook",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety",
+      "SITHCCC027 - Prepare dishes using basic methods of cookery"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 - Certificate III in Commercial Cookery.\nWork-Integrated Learning, Work Placements and Community-Based Learning Unit of Competency requiring completion in an industry workplace or simulated environment.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHKOP010",
+    "unitTitle": "Plan and cost recipes",
+    "prerequisite": [],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHKOP012",
+    "unitTitle": "Develop recipes for special dietary requirements",
+    "prerequisite": [
+      "SITHCCC027 - Prepare dishes using basic methods of cookery",
+      "SITHCCC042 - Prepare food to meet special dietary requirements",
+      "SITHKOP010 - Plan and cost recipes",
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHKOP013",
+    "unitTitle": "Plan cooking operations",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHKOP015",
+    "unitTitle": "Design and cost menus",
+    "prerequisite": [
+      "SITHKOP010 - Plan and cost recipes"
+    ],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHPAT016",
+    "unitTitle": "Produce desserts",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITXCOM010",
+    "unitTitle": "Manage conflict",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITXFIN009",
+    "unitTitle": "Manage finances within a budget",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITXFSA005",
+    "unitTitle": "Use hygienic practices for food safety",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITXFSA006",
+    "unitTitle": "Participate in safe food handling practices",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITXFSA008",
+    "unitTitle": "Develop and implement a food safety program",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety",
+      "SITXFSA006 - Participate in safe food handling practices"
+    ],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITXHRM008",
+    "unitTitle": "Roster staff",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITXHRM009",
+    "unitTitle": "Lead and manage people",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITXINV006",
+    "unitTitle": "Receive, store and maintain stock",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITXMGT004",
+    "unitTitle": "Monitor work operations",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITXWHS007",
+    "unitTitle": "Implement and monitor work health and safety practices",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Core"
+  },
+  {
+    "unitCode": "SITHCCC038",
+    "unitTitle": "Produce and serve food for buffets",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety",
+      "SITHCCC027 - Prepare dishes using basic methods of cookery"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Elective (Group A)"
+  },
+  {
+    "unitCode": "SITHCCC040",
+    "unitTitle": "Prepare and serve cheese",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "This unit is not delivered in this qualification. Students wishing to gain direct entry must demonstrate competency in this unit or undertake the SIT30821 Certificate III in Commercial Cookery.",
+    "type": "Elective (Group A)"
+  },
+  {
+    "unitCode": "SITHKOP011",
+    "unitTitle": "Plan and implement service of buffets",
+    "prerequisite": [
+      "SITXFSA005 - Use hygienic practices for food safety"
+    ],
+    "notes": "",
+    "type": "Elective (Group A)"
+  },
+  {
+    "unitCode": "BSBTWK501",
+    "unitTitle": "Lead diversity and inclusion",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Elective"
+  },
+  {
+    "unitCode": "SITXCCS015",
+    "unitTitle": "Enhance customer service experiences",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Elective"
+  },
+  {
+    "unitCode": "SITXWHS006",
+    "unitTitle": "Identify hazards, assess and control safety risks",
+    "prerequisite": [],
+    "notes": "",
+    "type": "Elective"
+  }
+]

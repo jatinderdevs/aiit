@@ -171,13 +171,12 @@
 </script> -->
 <div class="footbar">
     <div class="container">
-        <p class="text-light text-center"> &copy; <span id="year"></span> Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust
+        <p class="text-light text-center small mb-1"> &copy; <span id="year"></span> Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust
             T/A
             Australian
             International Institute of Technology.
             (Established 2017)</p>
-        <p class="m-0  text-center">Made with <span class="text-danger"> ♥ </span> in Melbourne by <a class="text-secondary"
-                traget="_blank" href="https://www.jatinderdev.com/">jatinderdev</a></p>
+        <p class="text-white text-center">Designed and developed by <a href="https://slashkode.com.au" class="text-primary" target="_blank" rel="noopener">Slashkode</a></p>
     </div>
 
 </div>
